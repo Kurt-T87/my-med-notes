@@ -1,7 +1,10 @@
 # BC Papers Index
 
-| Published | Journal | Title | Link | Sync Date |
+| IF | Published | Journal | Title | Link |
 | --- | --- | --- | --- | --- |
+| 65.4 | 2026-03-01 | Annals of oncology : official journal of the European Society for Medical Oncology | Tucatinib and trastuzumab emtansine for patients with previously treated HER2-positive locally advanced and metastatic breast cancer: primary analysis of the randomized phase III trial HER2CLIMB-02. | [[41260264]] |
+| 44.5 | 2026-02-09 | Cancer cell | Enhancing therapeutic outcomes with artificial intelligence for HR-positive, HER2-negative metastatic breast cancer. | [[41666874]] |
+| 44.5 | 2026-02-09 | Cancer cell | Precision treatment with artificial intelligence assisted subtyping enhances therapeutic efficacy in HR+/HER2- breast cancer: The LINUXtrial. | [[41349543]] |
 | 2026-Mar-08 | Zhonghua bing li xue za zhi = Chinese journal of pathology | [Correlation of STAT6 and HER2-low expression with clinicopathological features and prognosis in triple negative breast cancer]. | [[41795987]] | 2026-03-10 |
 | 2026-Mar-08 | Zhonghua bing li xue za zhi = Chinese journal of pathology | [FGFR1 mRNA expression in different molecular subtypes of breast cancer]. | [[41795985]] | 2026-03-10 |
 | 2026-Mar-01 | JCO clinical cancer informatics | Analysis of Large Language Model Decision Making in Hormone Receptor-Positive/Human Epidermal Growth Factor Receptor 2-Negative Early Breast Cancer. | [[41791000]] | 2026-03-10 |
