@@ -5,7 +5,7 @@ if: 5.6
 published: "2026-02-16"
 doi: "10.1007/s10549-026-07912-w"
 pmid: 41697438
-zotero_link: "zotero://select/items/0_GAUX2GKC"
+zotero_link: "zotero://select/items/0_NI72FZA2"
 tags: #BC #HR+HER2- #HighIF #Zotero
 sync_date: 2026-03-10
 ---
@@ -14,7 +14,7 @@ sync_date: 2026-03-10
 - **Journal**: Breast cancer research and treatment (**IF: 5.6**)
 - **Published**: 2026-02-16 | **PMID**: 41697438
 - **DOI**: [10.1007/s10549-026-07912-w](https://doi.org/10.1007/s10549-026-07912-w)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GAUX2GKC)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_NI72FZA2)
 
 ## Abstract
 Hormone receptor-positive (HR+), HER2-negative breast cancer represents the most common subtype of breast cancer and is characterized by a risk of late recurrence. Neoadjuvant endocrine therapy with aromatase inhibitors (AIs) is a well-tolerated option in postmenopausal women; however, strategies to enhance its efficacy are needed. Combination of AI with immunotherapy is a promising approach. We evaluated the efficacy and safety of combining an AI with the anti-program death ligand 1 antibody durvalumab in the neoadjuvant setting.

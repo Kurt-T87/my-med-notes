@@ -5,7 +5,7 @@ if: 65.4
 published: "2026-03-01"
 doi: "10.1016/j.annonc.2025.11.005"
 pmid: 41260264
-zotero_link: "zotero://select/items/0_HSKJEQNW"
+zotero_link: "zotero://select/items/0_VTAJ6HQ3"
 tags: #BC #HR+HER2- #HighIF #Zotero
 sync_date: 2026-03-10
 ---
@@ -14,7 +14,7 @@ sync_date: 2026-03-10
 - **Journal**: Annals of oncology : official journal of the European Society for Medical Oncology (**IF: 65.4**)
 - **Published**: 2026-03-01 | **PMID**: 41260264
 - **DOI**: [10.1016/j.annonc.2025.11.005](https://doi.org/10.1016/j.annonc.2025.11.005)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HSKJEQNW)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VTAJ6HQ3)
 
 ## Abstract
 Trastuzumab emtansine (T-DM1) is a standard treatment option in patients with previously treated human epidermal growth factor receptor 2 (HER2)-positive locally advanced or metastatic breast cancer (LA/MBC). Here, we report the efficacy and safety of tucatinib in combination with T-DM1 compared with T-DM1 alone from the phase III HER2CLIMB-02 study (NCT03975647).

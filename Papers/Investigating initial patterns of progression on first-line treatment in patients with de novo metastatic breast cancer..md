@@ -5,7 +5,7 @@ if: 5.6
 published: "2026-02-21"
 doi: "10.1007/s10549-026-07933-5"
 pmid: 41721913
-zotero_link: "zotero://select/items/0_FPX4A4UJ"
+zotero_link: "zotero://select/items/0_PUGJTKSQ"
 tags: #BC #HR+HER2- #HighIF #Zotero
 sync_date: 2026-03-10
 ---
@@ -14,7 +14,7 @@ sync_date: 2026-03-10
 - **Journal**: Breast cancer research and treatment (**IF: 5.6**)
 - **Published**: 2026-02-21 | **PMID**: 41721913
 - **DOI**: [10.1007/s10549-026-07933-5](https://doi.org/10.1007/s10549-026-07933-5)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FPX4A4UJ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_PUGJTKSQ)
 
 ## Abstract
 De novo metastatic breast cancer (dnMBC), defined as stage IV disease at initial diagnosis, comprises 6-10% of all metastatic breast cancer cases. Despite therapeutic advances, the unique clinical course of dnMBC remains underexplored, particularly with regard to patterns of first treatment failure and the potential role of metastasis-directed therapy (MDT). This study investigated patterns of treatment failure in patients with dnMBC treated with first line systemic therapy to understand how to better direct local therapies.

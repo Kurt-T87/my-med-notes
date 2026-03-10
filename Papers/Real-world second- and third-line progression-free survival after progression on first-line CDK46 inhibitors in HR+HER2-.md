@@ -5,7 +5,7 @@ if: 5.6
 published: "2026-02-28"
 doi: "10.1007/s10549-026-07931-7"
 pmid: 41762297
-zotero_link: "zotero://select/items/0_2D8XA4V2"
+zotero_link: "zotero://select/items/0_HRM6EJZQ"
 tags: #BC #HR+HER2- #HighIF #Zotero
 sync_date: 2026-03-10
 ---
@@ -14,7 +14,7 @@ sync_date: 2026-03-10
 - **Journal**: Breast cancer research and treatment (**IF: 5.6**)
 - **Published**: 2026-02-28 | **PMID**: 41762297
 - **DOI**: [10.1007/s10549-026-07931-7](https://doi.org/10.1007/s10549-026-07931-7)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_2D8XA4V2)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HRM6EJZQ)
 
 ## Abstract
 Estrogen receptor-positive (ER+), HER2-negative (HER2-) metastatic breast cancer (MBC) shows variable outcomes after first-line CDK4/6 inhibitors (CDK4/6i) plus endocrine therapy (ET). The prognostic role of PAM50 intrinsic subtypes (IS) in this setting remains unestablished. We evaluated IS and biomarker profiles in the SOLTI-1801 CDK-PREDICT cohort, focusing on real-world second- and third-line progression-free survival (rwPFS-2L and rwPFS-3L).

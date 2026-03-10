@@ -5,7 +5,7 @@ if: 44.5
 published: "2026-02-09"
 doi: "10.1016/j.ccell.2026.01.004"
 pmid: 41666874
-zotero_link: "zotero://select/items/0_KZ5BA7XE"
+zotero_link: "zotero://select/items/0_8BMIPZ3G"
 tags: #BC #HR+HER2- #HighIF #Zotero
 sync_date: 2026-03-10
 ---
@@ -14,7 +14,7 @@ sync_date: 2026-03-10
 - **Journal**: Cancer cell (**IF: 44.5**)
 - **Published**: 2026-02-09 | **PMID**: 41666874
 - **DOI**: [10.1016/j.ccell.2026.01.004](https://doi.org/10.1016/j.ccell.2026.01.004)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KZ5BA7XE)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8BMIPZ3G)
 
 ## Abstract
 Cyclin-dependent kinase 4/6 inhibitors (CDK4/6i) are an integral first-line treatment for hormone receptor-positive metastatic breast cancer, though resistance eventually develops. In this issue of Cancer Cell, Fan et al. report results from LINUX, a randomized phase 2 trial applying an artificial intelligence digital pathology classification system to guide therapy after CDK4/6i progression.
