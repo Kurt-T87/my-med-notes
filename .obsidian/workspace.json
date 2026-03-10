@@ -11,10 +11,14 @@
             "id": "f463a22a20fc127e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BC_Papers_Index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "BC_Papers_Index"
             }
           }
         ]
@@ -209,6 +213,12 @@
   },
   "active": "f463a22a20fc127e",
   "lastOpenFiles": [
+    "Papers/41762297.md",
+    "Papers/41721913.md",
+    "Papers/41697438.md",
+    "Papers/41666874.md",
+    "Papers/41349543.md",
+    "Papers/41260264.md",
     "BC_Papers_Index.md",
     "PubMed-Papers/Papers/41260264.md",
     "pubmed_to_obsidian.py",
@@ -217,7 +227,6 @@
     "Papers/41795985.md",
     "Papers/41791000.md",
     "Papers/41773376.md",
-    "Papers/41762297.md",
     "Papers/41760005.md",
     "Papers/41752108.md",
     "Papers/41745704.md",
@@ -225,17 +234,12 @@
     "Papers/41742776.md",
     "Papers/41731833.md",
     "Papers/41731206.md",
-    "Papers/41721913.md",
     "Papers/41714320.md",
     "Papers/41713143.md",
     "Papers/41711467.md",
     "Papers/41710088.md",
     "Papers/41701617.md",
-    "Papers/41697438.md",
     "Papers/41691539.md",
-    "Papers/41690003.md",
-    "Papers/41689305.md",
-    "Papers/41670928.md",
     "Papers",
     "PubMed-Papers/pubmed_to_obsidian.py",
     "PubMed-Papers/Papers",

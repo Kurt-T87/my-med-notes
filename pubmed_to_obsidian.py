@@ -7,7 +7,7 @@ from datetime import datetime
 EMAIL = "duanwenqiang1227@gmail.com" 
 SEARCH_QUERY = '("Breast Neoplasms"[Mesh]) AND ("HR positive" OR "HR+") AND ("HER2 negative" OR "HER2-")'
 
-# 基于 DOCX 提取的期刊及其 IF 映射 (包含简称和全称)
+# 期刊及其 IF 映射
 JOURNAL_IF_MAP = {
     "CA: A Cancer Journal for Clinicians": "232.4",
     "Nature Reviews Clinical Oncology": "82.2",
@@ -25,7 +25,6 @@ JOURNAL_IF_MAP = {
     "npj Breast Cancer": "7.6",
     "Breast Cancer Research": "5.6",
     "Breast Cancer Research and Treatment": "4.9",
-    # 别名/简称处理
     "Annals of oncology : official journal of the European Society for Medical Oncology": "65.4",
     "Journal of clinical oncology : official journal of the American Society of Clinical Oncology": "41.9",
     "The Lancet. Oncology": "35.9",
@@ -35,10 +34,8 @@ JOURNAL_IF_MAP = {
 
 def fetch_papers():
     Entrez.email = EMAIL
-    # 构造搜索词，限定只搜索这 16 本期刊
     journal_terms = " OR ".join([f'"{j}"[Journal]' for j in JOURNAL_IF_MAP.keys()])
     full_query = f"({SEARCH_QUERY}) AND ({journal_terms})"
-    
     handle = Entrez.esearch(db="pubmed", term=full_query, reldate=30, datetype="pdat")
     record = Entrez.read(handle)
     id_list = record["IdList"]
@@ -48,7 +45,6 @@ def fetch_papers():
     return papers['PubmedArticle']
 
 def parse_date(pub_date_data):
-    # 统一日期格式为 YYYY-MM-DD
     year = pub_date_data.get('Year', 'Unknown')
     month_map = {
         'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04', 'May': '05', 'Jun': '06',
@@ -57,12 +53,15 @@ def parse_date(pub_date_data):
     month = pub_date_data.get('Month', '01')
     if month in month_map: month = month_map[month]
     day = pub_date_data.get('Day', '01')
-    # 处理可能出现的非数字情况
-    if not re.match(r'^\d+$', month): month = '01'
-    if not re.match(r'^\d+$', day): day = '01'
-    
+    if not re.match(r'^\d+$', str(month)): month = '01'
+    if not re.match(r'^\d+$', str(day)): day = '01'
     if year == 'Unknown': return "Unknown"
-    return f"{year}-{month.zfill(2)}-{day.zfill(2)}"
+    return f"{year}-{str(month).zfill(2)}-{str(day).zfill(2)}"
+
+def clean_filename(title):
+    # 移除非法字符，保留空格，缩短长度
+    title = re.sub(r'[\\/*?:"<>|]', "", title)
+    return title[:120] # 防止文件名过长
 
 def format_to_md(article):
     medline = article['MedlineCitation']
@@ -70,7 +69,6 @@ def format_to_md(article):
     title = article_data['ArticleTitle']
     journal = article_data.get('Journal', {}).get('Title', 'Unknown')
     
-    # 获取 IF
     if_value = "N/A"
     for j_name, if_val in JOURNAL_IF_MAP.items():
         if j_name.lower() in journal.lower():
@@ -85,13 +83,17 @@ def format_to_md(article):
     if 'Abstract' in article_data:
         abstract_text = "\n".join(article_data['Abstract']['AbstractText'])
     
-    filename = f"Papers/{medline['PMID']}.md"
+    # 使用标题命名
+    safe_title = clean_filename(title)
+    filename = f"Papers/{safe_title}.md"
+    
     content = f"""---
 title: "{title}"
 journal: "{journal}"
 if: {if_value}
 published: "{pub_date_str}"
 doi: "{doi}"
+pmid: {medline['PMID']}
 tags: #BC #HR+HER2- #HighIF
 sync_date: {datetime.now().strftime('%Y-%m-%d')}
 ---
@@ -99,6 +101,7 @@ sync_date: {datetime.now().strftime('%Y-%m-%d')}
 
 - **Journal**: {journal} (**IF: {if_value}**)
 - **Published**: {pub_date_str}
+- **PMID**: {medline['PMID']}
 - **DOI**: [{doi}](https://doi.org/{doi})
 
 ## Abstract
@@ -106,56 +109,41 @@ sync_date: {datetime.now().strftime('%Y-%m-%d')}
 """
     return filename, content, {
         "pmid": medline['PMID'], 
-        "title": title, 
+        "title": safe_title, # 使用安全标题
+        "full_title": title,
         "journal": journal, 
         "if": if_value,
-        "pub_date": pub_date_str,
-        "sync_date": datetime.now().strftime('%Y-%m-%d')
+        "pub_date": pub_date_str
     }
 
-def update_index(new_papers_info):
+def update_index(all_papers):
     index_file = "BC_Papers_Index.md"
-    # 表头新增 IF 列，日期格式统一 YYYY-MM-DD
-    header = "# BC Papers Index\n\n| IF | Published | Journal | Title | Link |\n| --- | --- | --- | --- | --- |\n"
+    # 表头新增 No. 序列号列
+    header = "# BC Papers Index\n\n| No. | IF | Published | Journal | Title | Link |\n| --- | --- | --- | --- | --- | --- |\n"
     
-    existing_entries = []
-    if os.path.exists(index_file):
-        with open(index_file, "r", encoding="utf-8") as f:
-            lines = f.readlines()
-            # 兼容旧表头（跳过前 4 行）
-            existing_entries = lines[4:]
-
-    new_entries = []
-    for info in new_papers_info:
-        line = f"| {info['if']} | {info['pub_date']} | {info['journal']} | {info['title']} | [[{info['pmid']}]] |\n"
-        # 避免完全重复
-        if not any(info['pmid'] in e for e in existing_entries):
-            new_entries.append(line)
-
+    # 按 IF 排序
+    all_papers.sort(key=lambda x: float(x['if']) if x['if'] != 'N/A' else 0, reverse=True)
+    
     with open(index_file, "w", encoding="utf-8") as f:
         f.write(header)
-        # 按 IF 从高到低排序显示新论文
-        new_entries.sort(key=lambda x: float(x.split('|')[1].strip()) if x.split('|')[1].strip() != 'N/A' else 0, reverse=True)
-        for line in new_entries:
-            f.write(line)
-        for line in existing_entries:
+        for idx, info in enumerate(all_papers, 1):
+            line = f"| {idx} | {info['if']} | {info['pub_date']} | {info['journal']} | {info['full_title']} | [[{info['title']}]] |\n"
             f.write(line)
 
 if __name__ == "__main__":
     if not os.path.exists("Papers"): os.makedirs("Papers")
     papers = fetch_papers()
-    print(f"Found {len(papers)} papers from target journals.")
+    print(f"Found {len(papers)} papers.")
     
-    new_papers_info = []
+    all_current_info = []
     for p in papers:
         result = format_to_md(p)
         if result:
             fname, text, info = result
-            # 总是覆盖以更新 IF 和日期格式
             with open(fname, "w", encoding="utf-8") as f:
                 f.write(text)
-            new_papers_info.append(info)
+            all_current_info.append(info)
     
-    if new_papers_info:
-        update_index(new_papers_info)
-        print(f"Index updated with {len(new_papers_info)} papers.")
+    if all_current_info:
+        update_index(all_current_info)
+        print(f"Index updated with {len(all_current_info)} papers.")
