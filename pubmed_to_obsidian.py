@@ -8,6 +8,7 @@ from pyzotero import zotero
 # --- 配置区 ---
 EMAIL = "duanwenqiang1227@gmail.com" 
 SEARCH_QUERY = '("Breast Neoplasms"[Mesh]) AND ("HR positive" OR "HR+") AND ("HER2 negative" OR "HER2-")'
+ZOTERO_COLLECTION_NAME = "医学信息订阅"
 
 # 从环境变量读取 Zotero 凭证 (GitHub Secrets)
 ZOTERO_USER_ID = os.environ.get('ZOTERO_USER_ID')
@@ -37,6 +38,19 @@ JOURNAL_IF_MAP = {
     "Breast cancer research : BCR": "5.6",
     "Breast cancer research and treatment": "4.9"
 }
+
+def get_or_create_collection(zot, name):
+    # 获取或创建指定名称的分类
+    collections = zot.collections()
+    for col in collections:
+        if col['data']['name'] == name:
+            return col['key']
+    
+    # 不存在则创建
+    resp = zot.create_collections([{'name': name}])
+    if resp['successful']:
+        return resp['successful']['0']['key']
+    return None
 
 def fetch_papers():
     Entrez.email = EMAIL
@@ -68,10 +82,18 @@ def sync_to_zotero(title, journal, doi, pmid):
         return None
     zot = zotero.Zotero(ZOTERO_USER_ID, 'user', ZOTERO_API_KEY)
     
+    # 获取/创建分类文件夹
+    col_key = get_or_create_collection(zot, ZOTERO_COLLECTION_NAME)
+    
     # 检查是否已存在 (通过 DOI)
     search_results = zot.everything(zot.items(q=doi))
     if search_results:
-        return search_results[0]['key']
+        item = search_results[0]
+        # 如果已存在但在不同分类，则加入分类
+        if col_key and col_key not in item['data'].get('collections', []):
+            item['data']['collections'].append(col_key)
+            zot.update_item(item)
+        return item['key']
     
     # 创建新条目
     template = zot.item_template('journalArticle')
@@ -79,6 +101,8 @@ def sync_to_zotero(title, journal, doi, pmid):
     template['publicationTitle'] = journal
     template['DOI'] = doi
     template['extra'] = f"PMID: {pmid}"
+    if col_key:
+        template['collections'] = [col_key]
     
     resp = zot.create_items([template])
     if resp['successful']:
@@ -106,7 +130,7 @@ def format_to_md(article):
     if 'Abstract' in article_data:
         abstract_text = "\n".join(article_data['Abstract']['AbstractText'])
     
-    # 同步到 Zotero
+    # 同步到 Zotero 
     zotero_key = sync_to_zotero(title, journal, doi, medline['PMID'])
     zotero_link = f"zotero://select/items/0_{zotero_key}" if zotero_key else "Not Synced"
 
@@ -172,4 +196,4 @@ if __name__ == "__main__":
     
     if all_current_info:
         update_index(all_current_info)
-        print(f"Index updated with {len(all_current_info)} papers and synced to Zotero.")
+        print(f"Index updated with {len(all_current_info)} papers and synced to Zotero collection '{ZOTERO_COLLECTION_NAME}'.")
