@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "b479c6472a733631",
+    "type": "split",
+    "children": [
+      {
+        "id": "31ba34a7f48af6b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f463a22a20fc127e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d6e58399ae779e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "515cc18755836a1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b11a15bd7adfb758",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e77acc7303bfc5c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3d8fed97ef70bff3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "86384b2f81bff036",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8014146b678c76ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "b68ab9c5d9bc4f2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae5dc7ac50d4ec51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "冯道/冯道.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "冯道 的反向链接列表"
+            }
+          },
+          {
+            "id": "000b19ff33caa68f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "冯道/冯道.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "冯道 的出链列表"
+            }
+          },
+          {
+            "id": "ac3da15868c52a0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "218de5e012727f1d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d37048ff07b05a60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "冯道/冯道.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "冯道 的大纲"
+            }
+          },
+          {
+            "id": "8d744cdce7d22089",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b11a15bd7adfb758",
+  "lastOpenFiles": [
+    "pubmed_to_obsidian.py",
+    "README.md",
+    "Papers/41795987.md",
+    "Papers/41795985.md",
+    "Papers/41791000.md",
+    "Papers/41773376.md",
+    "Papers/41762297.md",
+    "Papers/41760005.md",
+    "Papers/41752108.md",
+    "Papers/41745704.md",
+    "Papers/41744845.md",
+    "Papers/41742776.md",
+    "Papers/41731833.md",
+    "Papers/41731206.md",
+    "Papers/41721913.md",
+    "Papers/41714320.md",
+    "Papers/41713143.md",
+    "Papers/41711467.md",
+    "Papers/41710088.md",
+    "Papers/41701617.md",
+    "Papers/41697438.md",
+    "Papers/41691539.md",
+    "Papers/41690003.md",
+    "Papers/41689305.md",
+    "Papers/41670928.md",
+    "Papers/41666874.md",
+    "Papers",
+    "PubMed-Papers/pubmed_to_obsidian.py",
+    "PubMed-Papers/Papers",
+    "PubMed-Papers",
+    "瑞波西利干眼症",
+    "冯道/冯道生平时间轴.canvas",
+    "Podcasts",
+    "gemini-scribe/Agent-Sessions",
+    "gemini-scribe/Prompts",
+    "gemini-scribe",
+    "冯道/论文/从对冯道的评价看宋代气节观念的嬗变-路育松.pdf",
+    "红书/第一章配图.png",
+    "红书/Pasted image 20260219175625.png",
+    "红书/Pasted image 20260219175608.png",
+    "未命名.canvas",
+    "Pasted image 20260210234509.png",
+    "Pasted image 20260210234604.png",
+    "Pasted image 20260210234551.png",
+    "YBCC2/1770695029798-＜35 岁.png",
+    "YBCC2/ofs.png",
+    "YBCC2/1770695164162-＜35.jpg",
+    "YBCC2/流行病学.jpg",
+    "YBCC2 导图.canvas",
+    "导图.canvas"
+  ]
+}

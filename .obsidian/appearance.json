@@ -1,0 +1,16 @@
+{
+  "showRibbon": true,
+  "showViewHeader": true,
+  "cssTheme": "Blue Topaz",
+  "nativeMenus": false,
+  "translucency": true,
+  "accentColor": "#5900ff",
+  "interfaceFontFamily": "Arial",
+  "enabledCssSnippets": [
+    "kanban-rainbow",
+    "未命名",
+    "看板颜色"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 16
+}

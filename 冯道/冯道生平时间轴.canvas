@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"node_birth","type":"text","text":"### 882年：出生与早年\n- 瀛州景城人，少纯厚，好学善属文。\n- “负米奉亲之外，惟以披诵吟讽为事”。","x":0,"y":0,"width":300,"height":200,"color":"4"},
+		{"id":"node_yan","type":"text","text":"### 天祐中：燕王时期\n- 效力于**刘守光**。\n- 因谏阻伐中山入狱，后获救归太原，被张承业重用。","x":350,"y":0,"width":300,"height":150},
+		{"id":"node_tang","type":"text","text":"### 923-936：后唐时期\n- **庄宗**：任翰林学士，开始显贵。\n- **明宗**：正式拜相（端明殿学士自此始）。\n- 以持重镇俗为己任，开始展现其政治生存智慧。","x":700,"y":0,"width":300,"height":200,"color":"6"},
+		{"id":"node_jin","type":"text","text":"### 936-947：后晋时期\n- **石敬瑭**：首相，封鲁国公。\n- 出使契丹，面对耶律德光毫无难色，表现出极高的适应性。","x":1050,"y":0,"width":300,"height":200,"color":"2"},
+		{"id":"node_liao","type":"text","text":"### 947：契丹陷汴\n- 面对耶律德光：\n  - 问：\"天下百姓，如何救得？\"\n  - 答：\"**唯佛救得**。\"\n- 利用其\"人格面具\"保护士民。","x":1400,"y":0,"width":300,"height":200,"color":"1"},
+		{"id":"node_han","type":"text","text":"### 947-950：后汉时期\n- 汉祖嘉其德，拜守太师。\n- 乾祐三年（950年）撰写著名的《长乐老自叙》。","x":1750,"y":0,"width":300,"height":200},
+		{"id":"node_zhou","type":"text","text":"### 951-954：后周时期\n- **郭威**：复拜太师、中书令。\n- **柴荣**：谏阻其亲征北汉，受冷遇。\n- 显德元年（954年）山陵礼毕后病逝，追封瀛王，谥文懿。","x":2100,"y":0,"width":300,"height":200,"color":"5"},
+		{"id":"node_eval_early","type":"text","text":"### 五代-宋初：务实宽容阶段\n- **核心观点**：肯定其\"安养人民\"、\"保全文化\"的功绩。\n- **关键词**：功能主义、原始儒家、从道不从君。\n- **代表人物**：\n  - **范质**：\"屹若巨山，不可转也。\"\n  - **胡瑗**：\"生民不至肝脑涂地者，道有力焉。\"","x":0,"y":350,"width":400,"height":233,"color":"4"},
+		{"id":"node_eval_mid","type":"text","text":"### 北宋中期：道德审判阶段\n- **核心观点**：提出\"不知廉耻\"，将其作为反面典型以重塑忠君观。\n- **关键词**：绝对忠诚、史料剪裁、死事一主。\n- **代表人物**：\n  - **欧阳修**：\"无廉耻者\"。通过删减善行完成名誉谋杀。\n  - **司马光**：\"奸臣之尤\"。强调\"臣之事君，有死无贰\"。","x":550,"y":350,"width":390,"height":270,"color":"2"},
+		{"id":"node_eval_late","type":"text","text":"### 南宋及以后：彻底妖魔化\n- **核心观点**：将忠君上升到\"天理\"高度，冯道沦为\"贰臣\"符号。\n- **关键词**：民族危机、理学教条、汉奸论。\n- **代表人物**：\n  - **朱熹**：\"气节消缩今无几\"。\n  - **王夫之**：骂其为\"衣冠禽兽\"。","x":1100,"y":350,"width":400,"height":270,"color":"1"},
+		{"id":"node_eval_alt","type":"text","text":"### 另类视角：异见与翻案\n- **核心观点**：认为其本质是舍名保民的菩萨行。\n- **关键词**：社稷为重、安人、面具解耦。\n- **代表人物**：\n  - **王安石**：\"能屈身以安人，如诸佛菩萨行。\"\n  - **李贽**：\"务安养之力也。\"","x":1650,"y":350,"width":400,"height":270,"color":"3"},
+		{"id":"node_eval_jung","type":"text","text":"### 现代视角：荣格心理分析\n- **核心观点**：极致的\"人格面具\"运用与自我解耦。\n- **分析要点**：\n  - 成功的面具与社会预期的契合。\n  - 面具与灵魂的解耦：\"三不欺\"心理屏障。\n  - 对职场生存与职业操守的现代启示。","x":2150,"y":350,"width":400,"height":220,"color":"6"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"node_birth","fromSide":"right","toNode":"node_yan","toSide":"left"},
+		{"id":"e2","fromNode":"node_yan","fromSide":"right","toNode":"node_tang","toSide":"left"},
+		{"id":"e3","fromNode":"node_tang","fromSide":"right","toNode":"node_jin","toSide":"left"},
+		{"id":"e4","fromNode":"node_jin","fromSide":"right","toNode":"node_liao","toSide":"left"},
+		{"id":"e5","fromNode":"node_liao","fromSide":"right","toNode":"node_han","toSide":"left"},
+		{"id":"e6","fromNode":"node_han","fromSide":"right","toNode":"node_zhou","toSide":"left"},
+		{"id":"e_link_1","fromNode":"node_eval_early","fromSide":"right","toNode":"node_eval_mid","toSide":"left","label":"评价急转直下"},
+		{"id":"e_link_2","fromNode":"node_eval_mid","fromSide":"right","toNode":"node_eval_late","toSide":"left","label":"理学化/民族化"},
+		{"id":"e_link_3","fromNode":"node_eval_late","fromSide":"bottom","toNode":"node_eval_alt","toSide":"bottom","toEnd":"none","label":"异见对比"},
+		{"id":"e_link_4","fromNode":"node_zhou","fromSide":"bottom","toNode":"node_eval_early","toSide":"top","label":"后世议论始"}
+	]
+}
