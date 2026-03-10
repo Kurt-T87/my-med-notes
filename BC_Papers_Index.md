@@ -2,6 +2,26 @@
 
 | Published | Journal | Title | Link | Sync Date |
 | --- | --- | --- | --- | --- |
+| 2026-Mar-08 | Zhonghua bing li xue za zhi = Chinese journal of pathology | [Correlation of STAT6 and HER2-low expression with clinicopathological features and prognosis in triple negative breast cancer]. | [[41795987]] | 2026-03-10 |
+| 2026-Mar-08 | Zhonghua bing li xue za zhi = Chinese journal of pathology | [FGFR1 mRNA expression in different molecular subtypes of breast cancer]. | [[41795985]] | 2026-03-10 |
+| 2026-Mar-01 | JCO clinical cancer informatics | Analysis of Large Language Model Decision Making in Hormone Receptor-Positive/Human Epidermal Growth Factor Receptor 2-Negative Early Breast Cancer. | [[41791000]] | 2026-03-10 |
+| 2026-01-01 | La Clinica terapeutica | The Role of Ki-67 in Predicting Breast Cancer Survival in Indonesia: A Prospective Cohort Study. | [[41773376]] | 2026-03-10 |
+| 2026-Feb-28 | Breast cancer research and treatment | Real-world second- and third-line progression-free survival after progression on first-line CDK4/6 inhibitors in HR+/HER2- metastatic breast cancer by PAM50 intrinsic subtype: the SOLTI-1801 CDK-PREDICT study. | [[41762297]] | 2026-03-10 |
+| 2026-Feb-27 | Medicine | Occult metastasis of hormone receptor-positive breast cancer to the ovary: A case report and literature review. | [[41760005]] | 2026-03-10 |
+| 2026-Feb-19 | International journal of molecular sciences | A Systematic Review of Major Advances in Breast Cancer Therapeutics in 2025: Synthesis of Conference and Published Evidence. | [[41752108]] | 2026-03-10 |
+| 2026-Feb-22 | Tomography (Ann Arbor, Mich.) | Dynamic Contrast-Enhanced MRI Kinetic Curve-Driven Parametric Radiomics for Predicting Breast Cancer Molecular Subtypes: A Multicenter and Interpretable Study. | [[41745704]] | 2026-03-10 |
+| 2026-Feb-20 | Medicine | Predicting hormone receptor status in tumors: An innovative approach using breast ultrasound-radiomics combined model. | [[41731833]] | 2026-03-10 |
+| 2026-Feb-24 | Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer | Factors influencing patient-reported symptom outcomes in women with metastatic breast cancer. | [[41731206]] | 2026-03-10 |
+| 2026-Feb-21 | Breast cancer research and treatment | Investigating initial patterns of progression on first-line treatment in patients with de novo metastatic breast cancer. | [[41721913]] | 2026-03-10 |
+| 2026-Feb-19 | Cell death & disease | mTOR-driven autophagy suppression defines metabolic vulnerability in CDK4/6 inhibitor-resistant HR<sup>+</sup>/HER2<sup>-</sup> breast cancer. | [[41714320]] | 2026-03-10 |
+| 2026-Aug-01 | Bioelectrochemistry (Amsterdam, Netherlands) | Fabrication of electrochemical biosensor with a CD36 aptamer and AuMoS<sub>2</sub> heterolayer for tumor-derived exosome detection. | [[41713143]] | 2026-03-10 |
+| 2026-Dec-01 | Journal of medical economics | Clinical and economic benefits of combined genetic and genomic testing strategies to guide treatment decisions for patients with HR+/HER2- breast cancer in the US. | [[41711467]] | 2026-03-10 |
+| 2026-Mar-01 | NAR cancer | Charting the multilevel molecular response to palbociclib in ER-positive breast cancer. | [[41710088]] | 2026-03-10 |
+| 2026-Feb-15 | Cancer | Receipt of guideline-concordant local and chemotherapy-based systemic therapy for patients with triple-negative breast cancer: 10-year survival outcomes in a multi-state population-based analysis. | [[41701617]] | 2026-03-10 |
+| 2026-Feb-16 | Breast cancer research and treatment | Neoadjuvant therapy with an aromatase inhibitor and durvalumab in postmenopausal patients with hormone receptor-positive breast cancer. | [[41697438]] | 2026-03-10 |
+| 2026-Mar-01 | The Journal of surgical research | Breast Conserving Therapy Is a Safe Option for Women Under 40 Diagnosed With Breast Cancer. | [[41690003]] | 2026-03-10 |
+| 2026-Feb-15 | Cancer | Breast cancer staging for patients with "low-risk" disease: Are they all the same? | [[41689305]] | 2026-03-10 |
+| 2026-Mar-01 | Breast cancer (Tokyo, Japan) | FGFR4 and HER2 co-expression is associated with the proinflammatory tumor microenvironment in HR + breast cancer. | [[41670928]] | 2026-03-10 |
 | 2026-03-10 | International journal of molecular sciences | A Systematic Review of Major Advances in Breast Cancer Therapeutics in 2025: Synthesis of Conference and Published Evidence. | [[41752108]] | 2026-03-10 |
 | 2026-03-10 | Cell death & disease | mTOR-driven autophagy suppression defines metabolic vulnerability in CDK4/6 inhibitor-resistant HR<sup>+</sup>/HER2<sup>-</sup> breast cancer. | [[41714320]] | 2026-03-10 |
 | 2026-03-10 | Tomography (Ann Arbor, Mich.) | Dynamic Contrast-Enhanced MRI Kinetic Curve-Driven Parametric Radiomics for Predicting Breast Cancer Molecular Subtypes: A Multicenter and Interpretable Study. | [[41745704]] | 2026-03-10 |
