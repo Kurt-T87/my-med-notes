@@ -14,8 +14,8 @@ TOP_JOURNALS = [
 
 def fetch_papers():
     Entrez.email = EMAIL
-    # 搜索过去 7 天内发表的文章
-    handle = Entrez.esearch(db="pubmed", term=SEARCH_QUERY, reldate=7, datetype="pdat")
+    # 搜索过去 30 天内发表的文章
+    handle = Entrez.esearch(db="pubmed", term=SEARCH_QUERY, reldate=30, datetype="pdat")
     record = Entrez.read(handle)
     id_list = record["IdList"]
     if not id_list: return []
