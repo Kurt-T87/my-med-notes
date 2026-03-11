@@ -18,8 +18,23 @@
               "icon": "blocks",
               "title": "白皮书-mindmap"
             }
+          },
+          {
+            "id": "b45becbbfdde9ea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,10 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a3cac0eb70e65b9",
+  "active": "b11a15bd7adfb758",
   "lastOpenFiles": [
-    "白皮书.md",
+    "未命名.md",
+    "Excalidraw/Drawing 2026-03-11 16.33.21.excalidraw.md",
     "白皮书-mindmap.md",
+    "白皮书.md",
     "未命名-mindmap.md",
     "任务看板.md",
     "BC_Papers_Index.md",
@@ -238,8 +255,6 @@
     "Papers/41697438.md",
     "Papers/41666874.md",
     "Papers/41349543.md",
-    "Papers/41260264.md",
-    "PubMed-Papers/Papers/41260264.md",
     "pubmed_to_obsidian.py",
     "Papers",
     "PubMed-Papers/pubmed_to_obsidian.py",
