@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "31ba34a7f48af6b5",
+        "id": "a44453f0a13309b9",
         "type": "tabs",
         "children": [
           {
-            "id": "f463a22a20fc127e",
+            "id": "5db593d4ee870624",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "BC_Papers_Index.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名-mindmap.md"
               },
-              "icon": "lucide-file",
-              "title": "BC_Papers_Index"
+              "icon": "blocks",
+              "title": "未命名-mindmap"
             }
           }
         ]
@@ -211,8 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f463a22a20fc127e",
+  "active": "5db593d4ee870624",
   "lastOpenFiles": [
+    "白皮书.md",
+    "未命名-mindmap.md",
+    "BC_Papers_Index.md",
     "冯道/媒体评论/陆扬：论冯道的生涯——兼谈中古晚期政治文化中的边缘与核心.md",
     "冯道/媒体评论/郭威和冯道：五代十国的两种人生.md",
     "冯道/论文/从对冯道的评价看宋代气节观念的嬗变-路育松.pdf",
@@ -223,7 +224,6 @@
     "冯道/论文/论冯道“不知廉耻”历史形象的塑造与传播.pdf",
     "冯道/史料/旧五代史·冯道传补阙.md",
     "冯道/史料/舊五代史卷126 - 维基文库，自由的图书馆 1.md",
-    "BC_Papers_Index.md",
     "任务看板.md",
     "Papers/Tucatinib and trastuzumab emtansine for patients with previously treated HER2-positive locally advanced and metastatic b.md",
     "README.md",
@@ -241,8 +241,6 @@
     "PubMed-Papers/Papers/41260264.md",
     "pubmed_to_obsidian.py",
     "Papers/41795987.md",
-    "Papers/41795985.md",
-    "Papers/41791000.md",
     "Papers",
     "PubMed-Papers/pubmed_to_obsidian.py",
     "PubMed-Papers/Papers",
