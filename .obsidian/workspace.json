@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a44453f0a13309b9",
+        "id": "4a92ec223102354c",
         "type": "tabs",
         "children": [
           {
-            "id": "5db593d4ee870624",
+            "id": "4a3cac0eb70e65b9",
             "type": "leaf",
             "state": {
               "type": "mindmapview",
               "state": {
-                "file": "未命名-mindmap.md"
+                "file": "白皮书-mindmap.md"
               },
               "icon": "blocks",
-              "title": "未命名-mindmap"
+              "title": "白皮书-mindmap"
             }
           }
         ]
@@ -209,10 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5db593d4ee870624",
+  "active": "4a3cac0eb70e65b9",
   "lastOpenFiles": [
     "白皮书.md",
+    "白皮书-mindmap.md",
     "未命名-mindmap.md",
+    "任务看板.md",
     "BC_Papers_Index.md",
     "冯道/媒体评论/陆扬：论冯道的生涯——兼谈中古晚期政治文化中的边缘与核心.md",
     "冯道/媒体评论/郭威和冯道：五代十国的两种人生.md",
@@ -224,7 +226,6 @@
     "冯道/论文/论冯道“不知廉耻”历史形象的塑造与传播.pdf",
     "冯道/史料/旧五代史·冯道传补阙.md",
     "冯道/史料/舊五代史卷126 - 维基文库，自由的图书馆 1.md",
-    "任务看板.md",
     "Papers/Tucatinib and trastuzumab emtansine for patients with previously treated HER2-positive locally advanced and metastatic b.md",
     "README.md",
     "Papers/Enhancing therapeutic outcomes with artificial intelligence for HR-positive, HER2-negative metastatic breast cancer..md",
@@ -240,7 +241,6 @@
     "Papers/41260264.md",
     "PubMed-Papers/Papers/41260264.md",
     "pubmed_to_obsidian.py",
-    "Papers/41795987.md",
     "Papers",
     "PubMed-Papers/pubmed_to_obsidian.py",
     "PubMed-Papers/Papers",
