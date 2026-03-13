@@ -15,6 +15,14 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Set up Node.js (for Gemini CLI)
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install Gemini CLI
+        run: npm install -g @google/gemini-cli
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -23,10 +31,11 @@ jobs:
       - name: Install dependencies
         run: pip install biopython pyzotero
 
-      - name: Run Script
+      - name: Run Script with Gemini Analysis
         env:
           ZOTERO_USER_ID: ${{ secrets.ZOTERO_USER_ID }}
           ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python pubmed_to_obsidian.py
 
       - name: Commit and Push
@@ -35,7 +44,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Auto-update: Synced to Zotero and updated notes"
+            git commit -m "Auto-update: Synced to Zotero and added Gemini analysis"
             git pull --rebase -X theirs
             git push
           else

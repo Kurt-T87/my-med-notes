@@ -1,6 +1,9 @@
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 import os
 import re
 import time
+import subprocess
 from Bio import Entrez
 from datetime import datetime
 from pyzotero import zotero
@@ -10,7 +13,7 @@ EMAIL = "duanwenqiang1227@gmail.com"
 SEARCH_QUERY = '("Breast Neoplasms"[Mesh]) AND ("HR positive" OR "HR+") AND ("HER2 negative" OR "HER2-")'
 ZOTERO_COLLECTION_NAME = "医学信息订阅"
 
-# 从环境变量读取 Zotero 凭证 (GitHub Secrets)
+# 从环境变量读取 Zotero 凭证
 ZOTERO_USER_ID = os.environ.get('ZOTERO_USER_ID')
 ZOTERO_API_KEY = os.environ.get('ZOTERO_API_KEY')
 
@@ -39,14 +42,45 @@ JOURNAL_IF_MAP = {
     "Breast cancer research and treatment": "4.9"
 }
 
+def gemini_deep_analyze(title, abstract):
+    """调用 Gemini CLI 进行乳腺癌临床深度分析"""
+    print(f"正在调用 Gemini 解析文献: {title[:50]}...")
+    prompt = f"""
+    你是一位乳腺癌转化医学与临床专家。请深入分析以下文献摘要，并为一名临床医生提供专业总结。
+    
+    文献标题：{title}
+    摘要内容：{abstract}
+    
+    请输出以下结构化内容（使用中文）：
+    ## 🧬 Gemini 临床深度解析
+    - **分型与人群:** (明确是 HR+/HER2-, TNBC 还是 HER2+；早期还是晚期)
+    - **PICO 核心:** 
+        - **P (Patient):** 患者特征
+        - **I (Intervention):** 干预措施
+        - **C (Comparison):** 对照方案
+        - **O (Outcome):** 核心终点指标
+    - **临床价值:** (该研究是否挑战现有指南？对临床决策有何直接影响？)
+    - **关键数据:** (提取 HR, ORR, pCR 或 OS/PFS 等关键数值)
+    - **专家评述:** (该研究是否存在偏倚？后续关注点是什么？)
+    """
+    
+    try:
+        # 使用 subprocess 调用 gemini-cli
+        # 确保 gemini-cli 在 PATH 中
+        result = subprocess.run(['/usr/local/bin/gemini', prompt], capture_output=True, text=True, encoding='utf-8')
+        if result.returncode == 0:
+            return result.stdout.strip()
+        else:
+            return f"\n> [!warning] Gemini 解析失败\n> {result.stderr}"
+    except Exception as e:
+        return f"\n> [!error] 无法调用 gemini-cli: {str(e)}"
+
 def get_or_create_collection(zot, name):
-    # 获取或创建指定名称的分类
     collections = zot.collections()
     for col in collections:
         if col['data']['name'] == name:
             return col['key']
     
-    # 不存在则创建
     resp = zot.create_collections([{'name': name}])
     if resp['successful']:
         return resp['successful']['0']['key']
@@ -81,21 +115,16 @@ def sync_to_zotero(title, journal, doi, pmid):
     if not ZOTERO_USER_ID or not ZOTERO_API_KEY:
         return None
     zot = zotero.Zotero(ZOTERO_USER_ID, 'user', ZOTERO_API_KEY)
-    
-    # 获取/创建分类文件夹
     col_key = get_or_create_collection(zot, ZOTERO_COLLECTION_NAME)
     
-    # 检查是否已存在 (通过 DOI)
     search_results = zot.everything(zot.items(q=doi))
     if search_results:
         item = search_results[0]
-        # 如果已存在但在不同分类，则加入分类
         if col_key and col_key not in item['data'].get('collections', []):
             item['data']['collections'].append(col_key)
             zot.update_item(item)
         return item['key']
     
-    # 创建新条目
     template = zot.item_template('journalArticle')
     template['title'] = title
     template['publicationTitle'] = journal
@@ -123,9 +152,12 @@ def format_to_md(article):
             break
 
     pub_date_str = parse_date(article_data['Journal']['JournalIssue']['PubDate'])
+    year = pub_date_str.split('-')[0]
+    
     doi = ""
     for x in article['PubmedData']['ArticleIdList']:
         if x.attributes.get('IdType') == 'doi': doi = str(x)
+    
     abstract_text = ""
     if 'Abstract' in article_data:
         abstract_text = "\n".join(article_data['Abstract']['AbstractText'])
@@ -134,8 +166,12 @@ def format_to_md(article):
     zotero_key = sync_to_zotero(title, journal, doi, medline['PMID'])
     zotero_link = f"zotero://select/items/0_{zotero_key}" if zotero_key else "Not Synced"
 
+    # 调用 Gemini 进行深度解析
+    gemini_analysis = gemini_deep_analyze(title, abstract_text)
+
+    # 文件名优化：[年份] 标题
     safe_title = clean_filename(title)
-    filename = f"Papers/{safe_title}.md"
+    filename = f"Papers/[{year}] {safe_title}.md"
     
     content = f"""---
 title: "{title}"
@@ -145,7 +181,7 @@ published: "{pub_date_str}"
 doi: "{doi}"
 pmid: {medline['PMID']}
 zotero_link: "{zotero_link}"
-tags: #BC #HR+HER2- #HighIF #Zotero
+tags: #BC #HR+HER2- #HighIF #GeminiAnalyzed
 sync_date: {datetime.now().strftime('%Y-%m-%d')}
 ---
 # {title}
@@ -155,12 +191,14 @@ sync_date: {datetime.now().strftime('%Y-%m-%d')}
 - **DOI**: [{doi}](https://doi.org/{doi})
 - **Zotero**: [点击跳转 Zotero 库]({zotero_link})
 
-## Abstract
+{gemini_analysis}
+
+## 📄 Abstract
 {abstract_text}
 """
     return filename, content, {
         "pmid": medline['PMID'], 
-        "title": safe_title, 
+        "title": f"[{year}] {safe_title}", 
         "full_title": title,
         "journal": journal, 
         "if": if_value,
@@ -181,19 +219,30 @@ def update_index(all_papers):
             f.write(line)
 
 if __name__ == "__main__":
-    if not os.path.exists("Papers"): os.makedirs("Papers")
+    if not os.path.exists("/Users/kurt-d/Documents/Tuan仓元/Papers"): os.makedirs("/Users/kurt-d/Documents/Tuan仓元/Papers")
+    
+    # 检查环境变量
+    if not ZOTERO_USER_ID or not ZOTERO_API_KEY:
+        print("警告: 环境变量 ZOTERO_USER_ID 或 ZOTERO_API_KEY 未设置。文献将不会同步到 Zotero。")
+    
+    print("正在从 PubMed 抓取乳腺癌 HR+/HER2- 最新文献...")
     papers = fetch_papers()
-    print(f"Found {len(papers)} papers.")
+    print(f"找到 {len(papers)} 篇文献。")
     
     all_current_info = []
     for p in papers:
         result = format_to_md(p)
         if result:
             fname, text, info = result
+            # 写入 Obsidian
             with open(fname, "w", encoding="utf-8") as f:
                 f.write(text)
             all_current_info.append(info)
+            print(f"已完成: {info['title'][:60]}...")
     
     if all_current_info:
         update_index(all_current_info)
-        print(f"Index updated with {len(all_current_info)} papers and synced to Zotero collection '{ZOTERO_COLLECTION_NAME}'.")
+        print(f"\n✅ 任务完成！")
+        print(f"- 笔记位置: Papers/ 文件夹")
+        print(f"- 索引更新: BC_Papers_Index.md")
+        print(f"- 精读解析: Gemini 已自动完成 PICO 总结。")
