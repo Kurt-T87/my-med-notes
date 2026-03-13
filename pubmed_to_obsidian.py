@@ -81,15 +81,19 @@ def gemini_deep_analyze(title, abstract):
     last_error = ""
     for cmd in commands_to_try:
         try:
-            # 使用 shell=True 确保能从系统 PATH 中搜寻到 npm 安装的命令
-            result = subprocess.run(f"{cmd} '{prompt}'", shell=True, capture_output=True, text=True, encoding='utf-8')
+            # 使用列表模式调用，并添加 -p/--prompt 参数进入非交互模式
+            # 这种方式对长文本和特殊字符最稳健
+            result = subprocess.run([cmd, "-p", prompt], capture_output=True, text=True, encoding='utf-8')
             if result.returncode == 0:
                 return result.stdout.strip()
-            last_error = result.stderr
+            last_error = f"命令 {cmd} 执行失败 (Code: {result.returncode}): {result.stderr}"
+        except FileNotFoundError:
+            continue
         except Exception as e:
             last_error = str(e)
             continue
             
+    print(f"警告: Gemini 解析失败。原因: {last_error}")
     return f"\n> [!warning] Gemini 解析失败\n> {last_error if last_error else '找不到可用的 gemini 命令。'}"
 
 def get_or_create_collection(zot, name):
