@@ -75,16 +75,23 @@ def gemini_deep_analyze(title, abstract):
     - **专家评述:** (该研究是否存在偏倚？后续关注点是什么？)
     """
     
-    try:
-        # 使用 subprocess 调用 gemini-cli
-        # 确保 gemini-cli 在 PATH 中
-        result = subprocess.run(['/usr/local/bin/gemini', prompt], capture_output=True, text=True, encoding='utf-8')
-        if result.returncode == 0:
-            return result.stdout.strip()
-        else:
-            return f"\n> [!warning] Gemini 解析失败\n> {result.stderr}"
-    except Exception as e:
-        return f"\n> [!error] 无法调用 gemini-cli: {str(e)}"
+    # 定义可能的命令名
+    commands_to_try = ['gemini', 'gemini-cli', '/usr/local/bin/gemini']
+    
+    last_error = ""
+    for cmd in commands_to_try:
+        try:
+            result = subprocess.run([cmd, prompt], capture_output=True, text=True, encoding='utf-8')
+            if result.returncode == 0:
+                return result.stdout.strip()
+            last_error = result.stderr
+        except FileNotFoundError:
+            continue
+        except Exception as e:
+            last_error = str(e)
+            continue
+            
+    return f"\n> [!warning] Gemini 解析失败\n> {last_error if last_error else '找不到可用的 gemini 命令。'}"
 
 def get_or_create_collection(zot, name):
     collections = zot.collections()

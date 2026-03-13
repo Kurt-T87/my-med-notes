@@ -11,10 +11,14 @@
             "id": "c7f901a62663d08f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "乳腺癌SCI文献精读工作流指南.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "乳腺癌SCI文献精读工作流指南"
             }
           }
         ]
@@ -207,8 +211,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b11a15bd7adfb758",
+  "active": "c7f901a62663d08f",
   "lastOpenFiles": [
+    "未命名.md",
+    "乳腺癌SCI文献精读工作流指南.md",
     "乳腺癌 SCI 文献精读工作流指南.md",
     "Papers/[2026] Tucatinib and trastuzumab emtansine for patients with previously treated HER2-positive locally advanced and metastatic b.md",
     "Papers/[2026] Real-world second- and third-line progression-free survival after progression on first-line CDK46 inhibitors in HR+HER2-.md",
@@ -222,7 +228,6 @@
     "白皮书.md",
     "白皮书-mindmap.md",
     "冯道/冯道生平时间轴.canvas",
-    "未命名.md",
     "Excalidraw/Drawing 2026-03-11 16.33.21.excalidraw.md",
     "未命名-mindmap.md",
     "任务看板.md",
@@ -237,7 +242,6 @@
     "README.md",
     "Papers/Real-world second- and third-line progression-free survival after progression on first-line CDK46 inhibitors in HR+HER2-.md",
     "Papers/Precision treatment with artificial intelligence assisted subtyping enhances therapeutic efficacy in HR+HER2- breast can.md",
-    "Papers/Neoadjuvant therapy with an aromatase inhibitor and durvalumab in postmenopausal patients with hormone receptor-positive.md",
     "pubmed_to_obsidian.py",
     "Papers",
     "PubMed-Papers/pubmed_to_obsidian.py",
