@@ -240,7 +240,7 @@ def update_index(all_papers):
             f.write(line)
 
 if __name__ == "__main__":
-    if not os.path.exists("/Users/kurt-d/Documents/Tuan仓元/Papers"): os.makedirs("/Users/kurt-d/Documents/Tuan仓元/Papers")
+    if not os.path.exists("Papers"): os.makedirs("Papers")
     
     # 检查环境变量
     if not ZOTERO_USER_ID or not ZOTERO_API_KEY:
