@@ -17,29 +17,40 @@ ZOTERO_COLLECTION_NAME = "医学信息订阅"
 ZOTERO_USER_ID = os.environ.get('ZOTERO_USER_ID')
 ZOTERO_API_KEY = os.environ.get('ZOTERO_API_KEY')
 
-# 期刊及其 IF 映射
+# 期刊及其最新 IF 映射 (2025 JCR 数据)
 JOURNAL_IF_MAP = {
+    # 顶级医学综合
+    "The New England Journal of Medicine": "158.5",
+    "The Lancet": "145.0",
+    "JAMA": "120.7",
+    "BMJ": "93.6",
+    # 顶级肿瘤评论与统计
     "CA: A Cancer Journal for Clinicians": "232.4",
     "Nature Reviews Clinical Oncology": "82.2",
-    "Annals of Oncology": "65.4",
-    "Journal of Clinical Oncology": "41.9",
-    "Lancet Oncology": "35.9",
-    "Cancer Cell": "44.5",
+    # 临床巨头
+    "Annals of Oncology": "56.7",
+    "Journal of Clinical Oncology": "42.1",
+    "The Lancet Oncology": "41.6",
+    "JAMA Oncology": "22.5",
+    "Journal of hematology & oncology": "25.2",
+    # 转化与基础研究
+    "Cancer Cell": "48.8",
     "Signal Transduction and Targeted Therapy": "40.8",
-    "Molecular Cancer": "33.9",
-    "Cancer Discovery": "33.3",
-    "Cancer Communications": "24.9",
-    "JAMA Oncology": "20.1",
-    "Clinical Cancer Research": "10.2",
+    "Cancer Discovery": "29.7",
+    "Nature Cancer": "28.5",
+    "Molecular Cancer": "27.7",
+    "Cancer Communications": "20.1",
+    "Trends in Cancer": "14.3",
+    "Cancer Research": "12.5",
+    "Cell Reports Medicine": "11.7",
+    "Med": "12.8",
+    "JNCI: Journal of the National Cancer Institute": "10.3",
+    "Clinical Cancer Research": "10.0",
+    # 领域权威 (保留部分 5-10 分的高质量专业杂志)
     "The Breast": "7.9",
-    "npj Breast Cancer": "7.6",
+    "npj Breast Cancer": "6.5",
     "Breast Cancer Research": "5.6",
-    "Breast Cancer Research and Treatment": "4.9",
-    "Annals of oncology : official journal of the European Society for Medical Oncology": "65.4",
-    "Journal of clinical oncology : official journal of the American Society of Clinical Oncology": "41.9",
-    "The Lancet. Oncology": "35.9",
-    "Breast cancer research : BCR": "5.6",
-    "Breast cancer research and treatment": "4.9"
+    "Breast Cancer Research and Treatment": "4.9"
 }
 
 def gemini_deep_analyze(title, abstract):

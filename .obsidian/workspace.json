@@ -8,33 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a3cac0eb70e65b9",
+            "id": "c7f901a62663d08f",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "白皮书-mindmap.md"
-              },
-              "icon": "blocks",
-              "title": "白皮书-mindmap"
-            }
-          },
-          {
-            "id": "b45becbbfdde9ea1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/[2026] Tucatinib and trastuzumab emtansine for patients with previously treated HER2-positive locally advanced and metastatic b.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "[2026] Tucatinib and trastuzumab emtansine for patients with previously treated HER2-positive locally advanced and metastatic b"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,13 +207,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b45becbbfdde9ea1",
+  "active": "b11a15bd7adfb758",
   "lastOpenFiles": [
+    "乳腺癌 SCI 文献精读工作流指南.md",
+    "Papers/[2026] Tucatinib and trastuzumab emtansine for patients with previously treated HER2-positive locally advanced and metastatic b.md",
     "Papers/[2026] Real-world second- and third-line progression-free survival after progression on first-line CDK46 inhibitors in HR+HER2-.md",
     "Papers/[2026] Neoadjuvant therapy with an aromatase inhibitor and durvalumab in postmenopausal patients with hormone receptor-positive.md",
     "BC_Papers_Index.md",
     "Papers/[2026] Investigating initial patterns of progression on first-line treatment in patients with de novo metastatic breast cancer..md",
-    "Papers/[2026] Tucatinib and trastuzumab emtansine for patients with previously treated HER2-positive locally advanced and metastatic b.md",
     "Papers/Tucatinib and trastuzumab emtansine for patients with previously treated HER2-positive locally advanced and metastatic b.md",
     "Papers/Enhancing therapeutic outcomes with artificial intelligence for HR-positive, HER2-negative metastatic breast cancer..md",
     "Papers/Investigating initial patterns of progression on first-line treatment in patients with de novo metastatic breast cancer..md",
@@ -254,7 +238,6 @@
     "Papers/Real-world second- and third-line progression-free survival after progression on first-line CDK46 inhibitors in HR+HER2-.md",
     "Papers/Precision treatment with artificial intelligence assisted subtyping enhances therapeutic efficacy in HR+HER2- breast can.md",
     "Papers/Neoadjuvant therapy with an aromatase inhibitor and durvalumab in postmenopausal patients with hormone receptor-positive.md",
-    "Papers/41762297.md",
     "pubmed_to_obsidian.py",
     "Papers",
     "PubMed-Papers/pubmed_to_obsidian.py",
