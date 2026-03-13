@@ -81,12 +81,11 @@ def gemini_deep_analyze(title, abstract):
     last_error = ""
     for cmd in commands_to_try:
         try:
-            result = subprocess.run([cmd, prompt], capture_output=True, text=True, encoding='utf-8')
+            # 使用 shell=True 确保能从系统 PATH 中搜寻到 npm 安装的命令
+            result = subprocess.run(f"{cmd} '{prompt}'", shell=True, capture_output=True, text=True, encoding='utf-8')
             if result.returncode == 0:
                 return result.stdout.strip()
             last_error = result.stderr
-        except FileNotFoundError:
-            continue
         except Exception as e:
             last_error = str(e)
             continue

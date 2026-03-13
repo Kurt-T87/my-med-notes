@@ -11,14 +11,10 @@
             "id": "c7f901a62663d08f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "乳腺癌SCI文献精读工作流指南.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "乳腺癌SCI文献精读工作流指南"
+              "title": "新标签页"
             }
           }
         ]
@@ -211,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7f901a62663d08f",
+  "active": "b11a15bd7adfb758",
   "lastOpenFiles": [
     "未命名.md",
     "乳腺癌SCI文献精读工作流指南.md",
