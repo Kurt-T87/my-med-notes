@@ -1,0 +1,22 @@
+---
+title: "[FGFR1 mRNA expression in different molecular subtypes of breast cancer]."
+journal: "Zhonghua bing li xue za zhi = Chinese journal of pathology"
+if: Unknown
+published: "2026-03-08"
+doi: "10.3760/cma.j.cn112151-20250820-00567"
+pmid: 41795985
+zotero_link: "zotero://select/items/0_KCZ7FGBV"
+tags: #BC #HR+HER2- #GeminiAnalyzed
+sync_date: 2026-03-16
+---
+# [FGFR1 mRNA expression in different molecular subtypes of breast cancer].
+- **Journal**: Zhonghua bing li xue za zhi = Chinese journal of pathology (**IF: Unknown**)
+- **Published**: 2026-03-08 | **PMID**: 41795985
+- **DOI**: [10.3760/cma.j.cn112151-20250820-00567](https://doi.org/10.3760/cma.j.cn112151-20250820-00567)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KCZ7FGBV)
+
+
+> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+
+## 📄 Abstract
+<b>Objective:</b> To investigate FGFR1 mRNA expression and gene characteristics in breast cancer tissue. <b>Methods:</b> Breast cancer samples from 45 female patients (10 HER2-positive, 15 triple-negative and 20 HR-positive/HER2-negative cases) were collected from Peking Union Medical College Hospital between December 2022 and January 2024. FGFR1 mRNA expression was identified using reverse transcription droplet digital PCR, and the FGFR1 gene characteristics was analyzed from 30 samples by fluorescence in situ hybridization. <b>Results:</b> In the group of HER2-positive, 2 cases (2/10) of high FGFR1 mRNA expression and one case (1/7) of high FGFR1 gene amplification were found. Five tumors (5/15) with high FGFR1 mRNA expression, one (1/10) with gene amplification and one (1/10) with low-level amplification of FGFR gene were identified in triple-negative breast cancer. Among HR-positive/HER2-negative samples, high FGFR1 mRNA expressions were confirmed in 4 cases (4/20), with no FGFR1 gene amplification (0/13). Additionally, 3 cases (3/10) showed high FGFR1 mRNA expression in HER2-low expression (IHC 1+and IHC 2+/FISH-) samples. <b>Conclusions:</b> High FGFR1 mRNA expression is observed across different molecular subtypes of breast cancer. High-level FGFR1 gene amplification is uncommonly detected; therefore, further studies with large amount samples are required.
