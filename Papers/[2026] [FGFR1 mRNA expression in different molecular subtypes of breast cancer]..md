@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-08"
 doi: "10.3760/cma.j.cn112151-20250820-00567"
 pmid: 41795985
-zotero_link: "zotero://select/items/0_KCZ7FGBV"
+zotero_link: "zotero://select/items/0_VMEU59XC"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # [FGFR1 mRNA expression in different molecular subtypes of breast cancer].
 - **Journal**: Zhonghua bing li xue za zhi = Chinese journal of pathology (**IF: Unknown**)
 - **Published**: 2026-03-08 | **PMID**: 41795985
 - **DOI**: [10.3760/cma.j.cn112151-20250820-00567](https://doi.org/10.3760/cma.j.cn112151-20250820-00567)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KCZ7FGBV)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VMEU59XC)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

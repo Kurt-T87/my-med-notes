@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-02-28"
 doi: "10.1007/s10549-026-07931-7"
 pmid: 41762297
-zotero_link: "zotero://select/items/0_FVVUD8GV"
+zotero_link: "zotero://select/items/0_AJ5TVMD4"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Real-world second- and third-line progression-free survival after progression on first-line CDK4/6 inhibitors in HR+/HER2- metastatic breast cancer by PAM50 intrinsic subtype: the SOLTI-1801 CDK-PREDICT study.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-02-28 | **PMID**: 41762297
 - **DOI**: [10.1007/s10549-026-07931-7](https://doi.org/10.1007/s10549-026-07931-7)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FVVUD8GV)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_AJ5TVMD4)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

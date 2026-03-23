@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-04"
 doi: "10.1016/j.ymthe.2025.11.031"
 pmid: 41318995
-zotero_link: "zotero://select/items/0_HHE8QQB5"
+zotero_link: "zotero://select/items/0_F23IA5Q8"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # C/EBPβ stabilizes oxidative stress in triple-negative breast cancer cells, driving taxane resistance and immune evasion.
 - **Journal**: Molecular therapy : the journal of the American Society of Gene Therapy (**IF: Unknown**)
 - **Published**: 2026-03-04 | **PMID**: 41318995
 - **DOI**: [10.1016/j.ymthe.2025.11.031](https://doi.org/10.1016/j.ymthe.2025.11.031)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HHE8QQB5)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_F23IA5Q8)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

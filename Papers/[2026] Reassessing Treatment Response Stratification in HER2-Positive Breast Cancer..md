@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-01"
 doi: "10.1177/00031348251381618"
 pmid: 40971615
-zotero_link: "zotero://select/items/0_XMABWP6V"
+zotero_link: "zotero://select/items/0_77C845IZ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Reassessing Treatment Response Stratification in HER2-Positive Breast Cancer.
 - **Journal**: The American surgeon (**IF: Unknown**)
 - **Published**: 2026-03-01 | **PMID**: 40971615
 - **DOI**: [10.1177/00031348251381618](https://doi.org/10.1177/00031348251381618)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XMABWP6V)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_77C845IZ)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

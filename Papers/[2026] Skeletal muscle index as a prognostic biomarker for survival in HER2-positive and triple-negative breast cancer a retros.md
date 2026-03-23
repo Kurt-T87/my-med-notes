@@ -5,15 +5,15 @@ if: 93.6
 published: "2026-02-27"
 doi: "10.1136/spcare-2025-005991"
 pmid: 41476001
-zotero_link: "zotero://select/items/0_V6JFMJHT"
+zotero_link: "zotero://select/items/0_RSPS2R2C"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Skeletal muscle index as a prognostic biomarker for survival in HER2-positive and triple-negative breast cancer: a retrospective cohort study.
 - **Journal**: BMJ supportive & palliative care (**IF: 93.6**)
 - **Published**: 2026-02-27 | **PMID**: 41476001
 - **DOI**: [10.1136/spcare-2025-005991](https://doi.org/10.1136/spcare-2025-005991)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_V6JFMJHT)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RSPS2R2C)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

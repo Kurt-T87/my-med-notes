@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-03-01"
 doi: "10.1007/s12282-026-01833-8"
 pmid: 41670928
-zotero_link: "zotero://select/items/0_SXR8V49F"
+zotero_link: "zotero://select/items/0_8RAXG4TA"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # FGFR4 and HER2 co-expression is associated with the proinflammatory tumor microenvironment in HR + breast cancer.
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-03-01 | **PMID**: 41670928
 - **DOI**: [10.1007/s12282-026-01833-8](https://doi.org/10.1007/s12282-026-01833-8)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SXR8V49F)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8RAXG4TA)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

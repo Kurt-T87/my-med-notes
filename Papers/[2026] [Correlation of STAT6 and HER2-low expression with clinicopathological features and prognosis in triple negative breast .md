@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-08"
 doi: "10.3760/cma.j.cn112151-20250501-00325"
 pmid: 41795987
-zotero_link: "zotero://select/items/0_74ZNIU48"
+zotero_link: "zotero://select/items/0_BMCBM7ZB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # [Correlation of STAT6 and HER2-low expression with clinicopathological features and prognosis in triple negative breast cancer].
 - **Journal**: Zhonghua bing li xue za zhi = Chinese journal of pathology (**IF: Unknown**)
 - **Published**: 2026-03-08 | **PMID**: 41795987
 - **DOI**: [10.3760/cma.j.cn112151-20250501-00325](https://doi.org/10.3760/cma.j.cn112151-20250501-00325)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_74ZNIU48)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BMCBM7ZB)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-02-24"
 doi: "10.1007/s00520-026-10489-1"
 pmid: 41731206
-zotero_link: "zotero://select/items/0_MUZWGIN2"
+zotero_link: "zotero://select/items/0_U9U665P6"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Factors influencing patient-reported symptom outcomes in women with metastatic breast cancer.
 - **Journal**: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer (**IF: Unknown**)
 - **Published**: 2026-02-24 | **PMID**: 41731206
 - **DOI**: [10.1007/s00520-026-10489-1](https://doi.org/10.1007/s00520-026-10489-1)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MUZWGIN2)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_U9U665P6)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

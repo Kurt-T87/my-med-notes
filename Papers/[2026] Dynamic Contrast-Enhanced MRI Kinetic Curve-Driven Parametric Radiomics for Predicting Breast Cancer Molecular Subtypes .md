@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-02-22"
 doi: "10.3390/tomography12020027"
 pmid: 41745704
-zotero_link: "zotero://select/items/0_MD37845C"
+zotero_link: "zotero://select/items/0_5MG52SK3"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Dynamic Contrast-Enhanced MRI Kinetic Curve-Driven Parametric Radiomics for Predicting Breast Cancer Molecular Subtypes: A Multicenter and Interpretable Study.
 - **Journal**: Tomography (Ann Arbor, Mich.) (**IF: Unknown**)
 - **Published**: 2026-02-22 | **PMID**: 41745704
 - **DOI**: [10.3390/tomography12020027](https://doi.org/10.3390/tomography12020027)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MD37845C)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5MG52SK3)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

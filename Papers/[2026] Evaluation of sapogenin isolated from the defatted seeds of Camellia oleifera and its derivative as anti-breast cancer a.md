@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-01"
 doi: "10.1016/j.fitote.2025.107075"
 pmid: 41461214
-zotero_link: "zotero://select/items/0_3AQRG2NH"
+zotero_link: "zotero://select/items/0_GCV2SBHQ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Evaluation of sapogenin isolated from the defatted seeds of Camellia oleifera and its derivative as anti-breast cancer agents.
 - **Journal**: Fitoterapia (**IF: Unknown**)
 - **Published**: 2026-03-01 | **PMID**: 41461214
 - **DOI**: [10.1016/j.fitote.2025.107075](https://doi.org/10.1016/j.fitote.2025.107075)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3AQRG2NH)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GCV2SBHQ)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

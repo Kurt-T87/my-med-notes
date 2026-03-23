@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-01"
 doi: "10.59556/japi.74.1427"
 pmid: 41818097
-zotero_link: "zotero://select/items/0_Q87V4Z8A"
+zotero_link: "zotero://select/items/0_9ESKRMXV"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Clinicopathological Spectrum and Biomarker Profile of Male Breast Cancer: A Retrospective Study from a Tertiary Care Center in South India.
 - **Journal**: The Journal of the Association of Physicians of India (**IF: Unknown**)
 - **Published**: 2026-03-01 | **PMID**: 41818097
 - **DOI**: [10.59556/japi.74.1427](https://doi.org/10.59556/japi.74.1427)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_Q87V4Z8A)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9ESKRMXV)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-09"
 doi: "10.1093/oncolo/oyag013"
 pmid: 41587941
-zotero_link: "zotero://select/items/0_4B6W5D8R"
+zotero_link: "zotero://select/items/0_J4Q9SEWD"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # A prospective post-marketing observational study of abemaciclib in patients with HR+, HER2- breast cancer in China.
 - **Journal**: The oncologist (**IF: Unknown**)
 - **Published**: 2026-03-09 | **PMID**: 41587941
 - **DOI**: [10.1093/oncolo/oyag013](https://doi.org/10.1093/oncolo/oyag013)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4B6W5D8R)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_J4Q9SEWD)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

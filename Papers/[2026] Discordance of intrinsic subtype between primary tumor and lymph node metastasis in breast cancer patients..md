@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-01"
 doi: "10.14670/HH-18-989"
 pmid: 40969132
-zotero_link: "zotero://select/items/0_NI6X697V"
+zotero_link: "zotero://select/items/0_G7GM69TC"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Discordance of intrinsic subtype between primary tumor and lymph node metastasis in breast cancer patients.
 - **Journal**: Histology and histopathology (**IF: Unknown**)
 - **Published**: 2026-03-01 | **PMID**: 40969132
 - **DOI**: [10.14670/HH-18-989](https://doi.org/10.14670/HH-18-989)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_NI6X697V)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_G7GM69TC)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

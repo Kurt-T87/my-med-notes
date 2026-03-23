@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-02-21"
 doi: "10.1007/s10549-026-07933-5"
 pmid: 41721913
-zotero_link: "zotero://select/items/0_CW2RB2B8"
+zotero_link: "zotero://select/items/0_TTC7UCQI"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Investigating initial patterns of progression on first-line treatment in patients with de novo metastatic breast cancer.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-02-21 | **PMID**: 41721913
 - **DOI**: [10.1007/s10549-026-07933-5](https://doi.org/10.1007/s10549-026-07933-5)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CW2RB2B8)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TTC7UCQI)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

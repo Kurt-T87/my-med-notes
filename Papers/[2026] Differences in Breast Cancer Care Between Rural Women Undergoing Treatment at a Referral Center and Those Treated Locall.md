@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-01"
 doi: "10.1245/s10434-025-18812-6"
 pmid: 41460623
-zotero_link: "zotero://select/items/0_CTJXBEDB"
+zotero_link: "zotero://select/items/0_EXCTDZZX"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Differences in Breast Cancer Care Between Rural Women Undergoing Treatment at a Referral Center and Those Treated Locally.
 - **Journal**: Annals of surgical oncology (**IF: Unknown**)
 - **Published**: 2026-03-01 | **PMID**: 41460623
 - **DOI**: [10.1245/s10434-025-18812-6](https://doi.org/10.1245/s10434-025-18812-6)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CTJXBEDB)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_EXCTDZZX)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

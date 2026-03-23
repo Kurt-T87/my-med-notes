@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-01"
 doi: "10.1245/s10434-025-18746-z"
 pmid: 41276771
-zotero_link: "zotero://select/items/0_P3B42WW2"
+zotero_link: "zotero://select/items/0_NB5SHTFP"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Radiation De-Escalation in Older Women with Early-Stage ER+/HER2- Invasive Breast Cancer.
 - **Journal**: Annals of surgical oncology (**IF: Unknown**)
 - **Published**: 2026-03-01 | **PMID**: 41276771
 - **DOI**: [10.1245/s10434-025-18746-z](https://doi.org/10.1245/s10434-025-18746-z)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_P3B42WW2)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_NB5SHTFP)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

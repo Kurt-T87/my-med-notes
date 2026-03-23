@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-01"
 doi: "10.1007/s40271-025-00783-1"
 pmid: 41186660
-zotero_link: "zotero://select/items/0_IS4ZFJMV"
+zotero_link: "zotero://select/items/0_Z9GFVN6K"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Factors influencing Patient Preferences for BRCA Testing and Adjuvant Therapy in HER2-Negative Early Breast Cancer in the United States: Best-Worst Scaling and Discrete Choice Experiment.
 - **Journal**: The patient (**IF: Unknown**)
 - **Published**: 2026-03-01 | **PMID**: 41186660
 - **DOI**: [10.1007/s40271-025-00783-1](https://doi.org/10.1007/s40271-025-00783-1)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_IS4ZFJMV)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_Z9GFVN6K)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

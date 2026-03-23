@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-04"
 doi: "10.3390/ijms27052377"
 pmid: 41828595
-zotero_link: "zotero://select/items/0_JXV69CJB"
+zotero_link: "zotero://select/items/0_CH4SZBDC"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Heterogeneity of Hormone Receptors and HER2 in Breast Cancer Cutaneous Metastases: An Institutional Experience.
 - **Journal**: International journal of molecular sciences (**IF: Unknown**)
 - **Published**: 2026-03-04 | **PMID**: 41828595
 - **DOI**: [10.3390/ijms27052377](https://doi.org/10.3390/ijms27052377)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JXV69CJB)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CH4SZBDC)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

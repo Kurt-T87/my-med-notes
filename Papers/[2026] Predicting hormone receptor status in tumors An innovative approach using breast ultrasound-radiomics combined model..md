@@ -5,15 +5,15 @@ if: 158.5
 published: "2026-02-20"
 doi: "10.1097/MD.0000000000047576"
 pmid: 41731833
-zotero_link: "zotero://select/items/0_WGH7BV8Q"
+zotero_link: "zotero://select/items/0_8RVTCKXK"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Predicting hormone receptor status in tumors: An innovative approach using breast ultrasound-radiomics combined model.
 - **Journal**: Medicine (**IF: 158.5**)
 - **Published**: 2026-02-20 | **PMID**: 41731833
 - **DOI**: [10.1097/MD.0000000000047576](https://doi.org/10.1097/MD.0000000000047576)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WGH7BV8Q)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8RVTCKXK)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

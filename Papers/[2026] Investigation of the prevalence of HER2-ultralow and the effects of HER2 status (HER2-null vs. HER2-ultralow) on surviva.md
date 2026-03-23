@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-01"
 doi: "10.1007/s12094-025-04095-6"
 pmid: 41134440
-zotero_link: "zotero://select/items/0_HCCM3W6Z"
+zotero_link: "zotero://select/items/0_8CDDFGAG"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Investigation of the prevalence of HER2-ultralow and the effects of HER2 status (HER2-null vs. HER2-ultralow) on survival in HER2-negative early-stage breast cancer.
 - **Journal**: Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico (**IF: Unknown**)
 - **Published**: 2026-03-01 | **PMID**: 41134440
 - **DOI**: [10.1007/s12094-025-04095-6](https://doi.org/10.1007/s12094-025-04095-6)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HCCM3W6Z)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8CDDFGAG)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-15"
 doi: "10.1002/ijc.70208"
 pmid: 41170836
-zotero_link: "zotero://select/items/0_BAWTA8JH"
+zotero_link: "zotero://select/items/0_PPXWG4Z9"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Delivering precision oncology in metastatic breast cancer: Clinical impact of comprehensive genomic profiling-The CATCH experience.
 - **Journal**: International journal of cancer (**IF: Unknown**)
 - **Published**: 2026-03-15 | **PMID**: 41170836
 - **DOI**: [10.1002/ijc.70208](https://doi.org/10.1002/ijc.70208)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BAWTA8JH)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_PPXWG4Z9)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

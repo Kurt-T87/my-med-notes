@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-03-05"
 doi: "10.1016/j.ejmech.2026.118565"
 pmid: 41548293
-zotero_link: "zotero://select/items/0_68PUFDA7"
+zotero_link: "zotero://select/items/0_TGUF8TUX"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-16
+sync_date: 2026-03-23
 ---
 # Discover of a highly effective covalent inhibitor of CDK6 for triple-negative breast cancer treatment.
 - **Journal**: European journal of medicinal chemistry (**IF: 12.8**)
 - **Published**: 2026-03-05 | **PMID**: 41548293
 - **DOI**: [10.1016/j.ejmech.2026.118565](https://doi.org/10.1016/j.ejmech.2026.118565)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_68PUFDA7)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TGUF8TUX)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
