@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-03-01"
 doi: "10.1016/j.clbc.2025.10.003"
 pmid: 41233220
-zotero_link: "zotero://select/items/0_6KUDT7NP"
+zotero_link: "zotero://select/items/0_WU2MKDR7"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-23
+sync_date: 2026-03-30
 ---
 # Reconciling Sentinel Node Omission with CDK4/6 Inhibitor Eligibility in HR+/HER2- Early Breast Cancer: A Real-World Cohort Analysis.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-03-01 | **PMID**: 41233220
 - **DOI**: [10.1016/j.clbc.2025.10.003](https://doi.org/10.1016/j.clbc.2025.10.003)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_6KUDT7NP)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WU2MKDR7)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

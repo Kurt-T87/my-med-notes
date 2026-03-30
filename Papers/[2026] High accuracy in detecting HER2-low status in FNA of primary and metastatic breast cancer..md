@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-01"
 doi: "10.1002/cncy.70085"
 pmid: 41757801
-zotero_link: "zotero://select/items/0_8V5ZBIGM"
+zotero_link: "zotero://select/items/0_3WD3S9S2"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-23
+sync_date: 2026-03-30
 ---
 # High accuracy in detecting HER2-low status in FNA of primary and metastatic breast cancer.
 - **Journal**: Cancer cytopathology (**IF: Unknown**)
 - **Published**: 2026-03-01 | **PMID**: 41757801
 - **DOI**: [10.1002/cncy.70085](https://doi.org/10.1002/cncy.70085)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8V5ZBIGM)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3WD3S9S2)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-01"
 doi: "10.1038/s44319-026-00691-x"
 pmid: 41606266
-zotero_link: "zotero://select/items/0_BZJNWHUZ"
+zotero_link: "zotero://select/items/0_RMWQ79CS"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-23
+sync_date: 2026-03-30
 ---
 # EZH2 directs HER2+ breast cancer progression through the modulation of epithelial plasticity.
 - **Journal**: EMBO reports (**IF: Unknown**)
 - **Published**: 2026-03-01 | **PMID**: 41606266
 - **DOI**: [10.1038/s44319-026-00691-x](https://doi.org/10.1038/s44319-026-00691-x)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BZJNWHUZ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RMWQ79CS)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

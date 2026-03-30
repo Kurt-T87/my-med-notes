@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.7417/CT.2026.2015"
 pmid: 41773376
-zotero_link: "zotero://select/items/0_67H7IZ7J"
+zotero_link: "zotero://select/items/0_Z3BCTZXB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-23
+sync_date: 2026-03-30
 ---
 # The Role of Ki-67 in Predicting Breast Cancer Survival in Indonesia: A Prospective Cohort Study.
 - **Journal**: La Clinica terapeutica (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 41773376
 - **DOI**: [10.7417/CT.2026.2015](https://doi.org/10.7417/CT.2026.2015)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_67H7IZ7J)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_Z3BCTZXB)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

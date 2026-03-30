@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-01"
 doi: "10.1016/j.jss.2026.01.021"
 pmid: 41690003
-zotero_link: "zotero://select/items/0_46CP55N2"
+zotero_link: "zotero://select/items/0_ZAAT53JT"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-23
+sync_date: 2026-03-30
 ---
 # Breast Conserving Therapy Is a Safe Option for Women Under 40 Diagnosed With Breast Cancer.
 - **Journal**: The Journal of surgical research (**IF: Unknown**)
 - **Published**: 2026-03-01 | **PMID**: 41690003
 - **DOI**: [10.1016/j.jss.2026.01.021](https://doi.org/10.1016/j.jss.2026.01.021)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_46CP55N2)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ZAAT53JT)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

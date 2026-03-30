@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-01"
 doi: "10.1245/s10434-025-18713-8"
 pmid: 41238982
-zotero_link: "zotero://select/items/0_PRTHNRCT"
+zotero_link: "zotero://select/items/0_3DAWX625"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-23
+sync_date: 2026-03-30
 ---
 # Germline BRCA1/2 Mutation Prevalence in Unselected ER-Low/HER2-Negative Breast Cancer.
 - **Journal**: Annals of surgical oncology (**IF: Unknown**)
 - **Published**: 2026-03-01 | **PMID**: 41238982
 - **DOI**: [10.1245/s10434-025-18713-8](https://doi.org/10.1245/s10434-025-18713-8)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_PRTHNRCT)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3DAWX625)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

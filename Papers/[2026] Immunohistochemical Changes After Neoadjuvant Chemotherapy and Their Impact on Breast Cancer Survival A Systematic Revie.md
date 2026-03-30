@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-03-01"
 doi: "10.1016/j.clbc.2025.10.017"
 pmid: 41298185
-zotero_link: "zotero://select/items/0_3K6DPG8E"
+zotero_link: "zotero://select/items/0_WVND5B3G"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-23
+sync_date: 2026-03-30
 ---
 # Immunohistochemical Changes After Neoadjuvant Chemotherapy and Their Impact on Breast Cancer Survival: A Systematic Review and Meta-analysis.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-03-01 | **PMID**: 41298185
 - **DOI**: [10.1016/j.clbc.2025.10.017](https://doi.org/10.1016/j.clbc.2025.10.017)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3K6DPG8E)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WVND5B3G)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

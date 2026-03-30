@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-01"
 doi: "10.1016/j.modpat.2025.100935"
 pmid: 41620175
-zotero_link: "zotero://select/items/0_7NE548IG"
+zotero_link: "zotero://select/items/0_APAUGBS9"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-23
+sync_date: 2026-03-30
 ---
 # Predictors of Response to Neoadjuvant Therapy in Human Epidermal Growth Factor Receptor 2 (HER2)-Positive Breast Cancer and Pathological Evaluation of HER2 Heterogeneity.
 - **Journal**: Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc (**IF: Unknown**)
 - **Published**: 2026-03-01 | **PMID**: 41620175
 - **DOI**: [10.1016/j.modpat.2025.100935](https://doi.org/10.1016/j.modpat.2025.100935)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7NE548IG)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_APAUGBS9)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

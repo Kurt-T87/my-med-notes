@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-01"
 doi: "10.1080/13543784.2026.2634346"
 pmid: 41700978
-zotero_link: "zotero://select/items/0_3CM585N7"
+zotero_link: "zotero://select/items/0_W4Z52SI8"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-23
+sync_date: 2026-03-30
 ---
 # KAT6 inhibitors under investigation for solid tumors: the preclinical and early phase progress.
 - **Journal**: Expert opinion on investigational drugs (**IF: Unknown**)
 - **Published**: 2026-03-01 | **PMID**: 41700978
 - **DOI**: [10.1080/13543784.2026.2634346](https://doi.org/10.1080/13543784.2026.2634346)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3CM585N7)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_W4Z52SI8)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

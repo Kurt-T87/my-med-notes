@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-03-01"
 doi: "10.1111/his.70024"
 pmid: 41263779
-zotero_link: "zotero://select/items/0_AMVHXGSG"
+zotero_link: "zotero://select/items/0_RHP7439H"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-23
+sync_date: 2026-03-30
 ---
 # Apocrine carcinoma of the breast: distinctive metabolic reprogramming and high-frequency PIK3CA mutations revealed by molecular and immunohistochemical analysis.
 - **Journal**: Histopathology (**IF: Unknown**)
 - **Published**: 2026-03-01 | **PMID**: 41263779
 - **DOI**: [10.1111/his.70024](https://doi.org/10.1111/his.70024)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_AMVHXGSG)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RHP7439H)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

@@ -5,15 +5,15 @@ if: 56.7
 published: "2026-03-01"
 doi: "10.1016/j.annonc.2025.11.005"
 pmid: 41260264
-zotero_link: "zotero://select/items/0_Z9RSKE7H"
+zotero_link: "zotero://select/items/0_ZG5QJBTN"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-23
+sync_date: 2026-03-30
 ---
 # Tucatinib and trastuzumab emtansine for patients with previously treated HER2-positive locally advanced and metastatic breast cancer: primary analysis of the randomized phase III trial HER2CLIMB-02.
 - **Journal**: Annals of oncology : official journal of the European Society for Medical Oncology (**IF: 56.7**)
 - **Published**: 2026-03-01 | **PMID**: 41260264
 - **DOI**: [10.1016/j.annonc.2025.11.005](https://doi.org/10.1016/j.annonc.2025.11.005)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_Z9RSKE7H)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ZG5QJBTN)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

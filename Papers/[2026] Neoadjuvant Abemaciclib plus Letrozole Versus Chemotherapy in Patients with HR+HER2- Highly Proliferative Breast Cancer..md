@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-03-02"
 doi: "10.1158/1078-0432.CCR-25-2435"
 pmid: 41385615
-zotero_link: "zotero://select/items/0_8U65QX4Q"
+zotero_link: "zotero://select/items/0_EQ9PFXJ4"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-03-23
+sync_date: 2026-03-30
 ---
 # Neoadjuvant Abemaciclib plus Letrozole Versus Chemotherapy in Patients with HR+/HER2- Highly Proliferative Breast Cancer.
 - **Journal**: Clinical cancer research : an official journal of the American Association for Cancer Research (**IF: 12.5**)
 - **Published**: 2026-03-02 | **PMID**: 41385615
 - **DOI**: [10.1158/1078-0432.CCR-25-2435](https://doi.org/10.1158/1078-0432.CCR-25-2435)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8U65QX4Q)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_EQ9PFXJ4)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
