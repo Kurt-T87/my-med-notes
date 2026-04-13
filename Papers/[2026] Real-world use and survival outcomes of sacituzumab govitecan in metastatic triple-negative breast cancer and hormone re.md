@@ -5,15 +5,15 @@ if: 7.6
 published: "2026-04-01"
 doi: "10.1038/s41416-026-03346-9"
 pmid: 41644812
-zotero_link: "zotero://select/items/0_MRSMK8G4"
+zotero_link: "zotero://select/items/0_T56UEF34"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-06
+sync_date: 2026-04-13
 ---
 # Real-world use and survival outcomes of sacituzumab govitecan in metastatic triple-negative breast cancer and hormone receptor-positive/HER2-negative metastatic breast cancer.
 - **Journal**: British journal of cancer (**IF: 7.6**)
 - **Published**: 2026-04-01 | **PMID**: 41644812
 - **DOI**: [10.1038/s41416-026-03346-9](https://doi.org/10.1038/s41416-026-03346-9)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MRSMK8G4)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_T56UEF34)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

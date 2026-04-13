@@ -5,15 +5,15 @@ if: 56.7
 published: "2026-04-01"
 doi: "10.1016/j.annonc.2025.11.018"
 pmid: 41391667
-zotero_link: "zotero://select/items/0_TDPNGV5D"
+zotero_link: "zotero://select/items/0_UU4N8EKQ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-06
+sync_date: 2026-04-13
 ---
 # Imlunestrant with or without abemaciclib in advanced breast cancer: updated efficacy results from the phase III EMBER-3 trial.
 - **Journal**: Annals of oncology : official journal of the European Society for Medical Oncology (**IF: 56.7**)
 - **Published**: 2026-04-01 | **PMID**: 41391667
 - **DOI**: [10.1016/j.annonc.2025.11.018](https://doi.org/10.1016/j.annonc.2025.11.018)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TDPNGV5D)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UU4N8EKQ)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

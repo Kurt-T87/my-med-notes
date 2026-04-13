@@ -5,45 +5,43 @@ if: Unknown
 published: "2026-04-01"
 doi: "10.1002/phar.70134"
 pmid: 41851603
-zotero_link: "zotero://select/items/0_N7WQ39JW"
+zotero_link: "zotero://select/items/0_9DF8W87Q"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-06
+sync_date: 2026-04-13
 ---
 # Outcomes of CDK4/6 Inhibitor-Based Therapy in Premenopausal HR+/HER2- Metastatic Breast Cancer: Real World Data From A Multicenter Study.
 - **Journal**: Pharmacotherapy (**IF: Unknown**)
 - **Published**: 2026-04-01 | **PMID**: 41851603
 - **DOI**: [10.1002/phar.70134](https://doi.org/10.1002/phar.70134)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_N7WQ39JW)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9DF8W87Q)
 
-作为乳腺癌领域的转化医学专家，我为您整理了这项关于绝经前 HR+/HER2- 晚期乳腺癌（MBC）真实世界研究的深度深度解析：
+这是一份基于您提供的文献摘要进行的临床深度解析：
 
 ## 🧬 Gemini 临床深度解析
 
 - **分型与人群:** 
-    - **分子分型：** 激素受体阳性/人表皮生长因子受体2阴性（HR+/HER2-）。
-    - **疾病阶段：** 晚期/转移性乳腺癌（MBC）。
-    - **特定人群：** 绝经前及围绝经期女性（平均年龄 42.96 岁）。
+  - **分子分型：** 激素受体阳性/人表皮生长因子受体2阴性 (HR+/HER2-)。
+  - **分期：** 晚期/转移性乳腺癌 (MBC)。
+  - **特定人群：** 绝经前及围绝经期女性。
 
 - **PICO 核心:** 
-    - **P (Patient):** 267名来自土耳其5个中心、接受 CDK4/6 抑制剂治疗的绝经前/围绝经期 HR+/HER2- MBC 患者。
-    - **I (Intervention):** 瑞波西利（Ribociclib）+ 内分泌治疗（ET）。
-    - **C (Comparison):** 哌柏西利（Palbociclib）+ 内分泌治疗（ET）。
-    - **O (Outcome):** 主要终点为无进展生存期（PFS）和总生存期（OS）；次要终点包括客观缓解率（ORR）和安全性。
+    - **P (Patient):** 267名绝经前/围绝经期 HR+/HER2- 晚期乳腺癌患者（土耳其多中心研究）。
+    - **I (Intervention):** 瑞波西利 (Ribociclib) + 内分泌治疗 (ET)（n=181）。
+    - **C (Comparison):** 哌柏西利 (Palbociclib) + 内分泌治疗 (ET)（n=86）。
+    - **O (Outcome):** 中位 PFS（无进展生存期）瑞波西利组 24.41个月 vs 哌柏西利组 24.05个月；中位 OS（总生存期）两组均未表现出统计学差异。
 
 - **临床价值:** 
-    该研究通过真实世界数据（RWD）填补了绝经前人群中不同 CDK4/6i 头对头比较的临床证据空白。研究结果显示，在绝经前人群中，瑞波西利与哌柏西利在 PFS、OS 及 ORR 上均无统计学显著差异。这为临床医生提供了更灵活的选择空间，提示在选择药物时可以更多地基于患者的个体化特征（如基础疾病、药物可及性、副作用耐受度）而非单纯追求疗效差异。
+    该研究通过真实世界数据 (RWD) 证实，瑞波西利与哌柏西利在**绝经前晚期人群**中的疗效与安全性基本相当。虽然 MONALEESA-7 随机对照研究确立了瑞波西利在绝经前人群中的 OS 获益地位，但本项 RWD 表明在实际临床操作中，哌柏西利依然是该人群强有力的备选方案。这为临床医生在面临药物可及性、价格或特定副作用偏好时，提供了更具弹性的决策依据。
 
 - **关键数据:** 
-    - **中位 PFS:** 瑞波西利组 **24.41 个月** vs. 哌柏西利组 **24.05 个月** (HR: 1.06; p=0.94)。
-    - **中位 OS:** 瑞波西利组 **41.03 个月** vs. 哌柏西利组 **未达到** (p=0.86)。
-    - **ORR:** 瑞波西利组 **69%** vs. 哌柏西利组 **64%** (p=0.459)。
-    - **安全性：** 瑞波西利组 3-4 级不良事件发生率略高 (**40.3%** vs. **29.1%**)，但未达到统计学显著差异 (p=0.074)。中性粒细胞减少是最常见的毒性（约 73%）。
+    - **疗效：** 两组 PFS 极度接近（HR 1.06, p=0.94），ORR（客观缓解率）分别为 69% (Ribo) 和 64% (Palbo, p=0.459)。
+    - **安全性：** 中性粒细胞减少是最常见的毒性（~73%）。
+    - **分级：** 瑞波西利组的 3-4 级不良事件发生率略高 (40.3% vs 29.1%)，尽管统计学上无显著差异 (p=0.074)，但仍提示临床需关注瑞波西利更频繁的监测需求。
 
 - **专家评述:** 
-    1. **真实世界一致性：** 尽管 MONALEESA-7 试验确立了瑞波西利在绝经前人群中的 OS 获益优势，但本真实世界研究显示哌柏西利与瑞波西利的疗效相当。这可能与真实世界中患者的后续治疗选择（Cross-over）以及入组标准的差异有关。
-    2. **研究局限性：** 这是一个回顾性研究，存在潜在的选择偏倚。瑞波西利组的随访时间显著短于哌柏西利组（13.3 vs 19.6个月），这可能影响了对长期 OS 数据及晚期毒性的评估。
-    3. **安全性关注：** 瑞波西利组在数值上表现出更高的 3-4 级不良事件率，这在临床实践中需引起重视。对于身体状况较弱或无法频繁监测血常规的患者，哌柏西利的耐受性优势可能更具吸引力。
-    4. **后续关注：** 建议临床医生在选择瑞波西利时仍需关注 QTc 间期及肝功能，而在选择哌柏西利时应侧重中性粒细胞的管理。对于绝经前患者，无论选择哪种抑制剂，充分的卵巢功能抑制（OFS）仍是治疗的基石。
+    1. **数据解读倾向：** 尽管 Ribo 在 MONALEESA-7 中有明确的 OS 优势，但本研究显示两者 OS 差异不显著（p=0.86）。值得注意的是，瑞波西利组的中位随访时间较短（13.3个月 vs 19.6个月），这可能导致其 OS 获益尚未完全释放，或存在后续治疗选择的混杂影响。
+    2. **研究局限性：** 这是一个回顾性研究，样本量（尤其是哌柏西利组）相对较小。土耳其人群的种族特征与诊疗习惯可能与中国患者存在差异。
+    3. **后续关注：** 瑞波西利组的 3-4 级 AE 占比（40.3%）虽与临床试验数据一致，但仍需警惕其肝毒性或 QTc 间期延长等哌柏西利较少见的副作用。在临床实践中，应根据患者的内科基础病史（如肝功能、心脏情况）进行精准选药。
 
 ## 📄 Abstract
 Breast cancer is the leading cause of cancer-related death in women worldwide. Hormone receptor-positive/human epidermal growth factor receptor 2-negative (HR+/HER2-) metastatic breast cancer (MBC) represents the most common subtype. Cyclin-dependent kinase 4/6 (CDK4/6) inhibitors combined with endocrine therapy (ET) constitute standard first-line treatment, yet evidence comparing ribociclib and palbociclib in peri-/premenopausal patients remains limited. This study aimed to evaluate and compare the real-world efficacy and safety profiles of ribociclib versus palbociclib in combination with ET in this patient population.

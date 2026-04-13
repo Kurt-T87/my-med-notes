@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-04-01"
 doi: "10.1002/path.70028"
 pmid: 41588712
-zotero_link: "zotero://select/items/0_TX9IKAQM"
+zotero_link: "zotero://select/items/0_7V77E58R"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-06
+sync_date: 2026-04-13
 ---
 # Hierarchical image pyramid transformer framework for automated breast cancer molecular subtyping using tissue microarrays.
 - **Journal**: The Journal of pathology (**IF: Unknown**)
 - **Published**: 2026-04-01 | **PMID**: 41588712
 - **DOI**: [10.1002/path.70028](https://doi.org/10.1002/path.70028)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TX9IKAQM)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7V77E58R)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

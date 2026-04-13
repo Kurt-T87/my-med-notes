@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-04-01"
 doi: "10.1080/07357907.2025.2606247"
 pmid: 41489230
-zotero_link: "zotero://select/items/0_M4RUCVZK"
+zotero_link: "zotero://select/items/0_U4VCTS3W"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-06
+sync_date: 2026-04-13
 ---
 # The Major Advances of the Year in Breast Cancer: A Point of View After the ASCO 2025 Annual Meeting.
 - **Journal**: Cancer investigation (**IF: Unknown**)
 - **Published**: 2026-04-01 | **PMID**: 41489230
 - **DOI**: [10.1080/07357907.2025.2606247](https://doi.org/10.1080/07357907.2025.2606247)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_M4RUCVZK)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_U4VCTS3W)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
