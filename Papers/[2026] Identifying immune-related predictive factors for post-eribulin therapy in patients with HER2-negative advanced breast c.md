@@ -5,15 +5,15 @@ if: 42.1
 published: "2026-04-01"
 doi: "10.1007/s10147-026-02977-5"
 pmid: 41619158
-zotero_link: "zotero://select/items/0_5N59VU8B"
+zotero_link: "zotero://select/items/0_HJMKCPPF"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-13
+sync_date: 2026-04-20
 ---
 # Identifying immune-related predictive factors for post-eribulin therapy in patients with HER2-negative advanced breast cancer- a multicenter retrospective study.
 - **Journal**: International journal of clinical oncology (**IF: 42.1**)
 - **Published**: 2026-04-01 | **PMID**: 41619158
 - **DOI**: [10.1007/s10147-026-02977-5](https://doi.org/10.1007/s10147-026-02977-5)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5N59VU8B)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HJMKCPPF)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

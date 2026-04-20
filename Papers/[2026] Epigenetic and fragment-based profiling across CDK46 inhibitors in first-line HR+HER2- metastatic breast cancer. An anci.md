@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-04-01"
 doi: "10.1016/j.breast.2026.104703"
 pmid: 41650543
-zotero_link: "zotero://select/items/0_HPPGIUDW"
+zotero_link: "zotero://select/items/0_RUCPJFB3"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-13
+sync_date: 2026-04-20
 ---
 # Epigenetic and fragment-based profiling across CDK4/6 inhibitors in first-line HR+/HER2- metastatic breast cancer. An ancillary analysis of the MAGNETIC.1 study.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-04-01 | **PMID**: 41650543
 - **DOI**: [10.1016/j.breast.2026.104703](https://doi.org/10.1016/j.breast.2026.104703)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HPPGIUDW)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RUCPJFB3)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-04-01"
 doi: "10.1016/j.breast.2026.104715"
 pmid: 41637793
-zotero_link: "zotero://select/items/0_BBKI6XHA"
+zotero_link: "zotero://select/items/0_SM86VMEN"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-13
+sync_date: 2026-04-20
 ---
 # Predicting progression-free survival in hormone-receptor positive (HR+/HER2-) metastatic breast cancer (MBC) treated with CDK4/6 inhibitors: A machine learning approach.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-04-01 | **PMID**: 41637793
 - **DOI**: [10.1016/j.breast.2026.104715](https://doi.org/10.1016/j.breast.2026.104715)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BBKI6XHA)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SM86VMEN)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

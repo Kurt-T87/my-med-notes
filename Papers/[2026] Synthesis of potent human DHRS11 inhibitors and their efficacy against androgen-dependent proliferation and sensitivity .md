@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-04-05"
 doi: "10.1016/j.ejmech.2026.118649"
 pmid: 41679198
-zotero_link: "zotero://select/items/0_K5D7AG22"
+zotero_link: "zotero://select/items/0_E5SZ97CF"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-13
+sync_date: 2026-04-20
 ---
 # Synthesis of potent human DHRS11 inhibitors and their efficacy against androgen-dependent proliferation and sensitivity to AKT inhibitor Capivasertib of triple-negative breast cancer cells.
 - **Journal**: European journal of medicinal chemistry (**IF: 12.8**)
 - **Published**: 2026-04-05 | **PMID**: 41679198
 - **DOI**: [10.1016/j.ejmech.2026.118649](https://doi.org/10.1016/j.ejmech.2026.118649)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_K5D7AG22)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_E5SZ97CF)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

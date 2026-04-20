@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-04-01"
 doi: "10.1002/wjs.70267"
 pmid: 41792988
-zotero_link: "zotero://select/items/0_SJZX7F2G"
+zotero_link: "zotero://select/items/0_MTKJ5245"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-13
+sync_date: 2026-04-20
 ---
 # Clinicopathological Landscape and Survival Outcomes of HER2-Low Breast Cancer in a Large Arab Cohort.
 - **Journal**: World journal of surgery (**IF: Unknown**)
 - **Published**: 2026-04-01 | **PMID**: 41792988
 - **DOI**: [10.1002/wjs.70267](https://doi.org/10.1002/wjs.70267)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SJZX7F2G)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MTKJ5245)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-04-01"
 doi: "10.1016/j.ultrasmedbio.2025.12.009"
 pmid: 41580311
-zotero_link: "zotero://select/items/0_S7TSADUK"
+zotero_link: "zotero://select/items/0_6P4MGHE8"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-13
+sync_date: 2026-04-20
 ---
 # Predicting the Efficacy of Breast Cancer Neoadjuvant Chemotherapy Using Ultrasonography and Machine Learning.
 - **Journal**: Ultrasound in medicine & biology (**IF: 12.8**)
 - **Published**: 2026-04-01 | **PMID**: 41580311
 - **DOI**: [10.1016/j.ultrasmedbio.2025.12.009](https://doi.org/10.1016/j.ultrasmedbio.2025.12.009)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_S7TSADUK)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_6P4MGHE8)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

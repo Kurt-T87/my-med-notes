@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-04-01"
 doi: "10.1016/j.breast.2026.104745"
 pmid: 41785742
-zotero_link: "zotero://select/items/0_KZ5UUCHH"
+zotero_link: "zotero://select/items/0_9GA38AE6"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-13
+sync_date: 2026-04-20
 ---
 # Impact of screening on late-stage breast cancer in the Netherlands: a population-based cohort study (2007-2016).
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-04-01 | **PMID**: 41785742
 - **DOI**: [10.1016/j.breast.2026.104745](https://doi.org/10.1016/j.breast.2026.104745)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KZ5UUCHH)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9GA38AE6)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。

@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-04-01"
 doi: "10.1016/j.breast.2026.104692"
 pmid: 41619649
-zotero_link: "zotero://select/items/0_66B3KHS4"
+zotero_link: "zotero://select/items/0_FRPD9XBQ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-13
+sync_date: 2026-04-20
 ---
 # Effectiveness comparison of first-line CDK4/6 inhibitors in patients with hormone-positive HER2-negative advanced breast cancer according to tumor histology: a sub-analysis of the real-world, multicenter, Italian study PALMARES-2.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-04-01 | **PMID**: 41619649
 - **DOI**: [10.1016/j.breast.2026.104692](https://doi.org/10.1016/j.breast.2026.104692)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_66B3KHS4)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FRPD9XBQ)
 
 
 > [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
