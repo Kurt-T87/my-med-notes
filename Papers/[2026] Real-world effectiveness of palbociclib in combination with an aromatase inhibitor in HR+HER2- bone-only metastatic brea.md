@@ -5,18 +5,20 @@ if: 7.9
 published: "2026-04-01"
 doi: "10.1016/j.breast.2026.104744"
 pmid: 41830752
-zotero_link: "zotero://select/items/0_DSEZTHG8"
+zotero_link: "zotero://select/items/0_UCAPKRHU"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-20
+sync_date: 2026-04-27
 ---
 # Real-world effectiveness of palbociclib in combination with an aromatase inhibitor in HR+/HER2- bone-only metastatic breast cancer.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-04-01 | **PMID**: 41830752
 - **DOI**: [10.1016/j.breast.2026.104744](https://doi.org/10.1016/j.breast.2026.104744)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_DSEZTHG8)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UCAPKRHU)
 
 
-> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
 
 ## 📄 Abstract
 Cyclin-dependent kinase (CDK) 4/6 inhibitors plus endocrine therapy (ET) are more effective than ET alone in diverse populations of patients with HR+/HER2- metastatic breast cancer (MBC). However, real-world effectiveness data for CDK4/6 inhibitors plus ET combination in bone-only MBC are limited.

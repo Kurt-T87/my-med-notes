@@ -5,18 +5,20 @@ if: Unknown
 published: "2026-04-01"
 doi: "10.1002/wjs.70267"
 pmid: 41792988
-zotero_link: "zotero://select/items/0_MTKJ5245"
+zotero_link: "zotero://select/items/0_RW9M22RM"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-20
+sync_date: 2026-04-27
 ---
 # Clinicopathological Landscape and Survival Outcomes of HER2-Low Breast Cancer in a Large Arab Cohort.
 - **Journal**: World journal of surgery (**IF: Unknown**)
 - **Published**: 2026-04-01 | **PMID**: 41792988
 - **DOI**: [10.1002/wjs.70267](https://doi.org/10.1002/wjs.70267)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MTKJ5245)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RW9M22RM)
 
 
-> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
 
 ## 📄 Abstract
 HER2-low breast cancer (BC) has recently emerged as a therapeutically targetable entity, yet its biological and clinical relevance remains debatable. Limited data are available about HER2-low from non-Western populations, particularly the Middle East, where distinct tumor biology may influence phenotype and treatment response.

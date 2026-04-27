@@ -5,18 +5,20 @@ if: 7.9
 published: "2026-04-01"
 doi: "10.1016/j.breast.2026.104723"
 pmid: 41722138
-zotero_link: "zotero://select/items/0_T4V2AVIN"
+zotero_link: "zotero://select/items/0_ACW5NTIB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-20
+sync_date: 2026-04-27
 ---
 # Incidence of treated brain metastases among patients with stage I-III breast cancer: A population-based study.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-04-01 | **PMID**: 41722138
 - **DOI**: [10.1016/j.breast.2026.104723](https://doi.org/10.1016/j.breast.2026.104723)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_T4V2AVIN)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ACW5NTIB)
 
 
-> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
 
 ## 📄 Abstract
 The incidence and risk factors for brain metastases among patients with stage I-III breast cancer remain poorly defined.

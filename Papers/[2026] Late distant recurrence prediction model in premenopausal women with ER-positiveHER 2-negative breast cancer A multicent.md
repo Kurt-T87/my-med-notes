@@ -5,18 +5,20 @@ if: 7.9
 published: "2026-04-01"
 doi: "10.1016/j.breast.2026.104738"
 pmid: 41707479
-zotero_link: "zotero://select/items/0_UV7KG9WJ"
+zotero_link: "zotero://select/items/0_6HFQMX8F"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-20
+sync_date: 2026-04-27
 ---
 # Late distant recurrence prediction model in premenopausal women with ER-positive/HER 2-negative breast cancer: A multicenter retrospective study.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-04-01 | **PMID**: 41707479
 - **DOI**: [10.1016/j.breast.2026.104738](https://doi.org/10.1016/j.breast.2026.104738)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UV7KG9WJ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_6HFQMX8F)
 
 
-> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
 
 ## 📄 Abstract
 Late distant recurrence (DR) remains a significant challenge in estrogen receptor (ER)-positive/Human Epidermal Growth Factor Receptor 2 (HER2)-negative breast cancer, especially in premenopausal patients. This study aimed to develop a machine-learning model predicting late DR risk in premenopausal patients and to assess the clinical benefit of extended endocrine therapy (ET) according to risk stratification.

@@ -5,18 +5,20 @@ if: 12.8
 published: "2026-04-01"
 doi: "10.1016/j.ultrasmedbio.2025.12.009"
 pmid: 41580311
-zotero_link: "zotero://select/items/0_6P4MGHE8"
+zotero_link: "zotero://select/items/0_N957CGPI"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-20
+sync_date: 2026-04-27
 ---
 # Predicting the Efficacy of Breast Cancer Neoadjuvant Chemotherapy Using Ultrasonography and Machine Learning.
 - **Journal**: Ultrasound in medicine & biology (**IF: 12.8**)
 - **Published**: 2026-04-01 | **PMID**: 41580311
 - **DOI**: [10.1016/j.ultrasmedbio.2025.12.009](https://doi.org/10.1016/j.ultrasmedbio.2025.12.009)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_6P4MGHE8)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_N957CGPI)
 
 
-> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
 
 ## 📄 Abstract
 This study aimed to develop a machine learning model based on ultrasonography (US) and clinicopathological features to predict pathological complete response (pCR) following neoadjuvant chemotherapy (NAC) in patients with breast cancer. The goal was to establish a non-invasive prediction tool to facilitate individualized treatment planning.

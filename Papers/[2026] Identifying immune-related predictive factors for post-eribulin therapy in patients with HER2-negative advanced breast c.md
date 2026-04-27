@@ -5,18 +5,20 @@ if: 42.1
 published: "2026-04-01"
 doi: "10.1007/s10147-026-02977-5"
 pmid: 41619158
-zotero_link: "zotero://select/items/0_HJMKCPPF"
+zotero_link: "zotero://select/items/0_7MUHVDXT"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-20
+sync_date: 2026-04-27
 ---
 # Identifying immune-related predictive factors for post-eribulin therapy in patients with HER2-negative advanced breast cancer- a multicenter retrospective study.
 - **Journal**: International journal of clinical oncology (**IF: 42.1**)
 - **Published**: 2026-04-01 | **PMID**: 41619158
 - **DOI**: [10.1007/s10147-026-02977-5](https://doi.org/10.1007/s10147-026-02977-5)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HJMKCPPF)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7MUHVDXT)
 
 
-> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
 
 ## 📄 Abstract
 In the EMBRACE study, eribulin (ERI) monotherapy improved the overall survival (OS) of patients with HER2-negative advanced breast cancer (HER2-negative ABC). A post hoc analysis identified the baseline absolute lymphocyte count (ALC) as a predictive marker in the ERI arm; nevertheless, factors affecting post-ERI had not been well explored.

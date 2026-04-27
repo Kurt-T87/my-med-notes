@@ -5,18 +5,20 @@ if: Unknown
 published: "2026-04-01"
 doi: "10.1002/phar.70134"
 pmid: 41851603
-zotero_link: "zotero://select/items/0_P44F9DIV"
+zotero_link: "zotero://select/items/0_5HAP4DW9"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-20
+sync_date: 2026-04-27
 ---
 # Outcomes of CDK4/6 Inhibitor-Based Therapy in Premenopausal HR+/HER2- Metastatic Breast Cancer: Real World Data From A Multicenter Study.
 - **Journal**: Pharmacotherapy (**IF: Unknown**)
 - **Published**: 2026-04-01 | **PMID**: 41851603
 - **DOI**: [10.1002/phar.70134](https://doi.org/10.1002/phar.70134)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_P44F9DIV)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5HAP4DW9)
 
 
-> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
 
 ## 📄 Abstract
 Breast cancer is the leading cause of cancer-related death in women worldwide. Hormone receptor-positive/human epidermal growth factor receptor 2-negative (HR+/HER2-) metastatic breast cancer (MBC) represents the most common subtype. Cyclin-dependent kinase 4/6 (CDK4/6) inhibitors combined with endocrine therapy (ET) constitute standard first-line treatment, yet evidence comparing ribociclib and palbociclib in peri-/premenopausal patients remains limited. This study aimed to evaluate and compare the real-world efficacy and safety profiles of ribociclib versus palbociclib in combination with ET in this patient population.

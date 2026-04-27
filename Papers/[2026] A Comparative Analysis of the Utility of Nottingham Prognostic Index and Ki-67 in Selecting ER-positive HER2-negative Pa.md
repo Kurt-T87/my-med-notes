@@ -5,18 +5,20 @@ if: 7.9
 published: "2026-04-01"
 doi: "10.1016/j.clbc.2026.02.008"
 pmid: 41850212
-zotero_link: "zotero://select/items/0_JU3TSGBR"
+zotero_link: "zotero://select/items/0_EC3PNCWF"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-20
+sync_date: 2026-04-27
 ---
 # A Comparative Analysis of the Utility of Nottingham Prognostic Index and Ki-67 in Selecting ER-positive HER2-negative Patients for Oncotype DX Testing.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-04-01 | **PMID**: 41850212
 - **DOI**: [10.1016/j.clbc.2026.02.008](https://doi.org/10.1016/j.clbc.2026.02.008)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JU3TSGBR)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_EC3PNCWF)
 
 
-> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
 
 ## 📄 Abstract
 The Oncotype DX Recurrence Score (RS), Nottingham Prognostic Index (NPI), and Ki-67 are commonly used tools to assess recurrence risk and guide adjuvant treatment decisions in early breast cancer. This study evaluated the relationship between NPI, Ki-67, and Oncotype DX RS, and explored whether NPI and Ki-67 may help contextualize patient selection for genomic testing.

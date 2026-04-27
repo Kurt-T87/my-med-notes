@@ -5,18 +5,20 @@ if: 7.9
 published: "2026-04-01"
 doi: "10.1016/j.clbc.2026.02.015"
 pmid: 41866264
-zotero_link: "zotero://select/items/0_K8KR5TVX"
+zotero_link: "zotero://select/items/0_6QSK72DF"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-20
+sync_date: 2026-04-27
 ---
 # Reduced Survival Outcomes in Socioeconomically Disadvantaged Women With HER2-Negative Breast Cancer Undergoing Chemotherapy in Canada.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-04-01 | **PMID**: 41866264
 - **DOI**: [10.1016/j.clbc.2026.02.015](https://doi.org/10.1016/j.clbc.2026.02.015)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_K8KR5TVX)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_6QSK72DF)
 
 
-> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
 
 ## 📄 Abstract
 Breast cancer remains the most common oncological condition and the leading cause of cancer-related mortality in the world. In addition to the breast cancer stage at diagnosis, its histology and subtype, the social determinants of health have a substantial role in cancer survivorship.

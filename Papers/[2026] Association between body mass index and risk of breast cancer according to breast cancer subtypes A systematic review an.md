@@ -5,18 +5,20 @@ if: 7.9
 published: "2026-04-01"
 doi: "10.1016/j.breast.2026.104710"
 pmid: 41650544
-zotero_link: "zotero://select/items/0_VW8XVK73"
+zotero_link: "zotero://select/items/0_5XPGUVAE"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-20
+sync_date: 2026-04-27
 ---
 # Association between body mass index and risk of breast cancer according to breast cancer subtypes: A systematic review and meta-analysis.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-04-01 | **PMID**: 41650544
 - **DOI**: [10.1016/j.breast.2026.104710](https://doi.org/10.1016/j.breast.2026.104710)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VW8XVK73)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5XPGUVAE)
 
 
-> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
 
 ## 📄 Abstract
 Higher body mass index (BMI) is a risk factor for breast cancer (BC) development, but the relationship with BC subtypes in pre- and post-menopausal women remains unclear.

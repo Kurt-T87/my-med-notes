@@ -5,18 +5,20 @@ if: 7.9
 published: "2026-04-01"
 doi: "10.1016/j.clbc.2026.02.006"
 pmid: 41846206
-zotero_link: "zotero://select/items/0_RMQQFDII"
+zotero_link: "zotero://select/items/0_62DV9DMX"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-20
+sync_date: 2026-04-27
 ---
 # Impact of Post-Neoadjuvant Chemotherapy Biomarker Changes on Long-Term Oncological Outcomes in Non-pCR Breast Cancer.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-04-01 | **PMID**: 41846206
 - **DOI**: [10.1016/j.clbc.2026.02.006](https://doi.org/10.1016/j.clbc.2026.02.006)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RMQQFDII)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_62DV9DMX)
 
 
-> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
 
 ## 📄 Abstract
 The present study is designed to ascertain the occurrence rate of biomarker changes in different subtypes and their influence on the survival prognosis of breast cancer (BC) patients after neoadjuvant chemotherapy (NAC). A pathological complete response (pCR) in BC after NAC foretells a favorable prognosis, while patients who do not achieve pCR (non-pCR) may have alterations in certain biomarker profiles.

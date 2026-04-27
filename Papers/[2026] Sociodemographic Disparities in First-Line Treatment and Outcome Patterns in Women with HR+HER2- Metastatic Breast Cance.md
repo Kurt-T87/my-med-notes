@@ -5,18 +5,20 @@ if: 12.5
 published: "2026-04-01"
 doi: "10.1158/1055-9965.EPI-25-1459"
 pmid: 41609730
-zotero_link: "zotero://select/items/0_DT3PHEVT"
+zotero_link: "zotero://select/items/0_9FI7P6IG"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-20
+sync_date: 2026-04-27
 ---
 # Sociodemographic Disparities in First-Line Treatment and Outcome Patterns in Women with HR+/HER2- Metastatic Breast Cancer.
 - **Journal**: Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology (**IF: 12.5**)
 - **Published**: 2026-04-01 | **PMID**: 41609730
 - **DOI**: [10.1158/1055-9965.EPI-25-1459](https://doi.org/10.1158/1055-9965.EPI-25-1459)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_DT3PHEVT)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9FI7P6IG)
 
 
-> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
 
 ## 📄 Abstract
 Various factors such as race/ethnicity, practice settings, socioeconomic status (SES), and geographic region influence cancer outcomes. We describe treatment patterns and outcomes among women with hormone receptor-positive/human epidermal growth factor receptor 2-negative (HR+/HER2-) metastatic breast cancer treated in the United States based on these factors.

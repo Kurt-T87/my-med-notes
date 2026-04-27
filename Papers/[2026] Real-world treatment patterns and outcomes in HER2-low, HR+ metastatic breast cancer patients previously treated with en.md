@@ -5,18 +5,20 @@ if: 7.9
 published: "2026-04-01"
 doi: "10.1016/j.breast.2026.104721"
 pmid: 41775089
-zotero_link: "zotero://select/items/0_F8GICHTE"
+zotero_link: "zotero://select/items/0_BHGTNB4F"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-20
+sync_date: 2026-04-27
 ---
 # Real-world treatment patterns and outcomes in HER2-low, HR+ metastatic breast cancer patients previously treated with endocrine therapy in the United States.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-04-01 | **PMID**: 41775089
 - **DOI**: [10.1016/j.breast.2026.104721](https://doi.org/10.1016/j.breast.2026.104721)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_F8GICHTE)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BHGTNB4F)
 
 
-> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
 
 ## 📄 Abstract
 Up to 60% of metastatic breast cancer (mBC) cases historically classified as human epidermal growth factor receptor 2 (HER2)-negative may be HER2-low, expanding options towards new HER2 targeted treatments. Greater understanding of the current therapeutic journey of this population can help with assessing the potential impact of these novel therapies.

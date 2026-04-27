@@ -5,18 +5,20 @@ if: 7.9
 published: "2026-04-01"
 doi: "10.1016/j.breast.2026.104703"
 pmid: 41650543
-zotero_link: "zotero://select/items/0_RUCPJFB3"
+zotero_link: "zotero://select/items/0_5Z86PT7H"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-20
+sync_date: 2026-04-27
 ---
 # Epigenetic and fragment-based profiling across CDK4/6 inhibitors in first-line HR+/HER2- metastatic breast cancer. An ancillary analysis of the MAGNETIC.1 study.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-04-01 | **PMID**: 41650543
 - **DOI**: [10.1016/j.breast.2026.104703](https://doi.org/10.1016/j.breast.2026.104703)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RUCPJFB3)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5Z86PT7H)
 
 
-> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
 
 ## 📄 Abstract
 CDK4/6 inhibitors (CDK4/6i) in combination with endocrine therapy (ET) represent the standard of care for hormone receptor-positive, HER2-negative (HR+/HER2-) metastatic breast cancer (MBC) patients. However, no head-to-head randomized trials have directly compared palbociclib, ribociclib, and abemaciclib. Moreover, predictive biomarkers of resistance to CDK4/6i remain largely undefined. This study aimed to evaluate circulating tumor DNA (ctDNA)-based epigenetic and fragmentomic biomarkers as potential predictors of response and resistance in patients receiving CDK4/6i.

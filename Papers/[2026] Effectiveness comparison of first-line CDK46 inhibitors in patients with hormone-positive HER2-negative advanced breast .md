@@ -5,18 +5,20 @@ if: 7.9
 published: "2026-04-01"
 doi: "10.1016/j.breast.2026.104692"
 pmid: 41619649
-zotero_link: "zotero://select/items/0_FRPD9XBQ"
+zotero_link: "zotero://select/items/0_FI74ESS9"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-20
+sync_date: 2026-04-27
 ---
 # Effectiveness comparison of first-line CDK4/6 inhibitors in patients with hormone-positive HER2-negative advanced breast cancer according to tumor histology: a sub-analysis of the real-world, multicenter, Italian study PALMARES-2.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-04-01 | **PMID**: 41619649
 - **DOI**: [10.1016/j.breast.2026.104692](https://doi.org/10.1016/j.breast.2026.104692)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FRPD9XBQ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FI74ESS9)
 
 
-> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
 
 ## 📄 Abstract
 Invasive lobular breast cancer (ILC) is the second most common breast cancer subtype, with distinctive biological and epidemiologic features. Although phase III trials of cyclin-dependent kinase 4/6 inhibitors (CDK4/6i) in hormone receptor-positive, HER2-negative advanced breast cancer (HR+/HER2-aBC) included patients with ILC, their real-world effectiveness in this population remains poorly characterized.

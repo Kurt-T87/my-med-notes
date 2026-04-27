@@ -5,18 +5,20 @@ if: 7.9
 published: "2026-04-01"
 doi: "10.1016/j.breast.2026.104715"
 pmid: 41637793
-zotero_link: "zotero://select/items/0_SM86VMEN"
+zotero_link: "zotero://select/items/0_FTXHX5EQ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-20
+sync_date: 2026-04-27
 ---
 # Predicting progression-free survival in hormone-receptor positive (HR+/HER2-) metastatic breast cancer (MBC) treated with CDK4/6 inhibitors: A machine learning approach.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-04-01 | **PMID**: 41637793
 - **DOI**: [10.1016/j.breast.2026.104715](https://doi.org/10.1016/j.breast.2026.104715)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SM86VMEN)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FTXHX5EQ)
 
 
-> [!info] Gemini 临床精读解析暂不可用（API 每日免费额度已耗尽）。已为你保留原始摘要供查阅。
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
 
 ## 📄 Abstract
 In HR+/HER2- metastatic breast cancer (MBC), CDK4/6 inhibitors combined with endocrine therapy (ET) significantly improve progression-free survival (PFS). Machine learning (ML) approaches may improve individualized progression risk estimation.
