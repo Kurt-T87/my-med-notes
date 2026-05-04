@@ -5,15 +5,15 @@ if: 40.8
 published: "2026-04-15"
 doi: "10.1038/s41392-026-02632-5"
 pmid: 41986320
-zotero_link: "zotero://select/items/0_UZFD6DPH"
+zotero_link: "zotero://select/items/0_U7TV625C"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-27
+sync_date: 2026-05-04
 ---
 # HDAC inhibitor tucidinostat and metronomic capecitabine plus endocrine therapy for patients with HR-positive HER2-negative advanced breast cancer after CDK4/6 inhibitors treatment: clinical findings and exploratory circulating tumor cell and ctDNA biomarker analyses of a multicenter, phase 2 study (SYSUCC-020 trial).
 - **Journal**: Signal transduction and targeted therapy (**IF: 40.8**)
 - **Published**: 2026-04-15 | **PMID**: 41986320
 - **DOI**: [10.1038/s41392-026-02632-5](https://doi.org/10.1038/s41392-026-02632-5)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UZFD6DPH)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_U7TV625C)
 
 
 > [!warning] Gemini 解析失败

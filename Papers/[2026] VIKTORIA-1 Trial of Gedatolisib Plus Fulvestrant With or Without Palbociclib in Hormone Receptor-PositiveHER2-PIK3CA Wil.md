@@ -5,15 +5,15 @@ if: 42.1
 published: "2026-04-20"
 doi: "10.1200/JCO-25-02643"
 pmid: 41802242
-zotero_link: "zotero://select/items/0_QIDR5ZU4"
+zotero_link: "zotero://select/items/0_CMIVUI9J"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-27
+sync_date: 2026-05-04
 ---
 # VIKTORIA-1 Trial of Gedatolisib Plus Fulvestrant With or Without Palbociclib in Hormone Receptor-Positive/HER2-/PIK3CA Wild-Type Advanced Breast Cancer.
 - **Journal**: Journal of clinical oncology : official journal of the American Society of Clinical Oncology (**IF: 42.1**)
 - **Published**: 2026-04-20 | **PMID**: 41802242
 - **DOI**: [10.1200/JCO-25-02643](https://doi.org/10.1200/JCO-25-02643)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_QIDR5ZU4)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CMIVUI9J)
 
 
 > [!warning] Gemini 解析失败

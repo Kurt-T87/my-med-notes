@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.7717/peerj.20937"
 pmid: 42004698
-zotero_link: "zotero://select/items/0_IHB7RVDW"
+zotero_link: "zotero://select/items/0_QF2T8636"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-27
+sync_date: 2026-05-04
 ---
 # Subtype-specific heterogeneity of myeloid-derived suppressor cells in breast cancer: current insights and future directions.
 - **Journal**: PeerJ (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42004698
 - **DOI**: [10.7717/peerj.20937](https://doi.org/10.7717/peerj.20937)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_IHB7RVDW)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_QF2T8636)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-04-17"
 doi: "10.1007/s10549-026-07962-0"
 pmid: 41991764
-zotero_link: "zotero://select/items/0_4ADDADDD"
+zotero_link: "zotero://select/items/0_WZJS4V2D"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-27
+sync_date: 2026-05-04
 ---
 # Oral selective estrogen receptor degraders in hormone receptor-positive, HER2-negative advanced breast cancer: a systematic review and meta-analysis.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-04-17 | **PMID**: 41991764
 - **DOI**: [10.1007/s10549-026-07962-0](https://doi.org/10.1007/s10549-026-07962-0)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4ADDADDD)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WZJS4V2D)
 
 
 > [!warning] Gemini 解析失败

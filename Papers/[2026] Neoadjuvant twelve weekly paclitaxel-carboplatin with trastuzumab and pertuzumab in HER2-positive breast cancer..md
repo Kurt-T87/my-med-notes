@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-04-11"
 doi: "10.1007/s10549-026-07942-4"
 pmid: 41963621
-zotero_link: "zotero://select/items/0_4DUJW7HU"
+zotero_link: "zotero://select/items/0_AGT9KZB8"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-27
+sync_date: 2026-05-04
 ---
 # Neoadjuvant twelve weekly paclitaxel-carboplatin with trastuzumab and pertuzumab in HER2-positive breast cancer.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-04-11 | **PMID**: 41963621
 - **DOI**: [10.1007/s10549-026-07942-4](https://doi.org/10.1007/s10549-026-07942-4)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4DUJW7HU)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_AGT9KZB8)
 
 
 > [!warning] Gemini 解析失败

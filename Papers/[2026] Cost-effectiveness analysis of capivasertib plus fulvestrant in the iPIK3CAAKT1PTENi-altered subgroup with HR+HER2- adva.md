@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-12-01"
 doi: "10.1080/13696998.2026.2656072"
 pmid: 42009253
-zotero_link: "zotero://select/items/0_3S6V7GBV"
+zotero_link: "zotero://select/items/0_HGZWVKCB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-27
+sync_date: 2026-05-04
 ---
 # Cost-effectiveness analysis of capivasertib plus fulvestrant in the <i>PIK3CA/AKT1/PTEN</i>-altered subgroup with HR+/HER2- advanced breast cancer: a United States payer perspective.
 - **Journal**: Journal of medical economics (**IF: 12.8**)
 - **Published**: 2026-12-01 | **PMID**: 42009253
 - **DOI**: [10.1080/13696998.2026.2656072](https://doi.org/10.1080/13696998.2026.2656072)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3S6V7GBV)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HGZWVKCB)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-04-17"
 doi: "10.1007/s10549-026-07971-z"
 pmid: 41991763
-zotero_link: "zotero://select/items/0_GN5P3KFT"
+zotero_link: "zotero://select/items/0_HF5QRF7T"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-27
+sync_date: 2026-05-04
 ---
 # Sacituzumab-induced severe or febrile neutropenia and G-CSF utilization and cost for advanced HER2-negative breast cancer: a single-center retrospective analysis.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-04-17 | **PMID**: 41991763
 - **DOI**: [10.1007/s10549-026-07971-z](https://doi.org/10.1007/s10549-026-07971-z)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GN5P3KFT)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HF5QRF7T)
 
 
 > [!warning] Gemini 解析失败

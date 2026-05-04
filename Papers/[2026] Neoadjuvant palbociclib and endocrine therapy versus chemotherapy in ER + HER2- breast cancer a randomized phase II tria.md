@@ -5,15 +5,15 @@ if: 14.7
 published: "2026-04-08"
 doi: "10.1038/s41467-026-71452-6"
 pmid: 41951647
-zotero_link: "zotero://select/items/0_GCESES84"
+zotero_link: "zotero://select/items/0_7S3Q9TEW"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-27
+sync_date: 2026-05-04
 ---
 # Neoadjuvant palbociclib and endocrine therapy versus chemotherapy in ER + /HER2- breast cancer: a randomized phase II trial.
 - **Journal**: Nature communications (**IF: 14.7**)
 - **Published**: 2026-04-08 | **PMID**: 41951647
 - **DOI**: [10.1038/s41467-026-71452-6](https://doi.org/10.1038/s41467-026-71452-6)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GCESES84)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7S3Q9TEW)
 
 
 > [!warning] Gemini 解析失败
