@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-01"
 doi: "10.1002/pmic.70110"
 pmid: 41744185
-zotero_link: "zotero://select/items/0_AM2V4XVW"
+zotero_link: "zotero://select/items/0_XMJTT58E"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-04
+sync_date: 2026-05-11
 ---
 # Imaging Mass Spectrometry-Based Assessment of ER, PR, and HER2 Protein Expression in Breast Cancer.
 - **Journal**: Proteomics (**IF: Unknown**)
 - **Published**: 2026-05-01 | **PMID**: 41744185
 - **DOI**: [10.1002/pmic.70110](https://doi.org/10.1002/pmic.70110)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_AM2V4XVW)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XMJTT58E)
 
 
 > [!warning] Gemini 解析失败

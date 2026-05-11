@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-01"
 doi: "10.1080/07357907.2026.2617267"
 pmid: 41627261
-zotero_link: "zotero://select/items/0_9B7WT6HD"
+zotero_link: "zotero://select/items/0_IVXTSVJW"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-04
+sync_date: 2026-05-11
 ---
 # Prognostic Significance of Different Ki-67 Cutoff Values Defined Luminal B HER2-Negative Breast Cancer.
 - **Journal**: Cancer investigation (**IF: Unknown**)
 - **Published**: 2026-05-01 | **PMID**: 41627261
 - **DOI**: [10.1080/07357907.2026.2617267](https://doi.org/10.1080/07357907.2026.2617267)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9B7WT6HD)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_IVXTSVJW)
 
 
 > [!warning] Gemini 解析失败

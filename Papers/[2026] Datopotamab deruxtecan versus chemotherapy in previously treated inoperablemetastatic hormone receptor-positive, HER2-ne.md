@@ -5,15 +5,15 @@ if: 56.7
 published: "2026-05-01"
 doi: "10.1016/j.annonc.2025.12.017"
 pmid: 41448362
-zotero_link: "zotero://select/items/0_KTZ2UMX2"
+zotero_link: "zotero://select/items/0_KCBEESVF"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-04
+sync_date: 2026-05-11
 ---
 # Datopotamab deruxtecan versus chemotherapy in previously treated inoperable/metastatic hormone receptor-positive, HER2-negative breast cancer: final overall survival analysis of the phase III TROPION-Breast01 study.
 - **Journal**: Annals of oncology : official journal of the European Society for Medical Oncology (**IF: 56.7**)
 - **Published**: 2026-05-01 | **PMID**: 41448362
 - **DOI**: [10.1016/j.annonc.2025.12.017](https://doi.org/10.1016/j.annonc.2025.12.017)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KTZ2UMX2)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KCBEESVF)
 
 
 > [!warning] Gemini 解析失败

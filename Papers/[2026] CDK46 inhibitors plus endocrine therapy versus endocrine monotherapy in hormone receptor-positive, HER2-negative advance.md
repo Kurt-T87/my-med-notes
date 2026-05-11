@@ -5,15 +5,15 @@ if: 145.0
 published: "2026-05-01"
 doi: "10.1016/S1470-2045(26)00053-7"
 pmid: 42061371
-zotero_link: "zotero://select/items/0_G7KXBQW9"
+zotero_link: "zotero://select/items/0_T759IVM8"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-04
+sync_date: 2026-05-11
 ---
 # CDK4/6 inhibitors plus endocrine therapy versus endocrine monotherapy in hormone receptor-positive, HER2-negative advanced breast cancer: a reconstructed individual patient data meta-analysis of phase 3 randomised controlled trials.
 - **Journal**: The Lancet. Oncology (**IF: 145.0**)
 - **Published**: 2026-05-01 | **PMID**: 42061371
 - **DOI**: [10.1016/S1470-2045(26)00053-7](https://doi.org/10.1016/S1470-2045(26)00053-7)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_G7KXBQW9)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_T759IVM8)
 
 
 > [!warning] Gemini 解析失败

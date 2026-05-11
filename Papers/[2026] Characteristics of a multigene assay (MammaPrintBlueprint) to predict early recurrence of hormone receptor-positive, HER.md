@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-05-01"
 doi: "10.1007/s12282-026-01847-2"
 pmid: 41886167
-zotero_link: "zotero://select/items/0_W6NXZV2P"
+zotero_link: "zotero://select/items/0_N2SGI4B4"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-04
+sync_date: 2026-05-11
 ---
 # Characteristics of a multigene assay (MammaPrint/Blueprint) to predict early recurrence of hormone receptor-positive, HER2-negative breast cancer: a case‒control study (WJOG16722B).
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-05-01 | **PMID**: 41886167
 - **DOI**: [10.1007/s12282-026-01847-2](https://doi.org/10.1007/s12282-026-01847-2)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_W6NXZV2P)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_N2SGI4B4)
 
 
 > [!warning] Gemini 解析失败

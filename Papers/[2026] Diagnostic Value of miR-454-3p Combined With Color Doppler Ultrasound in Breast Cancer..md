@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-01"
 doi: "10.1002/jcu.70133"
 pmid: 41267471
-zotero_link: "zotero://select/items/0_XI35ABRU"
+zotero_link: "zotero://select/items/0_P9U29J5B"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-04
+sync_date: 2026-05-11
 ---
 # Diagnostic Value of miR-454-3p Combined With Color Doppler Ultrasound in Breast Cancer.
 - **Journal**: Journal of clinical ultrasound : JCU (**IF: Unknown**)
 - **Published**: 2026-05-01 | **PMID**: 41267471
 - **DOI**: [10.1002/jcu.70133](https://doi.org/10.1002/jcu.70133)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XI35ABRU)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_P9U29J5B)
 
 
 > [!warning] Gemini 解析失败

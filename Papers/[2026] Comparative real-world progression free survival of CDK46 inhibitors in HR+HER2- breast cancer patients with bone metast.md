@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-04-10"
 doi: "10.1093/oncolo/oyag146"
 pmid: 41992832
-zotero_link: "zotero://select/items/0_7WKXZD78"
+zotero_link: "zotero://select/items/0_MNJJFDXU"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-04
+sync_date: 2026-05-11
 ---
 # Comparative real-world progression free survival of CDK4/6 inhibitors in HR+/HER2- breast cancer patients with bone metastases.
 - **Journal**: The oncologist (**IF: Unknown**)
 - **Published**: 2026-04-10 | **PMID**: 41992832
 - **DOI**: [10.1093/oncolo/oyag146](https://doi.org/10.1093/oncolo/oyag146)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7WKXZD78)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MNJJFDXU)
 
 
 > [!warning] Gemini 解析失败

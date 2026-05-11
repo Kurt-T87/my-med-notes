@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-04-10"
 doi: "10.1093/oncolo/oyag141"
 pmid: 42011506
-zotero_link: "zotero://select/items/0_TIW7DBTG"
+zotero_link: "zotero://select/items/0_3S9M3SHP"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-04
+sync_date: 2026-05-11
 ---
 # Long-term outcome of isolated locoregional breast cancer recurrence: a large retrospective mono-institutional study.
 - **Journal**: The oncologist (**IF: Unknown**)
 - **Published**: 2026-04-10 | **PMID**: 42011506
 - **DOI**: [10.1093/oncolo/oyag141](https://doi.org/10.1093/oncolo/oyag141)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TIW7DBTG)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3S9M3SHP)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.1371/journal.pone.0348260"
 pmid: 42060658
-zotero_link: "zotero://select/items/0_7Q7DEUXH"
+zotero_link: "zotero://select/items/0_7RE5VU5Q"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-04
+sync_date: 2026-05-11
 ---
 # Ivermectin inhibits ER, HER2, and TGF-β pathways in ER-positive and endocrine-resistant breast cancer cells.
 - **Journal**: PloS one (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42060658
 - **DOI**: [10.1371/journal.pone.0348260](https://doi.org/10.1371/journal.pone.0348260)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7Q7DEUXH)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7RE5VU5Q)
 
 
 > [!warning] Gemini 解析失败

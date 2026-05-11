@@ -5,15 +5,15 @@ if: 145.0
 published: "2026-05-01"
 doi: "10.1016/S1470-2045(26)00059-8"
 pmid: 42061370
-zotero_link: "zotero://select/items/0_K65EXQ22"
+zotero_link: "zotero://select/items/0_6S7M33MC"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-04
+sync_date: 2026-05-11
 ---
 # Safety and antitumour activity of ipatasertib combined with endocrine therapy and a CDK4/6 inhibitor in HR+/HER2- metastatic breast cancer (TAKTIC): a single-centre, open-label, phase 1b trial.
 - **Journal**: The Lancet. Oncology (**IF: 145.0**)
 - **Published**: 2026-05-01 | **PMID**: 42061370
 - **DOI**: [10.1016/S1470-2045(26)00059-8](https://doi.org/10.1016/S1470-2045(26)00059-8)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_K65EXQ22)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_6S7M33MC)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-01"
 doi: "10.1093/bjr/tqag023"
 pmid: 41615457
-zotero_link: "zotero://select/items/0_RWGJXIHI"
+zotero_link: "zotero://select/items/0_EBP2AU9R"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-04
+sync_date: 2026-05-11
 ---
 # MRI response to neoadjuvant chemotherapy and prognostic implications in breast cancer patients.
 - **Journal**: The British journal of radiology (**IF: Unknown**)
 - **Published**: 2026-05-01 | **PMID**: 41615457
 - **DOI**: [10.1093/bjr/tqag023](https://doi.org/10.1093/bjr/tqag023)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RWGJXIHI)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_EBP2AU9R)
 
 
 > [!warning] Gemini 解析失败

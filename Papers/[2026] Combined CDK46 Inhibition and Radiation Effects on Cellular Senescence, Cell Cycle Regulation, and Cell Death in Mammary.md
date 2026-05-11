@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-04-21"
 doi: "10.3390/cells15080734"
 pmid: 42041601
-zotero_link: "zotero://select/items/0_Z7DIQPSM"
+zotero_link: "zotero://select/items/0_D8VBPFKG"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-04
+sync_date: 2026-05-11
 ---
 # Combined CDK4/6 Inhibition and Radiation: Effects on Cellular Senescence, Cell Cycle Regulation, and Cell Death in Mammary Carcinoma Cells.
 - **Journal**: Cells (**IF: Unknown**)
 - **Published**: 2026-04-21 | **PMID**: 42041601
 - **DOI**: [10.3390/cells15080734](https://doi.org/10.3390/cells15080734)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_Z7DIQPSM)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_D8VBPFKG)
 
 
 > [!warning] Gemini 解析失败
