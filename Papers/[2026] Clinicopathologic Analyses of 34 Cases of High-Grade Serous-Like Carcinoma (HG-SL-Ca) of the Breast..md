@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-01"
 doi: "10.1097/PAS.0000000000002516"
 pmid: 41735183
-zotero_link: "zotero://select/items/0_FJEDSVK8"
+zotero_link: "zotero://select/items/0_4N4JW3TV"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-11
+sync_date: 2026-05-18
 ---
 # Clinicopathologic Analyses of 34 Cases of High-Grade Serous-Like Carcinoma (HG-SL-Ca) of the Breast.
 - **Journal**: The American journal of surgical pathology (**IF: Unknown**)
 - **Published**: 2026-05-01 | **PMID**: 41735183
 - **DOI**: [10.1097/PAS.0000000000002516](https://doi.org/10.1097/PAS.0000000000002516)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FJEDSVK8)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4N4JW3TV)
 
 
 > [!warning] Gemini 解析失败

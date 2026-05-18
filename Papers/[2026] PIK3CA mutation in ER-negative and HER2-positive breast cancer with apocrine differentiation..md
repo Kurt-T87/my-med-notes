@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-05-01"
 doi: "10.1007/s12282-026-01837-4"
 pmid: 41729430
-zotero_link: "zotero://select/items/0_E5FBGDW6"
+zotero_link: "zotero://select/items/0_UMXNWM5Z"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-11
+sync_date: 2026-05-18
 ---
 # PIK3CA mutation in ER-negative and HER2-positive breast cancer with apocrine differentiation.
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-05-01 | **PMID**: 41729430
 - **DOI**: [10.1007/s12282-026-01837-4](https://doi.org/10.1007/s12282-026-01837-4)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_E5FBGDW6)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UMXNWM5Z)
 
 
 > [!warning] Gemini 解析失败

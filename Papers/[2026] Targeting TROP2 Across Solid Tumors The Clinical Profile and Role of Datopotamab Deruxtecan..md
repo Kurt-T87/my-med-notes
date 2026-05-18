@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-01"
 doi: "10.1177/10600280251393259"
 pmid: 41321283
-zotero_link: "zotero://select/items/0_NWAMXBX8"
+zotero_link: "zotero://select/items/0_2P5XC2VX"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-11
+sync_date: 2026-05-18
 ---
 # Targeting TROP2 Across Solid Tumors: The Clinical Profile and Role of Datopotamab Deruxtecan.
 - **Journal**: The Annals of pharmacotherapy (**IF: Unknown**)
 - **Published**: 2026-05-01 | **PMID**: 41321283
 - **DOI**: [10.1177/10600280251393259](https://doi.org/10.1177/10600280251393259)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_NWAMXBX8)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_2P5XC2VX)
 
 
 > [!warning] Gemini 解析失败

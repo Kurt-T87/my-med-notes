@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-01"
 doi: "10.1016/j.clinthera.2026.03.004"
 pmid: 41945077
-zotero_link: "zotero://select/items/0_B49MWJHJ"
+zotero_link: "zotero://select/items/0_T93WENGM"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-11
+sync_date: 2026-05-18
 ---
 # Comprehensive Ethnicity Assessment of Ribociclib Pharmacokinetics in Patients With Early and Advanced Breast Cancer.
 - **Journal**: Clinical therapeutics (**IF: Unknown**)
 - **Published**: 2026-05-01 | **PMID**: 41945077
 - **DOI**: [10.1016/j.clinthera.2026.03.004](https://doi.org/10.1016/j.clinthera.2026.03.004)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_B49MWJHJ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_T93WENGM)
 
 
 > [!warning] Gemini 解析失败

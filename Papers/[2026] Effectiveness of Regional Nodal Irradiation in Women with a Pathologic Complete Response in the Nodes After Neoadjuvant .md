@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.1016/j.prro.2025.09.001"
 pmid: 41874497
-zotero_link: "zotero://select/items/0_UXCQ5I3G"
+zotero_link: "zotero://select/items/0_MGCVZIXN"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-11
+sync_date: 2026-05-18
 ---
 # Effectiveness of Regional Nodal Irradiation in Women with a Pathologic Complete Response in the Nodes After Neoadjuvant Chemotherapy with Residual Disease in the Breast.
 - **Journal**: Practical radiation oncology (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 41874497
 - **DOI**: [10.1016/j.prro.2025.09.001](https://doi.org/10.1016/j.prro.2025.09.001)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UXCQ5I3G)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MGCVZIXN)
 
 
 > [!warning] Gemini 解析失败

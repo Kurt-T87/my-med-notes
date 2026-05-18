@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-01"
 doi: "10.1016/j.critrevonc.2026.105174"
 pmid: 41724338
-zotero_link: "zotero://select/items/0_FFIVCHCK"
+zotero_link: "zotero://select/items/0_QEKPF92N"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-11
+sync_date: 2026-05-18
 ---
 # Immunotherapy in triple-negative breast cancer: From molecular mechanisms to precision medicine-overcoming resistance and optimizing clinical outcomes.
 - **Journal**: Critical reviews in oncology/hematology (**IF: Unknown**)
 - **Published**: 2026-05-01 | **PMID**: 41724338
 - **DOI**: [10.1016/j.critrevonc.2026.105174](https://doi.org/10.1016/j.critrevonc.2026.105174)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FFIVCHCK)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_QEKPF92N)
 
 
 > [!warning] Gemini 解析失败

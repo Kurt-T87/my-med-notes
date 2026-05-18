@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-08-05"
 doi: "10.1016/j.ejmech.2026.118879"
 pmid: 42024964
-zotero_link: "zotero://select/items/0_2HRKB3JN"
+zotero_link: "zotero://select/items/0_24ZCIRAU"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-11
+sync_date: 2026-05-18
 ---
 # Benzothiophene-based, orally active PIK3CA H1047R mutant-selective inhibitors for the treatment of HR+/HER2- breast cancer.
 - **Journal**: European journal of medicinal chemistry (**IF: 12.8**)
 - **Published**: 2026-08-05 | **PMID**: 42024964
 - **DOI**: [10.1016/j.ejmech.2026.118879](https://doi.org/10.1016/j.ejmech.2026.118879)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_2HRKB3JN)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_24ZCIRAU)
 
 
 > [!warning] Gemini 解析失败

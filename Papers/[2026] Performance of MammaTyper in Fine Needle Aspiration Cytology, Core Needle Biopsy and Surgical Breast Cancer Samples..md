@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-01"
 doi: "10.1111/cyt.70026"
 pmid: 40990252
-zotero_link: "zotero://select/items/0_M5PEC6HI"
+zotero_link: "zotero://select/items/0_5ASN2XCS"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-04
+sync_date: 2026-05-18
 ---
 # Performance of MammaTyper in Fine Needle Aspiration Cytology, Core Needle Biopsy and Surgical Breast Cancer Samples.
 - **Journal**: Cytopathology : official journal of the British Society for Clinical Cytology (**IF: Unknown**)
 - **Published**: 2026-05-01 | **PMID**: 40990252
 - **DOI**: [10.1111/cyt.70026](https://doi.org/10.1111/cyt.70026)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_M5PEC6HI)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5ASN2XCS)
 
 
 > [!warning] Gemini 解析失败

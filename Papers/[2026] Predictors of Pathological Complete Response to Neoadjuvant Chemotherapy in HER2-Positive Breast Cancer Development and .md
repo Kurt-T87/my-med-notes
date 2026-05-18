@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-01"
 doi: "10.1245/s10434-026-19178-z"
 pmid: 41691084
-zotero_link: "zotero://select/items/0_KPWFXRIH"
+zotero_link: "zotero://select/items/0_DJN7IDCM"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-11
+sync_date: 2026-05-18
 ---
 # Predictors of Pathological Complete Response to Neoadjuvant Chemotherapy in HER2-Positive Breast Cancer: Development and Validation of a Clinical-Inflammatory Nomogram.
 - **Journal**: Annals of surgical oncology (**IF: Unknown**)
 - **Published**: 2026-05-01 | **PMID**: 41691084
 - **DOI**: [10.1245/s10434-026-19178-z](https://doi.org/10.1245/s10434-026-19178-z)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KPWFXRIH)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_DJN7IDCM)
 
 
 > [!warning] Gemini 解析失败

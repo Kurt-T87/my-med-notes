@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-05-01"
 doi: "10.1016/j.biopha.2026.119237"
 pmid: 41861529
-zotero_link: "zotero://select/items/0_MVJ62THG"
+zotero_link: "zotero://select/items/0_HGSPFCRZ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-11
+sync_date: 2026-05-18
 ---
 # Phenotypic profiles for anticancer drug responses using tumor spheroids.
 - **Journal**: Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie (**IF: 12.8**)
 - **Published**: 2026-05-01 | **PMID**: 41861529
 - **DOI**: [10.1016/j.biopha.2026.119237](https://doi.org/10.1016/j.biopha.2026.119237)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MVJ62THG)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HGSPFCRZ)
 
 
 > [!warning] Gemini 解析失败

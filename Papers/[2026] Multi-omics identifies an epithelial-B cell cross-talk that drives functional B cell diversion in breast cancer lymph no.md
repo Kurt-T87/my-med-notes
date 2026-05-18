@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-01"
 doi: "10.1016/j.cellsig.2026.112394"
 pmid: 41610965
-zotero_link: "zotero://select/items/0_XWEWAJJ6"
+zotero_link: "zotero://select/items/0_VF3U2FNE"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-11
+sync_date: 2026-05-18
 ---
 # Multi-omics identifies an epithelial-B cell cross-talk that drives functional B cell diversion in breast cancer lymph node metastasis.
 - **Journal**: Cellular signalling (**IF: Unknown**)
 - **Published**: 2026-05-01 | **PMID**: 41610965
 - **DOI**: [10.1016/j.cellsig.2026.112394](https://doi.org/10.1016/j.cellsig.2026.112394)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XWEWAJJ6)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VF3U2FNE)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.21873/invivo.14331"
 pmid: 42049437
-zotero_link: "zotero://select/items/0_EC7B3C62"
+zotero_link: "zotero://select/items/0_QWDZV4W7"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-11
+sync_date: 2026-05-18
 ---
 # Breast Cancer Recurrence After 46 Years of Remission: A Case Report and Clinical Implications.
 - **Journal**: In vivo (Athens, Greece) (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42049437
 - **DOI**: [10.21873/invivo.14331](https://doi.org/10.21873/invivo.14331)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_EC7B3C62)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_QWDZV4W7)
 
 
 > [!warning] Gemini 解析失败

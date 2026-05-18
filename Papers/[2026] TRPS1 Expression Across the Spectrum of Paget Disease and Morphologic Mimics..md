@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-01"
 doi: "10.1097/PAI.0000000000001313"
 pmid: 41725031
-zotero_link: "zotero://select/items/0_WDFD5S7U"
+zotero_link: "zotero://select/items/0_GKRPG942"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-11
+sync_date: 2026-05-18
 ---
 # TRPS1 Expression Across the Spectrum of Paget Disease and Morphologic Mimics.
 - **Journal**: Applied immunohistochemistry & molecular morphology : AIMM (**IF: Unknown**)
 - **Published**: 2026-05-01 | **PMID**: 41725031
 - **DOI**: [10.1097/PAI.0000000000001313](https://doi.org/10.1097/PAI.0000000000001313)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WDFD5S7U)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GKRPG942)
 
 
 > [!warning] Gemini 解析失败

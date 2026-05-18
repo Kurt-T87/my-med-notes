@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-05-01"
 doi: "10.1016/j.clbc.2026.04.001"
 pmid: 42035712
-zotero_link: "zotero://select/items/0_WB73A2IB"
+zotero_link: "zotero://select/items/0_3AUSFKHA"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-11
+sync_date: 2026-05-18
 ---
 # Patterns of Disease Progression in Advanced Breast Cancer Patients Treated With Cyclin D Kinase 4/6 Inhibitors: Prognostic and Therapeutic Implications.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-05-01 | **PMID**: 42035712
 - **DOI**: [10.1016/j.clbc.2026.04.001](https://doi.org/10.1016/j.clbc.2026.04.001)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WB73A2IB)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3AUSFKHA)
 
 
 > [!warning] Gemini 解析失败

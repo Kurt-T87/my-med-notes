@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-05-01"
 doi: "10.1016/j.clbc.2026.03.002"
 pmid: 41925407
-zotero_link: "zotero://select/items/0_UPMMPAUR"
+zotero_link: "zotero://select/items/0_FZM34UKE"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-11
+sync_date: 2026-05-18
 ---
 # Real-World Evidence of Immunohistochemical Discordance in Breast Cancer Brain Metastases.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-05-01 | **PMID**: 41925407
 - **DOI**: [10.1016/j.clbc.2026.03.002](https://doi.org/10.1016/j.clbc.2026.03.002)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UPMMPAUR)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FZM34UKE)
 
 
 > [!warning] Gemini 解析失败

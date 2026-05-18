@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-01"
 doi: "10.1007/s12094-025-04106-6"
 pmid: 41222828
-zotero_link: "zotero://select/items/0_TMKDNERB"
+zotero_link: "zotero://select/items/0_FR3G5ZSA"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-11
+sync_date: 2026-05-18
 ---
 # Is the risk of brain metastasis and prognosis different in HER2-low breast cancer?
 - **Journal**: Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico (**IF: Unknown**)
 - **Published**: 2026-05-01 | **PMID**: 41222828
 - **DOI**: [10.1007/s12094-025-04106-6](https://doi.org/10.1007/s12094-025-04106-6)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TMKDNERB)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FR3G5ZSA)
 
 
 > [!warning] Gemini 解析失败
