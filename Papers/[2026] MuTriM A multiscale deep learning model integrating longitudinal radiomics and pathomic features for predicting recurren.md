@@ -5,15 +5,15 @@ if: 7.6
 published: "2026-05-02"
 doi: "10.1016/j.ejca.2026.116679"
 pmid: 41850009
-zotero_link: "zotero://select/items/0_TG2RETU7"
+zotero_link: "zotero://select/items/0_XC8WT683"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-18
+sync_date: 2026-05-25
 ---
 # MuTriM: A multiscale deep learning model integrating longitudinal radiomics and pathomic features for predicting recurrence and adjuvant radiation benefit in breast cancer.
 - **Journal**: European journal of cancer (Oxford, England : 1990) (**IF: 7.6**)
 - **Published**: 2026-05-02 | **PMID**: 41850009
 - **DOI**: [10.1016/j.ejca.2026.116679](https://doi.org/10.1016/j.ejca.2026.116679)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TG2RETU7)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XC8WT683)
 
 
 > [!warning] Gemini 解析失败

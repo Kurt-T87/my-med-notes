@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-05-01"
 doi: "10.1016/j.clbc.2026.03.008"
 pmid: 41946130
-zotero_link: "zotero://select/items/0_AA7JCZAJ"
+zotero_link: "zotero://select/items/0_5MGANXFQ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-18
+sync_date: 2026-05-25
 ---
 # Real-World Outcomes of Abemaciclib Dose-Escalation Strategy in High-Risk Early Breast Cancer.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-05-01 | **PMID**: 41946130
 - **DOI**: [10.1016/j.clbc.2026.03.008](https://doi.org/10.1016/j.clbc.2026.03.008)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_AA7JCZAJ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5MGANXFQ)
 
 
 > [!warning] Gemini 解析失败

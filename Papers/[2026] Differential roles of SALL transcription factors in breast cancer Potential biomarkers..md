@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-05-01"
 doi: "10.1016/j.compbiomed.2026.111604"
 pmid: 41886924
-zotero_link: "zotero://select/items/0_JK2WBH5D"
+zotero_link: "zotero://select/items/0_23HWNSNQ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-18
+sync_date: 2026-05-25
 ---
 # Differential roles of SALL transcription factors in breast cancer: Potential biomarkers.
 - **Journal**: Computers in biology and medicine (**IF: 12.8**)
 - **Published**: 2026-05-01 | **PMID**: 41886924
 - **DOI**: [10.1016/j.compbiomed.2026.111604](https://doi.org/10.1016/j.compbiomed.2026.111604)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JK2WBH5D)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_23HWNSNQ)
 
 
 > [!warning] Gemini 解析失败

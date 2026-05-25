@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-05-01"
 doi: "10.1016/j.clbc.2026.03.016"
 pmid: 41996729
-zotero_link: "zotero://select/items/0_BNNSESUJ"
+zotero_link: "zotero://select/items/0_SDFHIJMN"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-18
+sync_date: 2026-05-25
 ---
 # Combined ypT0 and ycN0 for Risk Stratification of ypN0 in Clinically Node-Positive Breast Cancer After Neoadjuvant Chemotherapy: A Multicenter Cohort Study.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-05-01 | **PMID**: 41996729
 - **DOI**: [10.1016/j.clbc.2026.03.016](https://doi.org/10.1016/j.clbc.2026.03.016)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BNNSESUJ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SDFHIJMN)
 
 
 > [!warning] Gemini 解析失败

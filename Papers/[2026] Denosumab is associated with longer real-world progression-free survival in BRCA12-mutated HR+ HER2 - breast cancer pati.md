@@ -5,15 +5,15 @@ if: 7.6
 published: "2026-05-15"
 doi: "10.1016/j.ejca.2026.116703"
 pmid: 41921366
-zotero_link: "zotero://select/items/0_8IC4H5M9"
+zotero_link: "zotero://select/items/0_Z34B5ZM7"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-18
+sync_date: 2026-05-25
 ---
 # Denosumab is associated with longer real-world progression-free survival in BRCA1/2-mutated HR+ /HER2 - breast cancer patients with bone metastases receiving CDK4/6 inhibitors: A multicenter Italian study.
 - **Journal**: European journal of cancer (Oxford, England : 1990) (**IF: 7.6**)
 - **Published**: 2026-05-15 | **PMID**: 41921366
 - **DOI**: [10.1016/j.ejca.2026.116703](https://doi.org/10.1016/j.ejca.2026.116703)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8IC4H5M9)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_Z34B5ZM7)
 
 
 > [!warning] Gemini 解析失败

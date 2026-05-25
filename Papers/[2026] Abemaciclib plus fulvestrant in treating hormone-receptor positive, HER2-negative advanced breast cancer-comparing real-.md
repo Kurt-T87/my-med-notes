@@ -5,15 +5,15 @@ if: 7.6
 published: "2026-05-01"
 doi: "10.1038/s41416-026-03396-z"
 pmid: 41912678
-zotero_link: "zotero://select/items/0_D2MQXIQC"
+zotero_link: "zotero://select/items/0_A7A9ECAF"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-18
+sync_date: 2026-05-25
 ---
 # Abemaciclib plus fulvestrant in treating hormone-receptor positive, HER2-negative advanced breast cancer-comparing real-world outcomes in England to the MONARCH-2 trial.
 - **Journal**: British journal of cancer (**IF: 7.6**)
 - **Published**: 2026-05-01 | **PMID**: 41912678
 - **DOI**: [10.1038/s41416-026-03396-z](https://doi.org/10.1038/s41416-026-03396-z)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_D2MQXIQC)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_A7A9ECAF)
 
 
 > [!warning] Gemini 解析失败

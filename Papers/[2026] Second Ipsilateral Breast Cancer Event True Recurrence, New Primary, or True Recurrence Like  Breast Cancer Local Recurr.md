@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-01"
 doi: "10.1245/s10434-026-19131-0"
 pmid: 41708931
-zotero_link: "zotero://select/items/0_KQE3KRTP"
+zotero_link: "zotero://select/items/0_SUPRBBU5"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-18
+sync_date: 2026-05-25
 ---
 # Second Ipsilateral Breast Cancer Event: True Recurrence, New Primary, or True Recurrence Like? : Breast Cancer Local Recurrence.
 - **Journal**: Annals of surgical oncology (**IF: Unknown**)
 - **Published**: 2026-05-01 | **PMID**: 41708931
 - **DOI**: [10.1245/s10434-026-19131-0](https://doi.org/10.1245/s10434-026-19131-0)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KQE3KRTP)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SUPRBBU5)
 
 
 > [!warning] Gemini 解析失败

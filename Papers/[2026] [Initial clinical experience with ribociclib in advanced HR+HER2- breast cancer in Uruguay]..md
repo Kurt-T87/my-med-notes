@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-05-06"
 doi: "10.5281/zenodo.18715279"
 pmid: 42090642
-zotero_link: "zotero://select/items/0_3Z93AJHB"
+zotero_link: "zotero://select/items/0_7279EHSG"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-18
+sync_date: 2026-05-25
 ---
 # [Initial clinical experience with ribociclib in advanced HR+/HER2- breast cancer in Uruguay].
 - **Journal**: Revista medica del Instituto Mexicano del Seguro Social (**IF: 12.8**)
 - **Published**: 2026-05-06 | **PMID**: 42090642
 - **DOI**: [10.5281/zenodo.18715279](https://doi.org/10.5281/zenodo.18715279)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3Z93AJHB)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7279EHSG)
 
 
 > [!warning] Gemini 解析失败

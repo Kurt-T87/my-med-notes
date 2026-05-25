@@ -5,15 +5,15 @@ if: 120.7
 published: "2026-05-01"
 doi: "10.1001/jamanetworkopen.2026.10427"
 pmid: 42081244
-zotero_link: "zotero://select/items/0_P4SFDKRN"
+zotero_link: "zotero://select/items/0_JAQRWG4Z"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-18
+sync_date: 2026-05-25
 ---
 # Extended Endocrine Therapy and Survival for Breast Cancer Subtypes in Premenopausal Patients.
 - **Journal**: JAMA network open (**IF: 120.7**)
 - **Published**: 2026-05-01 | **PMID**: 42081244
 - **DOI**: [10.1001/jamanetworkopen.2026.10427](https://doi.org/10.1001/jamanetworkopen.2026.10427)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_P4SFDKRN)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JAQRWG4Z)
 
 
 > [!warning] Gemini 解析失败

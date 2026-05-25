@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-05-01"
 doi: "10.1016/j.clbc.2026.03.010"
 pmid: 41991367
-zotero_link: "zotero://select/items/0_AVJE7RS6"
+zotero_link: "zotero://select/items/0_BIPFMPWG"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-18
+sync_date: 2026-05-25
 ---
 # Subtype-Specific Risk and Temporal Dynamics of Brain Metastases in Metastatic Breast Cancer.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-05-01 | **PMID**: 41991367
 - **DOI**: [10.1016/j.clbc.2026.03.010](https://doi.org/10.1016/j.clbc.2026.03.010)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_AVJE7RS6)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BIPFMPWG)
 
 
 > [!warning] Gemini 解析失败

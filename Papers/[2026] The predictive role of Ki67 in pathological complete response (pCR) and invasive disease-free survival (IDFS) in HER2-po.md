@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-02"
 doi: "10.1007/s00404-026-08401-7"
 pmid: 42068346
-zotero_link: "zotero://select/items/0_CJB3Z36S"
+zotero_link: "zotero://select/items/0_9FW7JHTB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-18
+sync_date: 2026-05-25
 ---
 # The predictive role of Ki67 in pathological complete response (pCR) and invasive disease-free survival (IDFS) in HER2-positive breast cancer: a bi-centric retrospective cohort study of 244 cases.
 - **Journal**: Archives of gynecology and obstetrics (**IF: Unknown**)
 - **Published**: 2026-05-02 | **PMID**: 42068346
 - **DOI**: [10.1007/s00404-026-08401-7](https://doi.org/10.1007/s00404-026-08401-7)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CJB3Z36S)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9FW7JHTB)
 
 
 > [!warning] Gemini 解析失败

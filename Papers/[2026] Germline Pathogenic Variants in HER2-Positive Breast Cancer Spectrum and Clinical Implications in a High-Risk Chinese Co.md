@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-05-01"
 doi: "10.1002/cam4.71865"
 pmid: 42141527
-zotero_link: "zotero://select/items/0_P27DPWZ7"
+zotero_link: "zotero://select/items/0_GPUKPQNU"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-18
+sync_date: 2026-05-25
 ---
 # Germline Pathogenic Variants in HER2-Positive Breast Cancer: Spectrum and Clinical Implications in a High-Risk Chinese Cohort.
 - **Journal**: Cancer medicine (**IF: 12.8**)
 - **Published**: 2026-05-01 | **PMID**: 42141527
 - **DOI**: [10.1002/cam4.71865](https://doi.org/10.1002/cam4.71865)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_P27DPWZ7)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GPUKPQNU)
 
 
 > [!warning] Gemini 解析失败

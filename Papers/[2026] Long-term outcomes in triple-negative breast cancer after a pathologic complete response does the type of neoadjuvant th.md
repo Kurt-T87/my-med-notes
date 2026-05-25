@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-05-05"
 doi: "10.1007/s10549-026-07963-z"
 pmid: 42084743
-zotero_link: "zotero://select/items/0_HU8FEVEG"
+zotero_link: "zotero://select/items/0_GK8DJAXE"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-18
+sync_date: 2026-05-25
 ---
 # Long-term outcomes in triple-negative breast cancer after a pathologic complete response: does the type of neoadjuvant therapy matter?
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-05-05 | **PMID**: 42084743
 - **DOI**: [10.1007/s10549-026-07963-z](https://doi.org/10.1007/s10549-026-07963-z)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HU8FEVEG)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GK8DJAXE)
 
 
 > [!warning] Gemini 解析失败

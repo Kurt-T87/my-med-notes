@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-01"
 doi: "10.1007/s12325-026-03545-z"
 pmid: 41806276
-zotero_link: "zotero://select/items/0_UZQE8DJC"
+zotero_link: "zotero://select/items/0_5WNK9QNS"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-18
+sync_date: 2026-05-25
 ---
 # Treatment Patterns and Clinical Outcomes in Metastatic HR+/HER2- and Triple-Negative Breast Cancer in Canada: The HER2- TRENDS Study.
 - **Journal**: Advances in therapy (**IF: Unknown**)
 - **Published**: 2026-05-01 | **PMID**: 41806276
 - **DOI**: [10.1007/s12325-026-03545-z](https://doi.org/10.1007/s12325-026-03545-z)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UZQE8DJC)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5WNK9QNS)
 
 
 > [!warning] Gemini 解析失败
