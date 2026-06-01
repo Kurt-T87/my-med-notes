@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-05-15"
 doi: "10.1158/1078-0432.CCR-25-2833"
 pmid: 41632450
-zotero_link: "zotero://select/items/0_FRBB78XQ"
+zotero_link: "zotero://select/items/0_BTJUFRGA"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-25
+sync_date: 2026-06-01
 ---
 # PI3K Inhibition in Combination with Tamoxifen in Patients with Metastatic HR+/HER2- Breast Cancer: Clinical and Circulating Tumor DNA Results.
 - **Journal**: Clinical cancer research : an official journal of the American Association for Cancer Research (**IF: 12.5**)
 - **Published**: 2026-05-15 | **PMID**: 41632450
 - **DOI**: [10.1158/1078-0432.CCR-25-2833](https://doi.org/10.1158/1078-0432.CCR-25-2833)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FRBB78XQ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BTJUFRGA)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.1371/journal.pone.0349196"
 pmid: 42139194
-zotero_link: "zotero://select/items/0_8SNUF8JP"
+zotero_link: "zotero://select/items/0_XVHSEWC5"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-05-25
+sync_date: 2026-06-01
 ---
 # Real world experience with cyclin dependent kinase inhibitors in metastatic breast cancer in India.
 - **Journal**: PloS one (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42139194
 - **DOI**: [10.1371/journal.pone.0349196](https://doi.org/10.1371/journal.pone.0349196)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8SNUF8JP)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XVHSEWC5)
 
 
 > [!warning] Gemini 解析失败
