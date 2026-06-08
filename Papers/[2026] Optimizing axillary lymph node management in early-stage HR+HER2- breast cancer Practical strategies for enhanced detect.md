@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-06-01"
 doi: "10.1016/j.breast.2026.104763"
 pmid: 41934720
-zotero_link: "zotero://select/items/0_QZAWQISR"
+zotero_link: "zotero://select/items/0_H8JT7NTG"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-01
+sync_date: 2026-06-08
 ---
 # Optimizing axillary lymph node management in early-stage HR+/HER2- breast cancer: Practical strategies for enhanced detection rates.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-06-01 | **PMID**: 41934720
 - **DOI**: [10.1016/j.breast.2026.104763](https://doi.org/10.1016/j.breast.2026.104763)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_QZAWQISR)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_H8JT7NTG)
 
 
 > [!warning] Gemini 解析失败

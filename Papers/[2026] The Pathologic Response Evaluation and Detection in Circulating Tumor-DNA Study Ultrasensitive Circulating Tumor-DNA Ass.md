@@ -5,15 +5,15 @@ if: 42.1
 published: "2026-05-10"
 doi: "10.1200/JCO-25-02934"
 pmid: 41805422
-zotero_link: "zotero://select/items/0_JZXBSM5D"
+zotero_link: "zotero://select/items/0_CD8PT9IP"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-01
+sync_date: 2026-06-08
 ---
 # The Pathologic Response Evaluation and Detection in Circulating Tumor-DNA Study: Ultrasensitive Circulating Tumor-DNA Assessment of Breast Cancer Minimal Residual Disease.
 - **Journal**: Journal of clinical oncology : official journal of the American Society of Clinical Oncology (**IF: 42.1**)
 - **Published**: 2026-05-10 | **PMID**: 41805422
 - **DOI**: [10.1200/JCO-25-02934](https://doi.org/10.1200/JCO-25-02934)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JZXBSM5D)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CD8PT9IP)
 
 
 > [!warning] Gemini 解析失败

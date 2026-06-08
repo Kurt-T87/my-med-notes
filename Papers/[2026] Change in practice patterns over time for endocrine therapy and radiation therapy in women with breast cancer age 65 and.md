@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-05-20"
 doi: "10.1007/s10549-026-07977-7"
 pmid: 42159636
-zotero_link: "zotero://select/items/0_BK5M8TU9"
+zotero_link: "zotero://select/items/0_KZF4DHBW"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-01
+sync_date: 2026-06-08
 ---
 # Change in practice patterns over time for endocrine therapy and radiation therapy in women with breast cancer age 65 and older.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-05-20 | **PMID**: 42159636
 - **DOI**: [10.1007/s10549-026-07977-7](https://doi.org/10.1007/s10549-026-07977-7)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BK5M8TU9)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KZF4DHBW)
 
 
 > [!warning] Gemini 解析失败

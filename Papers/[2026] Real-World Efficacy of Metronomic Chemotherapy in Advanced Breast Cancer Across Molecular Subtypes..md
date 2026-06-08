@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-06-01"
 doi: "10.1002/cam4.71961"
 pmid: 42187010
-zotero_link: "zotero://select/items/0_ET39V6GD"
+zotero_link: "zotero://select/items/0_NZFK8DAQ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-01
+sync_date: 2026-06-08
 ---
 # Real-World Efficacy of Metronomic Chemotherapy in Advanced Breast Cancer Across Molecular Subtypes.
 - **Journal**: Cancer medicine (**IF: 12.8**)
 - **Published**: 2026-06-01 | **PMID**: 42187010
 - **DOI**: [10.1002/cam4.71961](https://doi.org/10.1002/cam4.71961)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ET39V6GD)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_NZFK8DAQ)
 
 
 > [!warning] Gemini 解析失败

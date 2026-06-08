@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-06-01"
 doi: "10.1016/j.breast.2026.104778"
 pmid: 41955991
-zotero_link: "zotero://select/items/0_29JVITEB"
+zotero_link: "zotero://select/items/0_5ISPSMUH"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-01
+sync_date: 2026-06-08
 ---
 # International comparisons of survival after recurrent metastatic breast cancer in four countries: A population-based study.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-06-01 | **PMID**: 41955991
 - **DOI**: [10.1016/j.breast.2026.104778](https://doi.org/10.1016/j.breast.2026.104778)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_29JVITEB)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5ISPSMUH)
 
 
 > [!warning] Gemini 解析失败

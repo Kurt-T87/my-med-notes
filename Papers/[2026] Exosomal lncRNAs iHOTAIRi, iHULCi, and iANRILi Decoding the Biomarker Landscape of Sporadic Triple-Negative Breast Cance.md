@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-12"
 doi: "10.3390/ijms27104308"
 pmid: 42196289
-zotero_link: "zotero://select/items/0_AB4ZGA33"
+zotero_link: "zotero://select/items/0_IS3DDD37"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-01
+sync_date: 2026-06-08
 ---
 # Exosomal lncRNAs <i>HOTAIR</i>, <i>HULC</i>, and <i>ANRIL</i>: Decoding the Biomarker Landscape of Sporadic Triple-Negative Breast Cancer.
 - **Journal**: International journal of molecular sciences (**IF: Unknown**)
 - **Published**: 2026-05-12 | **PMID**: 42196289
 - **DOI**: [10.3390/ijms27104308](https://doi.org/10.3390/ijms27104308)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_AB4ZGA33)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_IS3DDD37)
 
 
 > [!warning] Gemini 解析失败

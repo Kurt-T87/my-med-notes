@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-28"
 doi: "10.1016/j.canlet.2026.218429"
 pmid: 41825845
-zotero_link: "zotero://select/items/0_MJB6R8HN"
+zotero_link: "zotero://select/items/0_42RW6NZA"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-01
+sync_date: 2026-06-08
 ---
 # A NIR-Ⅱ fluorescent probe for real-time visualization and early assessment of responses to CDK4/6 inhibitors in breast cancer.
 - **Journal**: Cancer letters (**IF: Unknown**)
 - **Published**: 2026-05-28 | **PMID**: 41825845
 - **DOI**: [10.1016/j.canlet.2026.218429](https://doi.org/10.1016/j.canlet.2026.218429)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MJB6R8HN)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_42RW6NZA)
 
 
 > [!warning] Gemini 解析失败

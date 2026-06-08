@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-01"
 doi: "10.1245/s10434-026-19387-6"
 pmid: 41817936
-zotero_link: "zotero://select/items/0_3B5VC93B"
+zotero_link: "zotero://select/items/0_WDB4RH2N"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-01
+sync_date: 2026-06-08
 ---
 # Axillary Nodal Positivity in Early-Stage Invasive Lobular Carcinoma: Implications for Sentinel Lymph Node Biopsy Omission.
 - **Journal**: Annals of surgical oncology (**IF: Unknown**)
 - **Published**: 2026-06-01 | **PMID**: 41817936
 - **DOI**: [10.1245/s10434-026-19387-6](https://doi.org/10.1245/s10434-026-19387-6)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3B5VC93B)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WDB4RH2N)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-01"
 doi: "10.1111/his.70115"
 pmid: 41664643
-zotero_link: "zotero://select/items/0_4KHN9V3W"
+zotero_link: "zotero://select/items/0_MG48K6PR"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-01
+sync_date: 2026-06-08
 ---
 # Genomic and clinicopathological characteristics of low oncotype recurrent score breast cancers with subsequent metastasis.
 - **Journal**: Histopathology (**IF: Unknown**)
 - **Published**: 2026-06-01 | **PMID**: 41664643
 - **DOI**: [10.1111/his.70115](https://doi.org/10.1111/his.70115)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4KHN9V3W)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MG48K6PR)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-05-12"
 doi: "10.1007/s10549-026-07979-5"
 pmid: 42118359
-zotero_link: "zotero://select/items/0_3KRHQDAR"
+zotero_link: "zotero://select/items/0_GEDVTP7Q"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-01
+sync_date: 2026-06-08
 ---
 # Characteristics, treatment and survival in de novo and metachronous metastatic breast cancer: a nationwide comparative analysis.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-05-12 | **PMID**: 42118359
 - **DOI**: [10.1007/s10549-026-07979-5](https://doi.org/10.1007/s10549-026-07979-5)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3KRHQDAR)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GEDVTP7Q)
 
 
 > [!warning] Gemini 解析失败

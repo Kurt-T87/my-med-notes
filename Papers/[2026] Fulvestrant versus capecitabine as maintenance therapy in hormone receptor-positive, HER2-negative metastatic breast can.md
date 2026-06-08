@@ -5,15 +5,15 @@ if: 40.8
 published: "2026-05-22"
 doi: "10.1038/s41392-026-02720-6"
 pmid: 42168151
-zotero_link: "zotero://select/items/0_RXWJ3FFS"
+zotero_link: "zotero://select/items/0_NFI9C55B"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-01
+sync_date: 2026-06-08
 ---
 # Fulvestrant versus capecitabine as maintenance therapy in hormone receptor-positive, HER2-negative metastatic breast cancer after first-line chemotherapy (FAMILY): a multicenter, open-label, randomized, phase 3 trial.
 - **Journal**: Signal transduction and targeted therapy (**IF: 40.8**)
 - **Published**: 2026-05-22 | **PMID**: 42168151
 - **DOI**: [10.1038/s41392-026-02720-6](https://doi.org/10.1038/s41392-026-02720-6)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RXWJ3FFS)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_NFI9C55B)
 
 
 > [!warning] Gemini 解析失败

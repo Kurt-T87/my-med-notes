@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-01"
 doi: "10.1177/00031348261416096"
 pmid: 41505322
-zotero_link: "zotero://select/items/0_MGAX8INQ"
+zotero_link: "zotero://select/items/0_GGBS7S2Z"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-01
+sync_date: 2026-06-08
 ---
 # Predictive Value of Magee Equation 3 for Tumor and Axillary Response to Neoadjuvant Chemotherapy in HR-Positive, HER2-Negative Breast Cancer.
 - **Journal**: The American surgeon (**IF: Unknown**)
 - **Published**: 2026-06-01 | **PMID**: 41505322
 - **DOI**: [10.1177/00031348261416096](https://doi.org/10.1177/00031348261416096)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MGAX8INQ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GGBS7S2Z)
 
 
 > [!warning] Gemini 解析失败

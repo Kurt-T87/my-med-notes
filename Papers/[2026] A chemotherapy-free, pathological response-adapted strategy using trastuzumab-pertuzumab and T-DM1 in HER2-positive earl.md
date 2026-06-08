@@ -5,15 +5,15 @@ if: 56.7
 published: "2026-06-01"
 doi: "10.1016/j.annonc.2026.01.013"
 pmid: 42097893
-zotero_link: "zotero://select/items/0_N69STGG4"
+zotero_link: "zotero://select/items/0_CX2A84Z9"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-01
+sync_date: 2026-06-08
 ---
 # A chemotherapy-free, pathological response-adapted strategy using trastuzumab-pertuzumab and T-DM1 in HER2-positive early breast cancer: the PHERGain-2 study.
 - **Journal**: Annals of oncology : official journal of the European Society for Medical Oncology (**IF: 56.7**)
 - **Published**: 2026-06-01 | **PMID**: 42097893
 - **DOI**: [10.1016/j.annonc.2026.01.013](https://doi.org/10.1016/j.annonc.2026.01.013)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_N69STGG4)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CX2A84Z9)
 
 
 > [!warning] Gemini 解析失败
