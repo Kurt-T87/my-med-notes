@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-05-27"
 doi: "10.1186/s13058-026-02311-x"
 pmid: 42192452
-zotero_link: "zotero://select/items/0_KEF2UFVV"
+zotero_link: "zotero://select/items/0_RMXS55HB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-08
+sync_date: 2026-06-15
 ---
 # CDK4/6 inhibitors rechallenge post-progression in HR-positive HER2-negative advanced/metastatic breast cancer patients: a meta-analysis of Kaplan-Meier-reconstructed individual-level data.
 - **Journal**: Breast cancer research : BCR (**IF: 12.5**)
 - **Published**: 2026-05-27 | **PMID**: 42192452
 - **DOI**: [10.1186/s13058-026-02311-x](https://doi.org/10.1186/s13058-026-02311-x)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KEF2UFVV)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RMXS55HB)
 
 
 > [!warning] Gemini 解析失败

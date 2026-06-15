@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-01"
 doi: "10.1016/j.bbadis.2026.168181"
 pmid: 41672380
-zotero_link: "zotero://select/items/0_3Q57ZSSG"
+zotero_link: "zotero://select/items/0_4U26RQFD"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-08
+sync_date: 2026-06-15
 ---
 # RTN4IP1 drives breast tumorigenesis: Molecular mechanisms linking elevated expression to enhanced proliferation, suppressed apoptosis, and therapeutic resistance.
 - **Journal**: Biochimica et biophysica acta. Molecular basis of disease (**IF: Unknown**)
 - **Published**: 2026-06-01 | **PMID**: 41672380
 - **DOI**: [10.1016/j.bbadis.2026.168181](https://doi.org/10.1016/j.bbadis.2026.168181)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3Q57ZSSG)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4U26RQFD)
 
 
 > [!warning] Gemini 解析失败

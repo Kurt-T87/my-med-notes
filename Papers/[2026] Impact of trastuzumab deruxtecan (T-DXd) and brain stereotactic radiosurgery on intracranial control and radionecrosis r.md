@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-06-01"
 doi: "10.1016/j.breast.2026.104751"
 pmid: 41875806
-zotero_link: "zotero://select/items/0_2VNAAEX4"
+zotero_link: "zotero://select/items/0_JG4W557K"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-08
+sync_date: 2026-06-15
 ---
 # Impact of trastuzumab deruxtecan (T-DXd) and brain stereotactic radiosurgery on intracranial control and radionecrosis risk in HER2-positive or -low breast cancer brain metastases.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-06-01 | **PMID**: 41875806
 - **DOI**: [10.1016/j.breast.2026.104751](https://doi.org/10.1016/j.breast.2026.104751)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_2VNAAEX4)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JG4W557K)
 
 
 > [!warning] Gemini 解析失败

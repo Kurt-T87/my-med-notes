@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-18"
 doi: "10.3390/ijms27104533"
 pmid: 42196512
-zotero_link: "zotero://select/items/0_TD35EX4C"
+zotero_link: "zotero://select/items/0_GW6SDPFB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-08
+sync_date: 2026-06-15
 ---
 # <i>SYTL4</i> May Serve as a New Predictive Biomarker for Survival and Trastuzumab Treatment Responsiveness in HER2-Positive Breast Cancer.
 - **Journal**: International journal of molecular sciences (**IF: Unknown**)
 - **Published**: 2026-05-18 | **PMID**: 42196512
 - **DOI**: [10.3390/ijms27104533](https://doi.org/10.3390/ijms27104533)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TD35EX4C)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GW6SDPFB)
 
 
 > [!warning] Gemini 解析失败

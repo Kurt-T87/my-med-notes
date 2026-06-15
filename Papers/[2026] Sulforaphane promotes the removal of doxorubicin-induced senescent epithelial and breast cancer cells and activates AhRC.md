@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-01"
 doi: "10.1016/j.cbi.2026.112033"
 pmid: 41819438
-zotero_link: "zotero://select/items/0_PA65XGNH"
+zotero_link: "zotero://select/items/0_V4C7MG8G"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-08
+sync_date: 2026-06-15
 ---
 # Sulforaphane promotes the removal of doxorubicin-induced senescent epithelial and breast cancer cells and activates AhR/CYP1A1-based adaptive response in vitro.
 - **Journal**: Chemico-biological interactions (**IF: Unknown**)
 - **Published**: 2026-06-01 | **PMID**: 41819438
 - **DOI**: [10.1016/j.cbi.2026.112033](https://doi.org/10.1016/j.cbi.2026.112033)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_PA65XGNH)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_V4C7MG8G)
 
 
 > [!warning] Gemini 解析失败

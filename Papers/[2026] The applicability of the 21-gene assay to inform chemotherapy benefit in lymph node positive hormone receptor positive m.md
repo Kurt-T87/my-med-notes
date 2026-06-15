@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-05-20"
 doi: "10.1007/s10549-026-07978-6"
 pmid: 42159964
-zotero_link: "zotero://select/items/0_ENNXTX7Z"
+zotero_link: "zotero://select/items/0_EEP2WJM8"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-08
+sync_date: 2026-06-15
 ---
 # The applicability of the 21-gene assay to inform chemotherapy benefit in lymph node positive hormone receptor positive male breast cancer.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-05-20 | **PMID**: 42159964
 - **DOI**: [10.1007/s10549-026-07978-6](https://doi.org/10.1007/s10549-026-07978-6)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ENNXTX7Z)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_EEP2WJM8)
 
 
 > [!warning] Gemini 解析失败

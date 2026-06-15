@@ -5,15 +5,15 @@ if: 8.0
 published: "2026-06-01"
 doi: "10.1038/s41388-026-03786-w"
 pmid: 41986650
-zotero_link: "zotero://select/items/0_PS5ZFJPS"
+zotero_link: "zotero://select/items/0_GUU43TU9"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-08
+sync_date: 2026-06-15
 ---
 # CSF1R inhibitors mitigate CDK4/6 inhibitor-induced immunosuppression to increase antitumor immunity in HR+/HER2- breast cancer.
 - **Journal**: Oncogene (**IF: 8.0**)
 - **Published**: 2026-06-01 | **PMID**: 41986650
 - **DOI**: [10.1038/s41388-026-03786-w](https://doi.org/10.1038/s41388-026-03786-w)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_PS5ZFJPS)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GUU43TU9)
 
 
 > [!warning] Gemini 解析失败

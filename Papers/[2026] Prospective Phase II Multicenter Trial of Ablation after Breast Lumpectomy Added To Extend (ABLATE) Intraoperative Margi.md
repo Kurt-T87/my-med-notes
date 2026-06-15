@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-01"
 doi: "10.1245/s10434-025-19008-8"
 pmid: 41549218
-zotero_link: "zotero://select/items/0_V6XUR97N"
+zotero_link: "zotero://select/items/0_VCGWRZ2A"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-08
+sync_date: 2026-06-15
 ---
 # Prospective Phase II Multicenter Trial of Ablation after Breast Lumpectomy Added To Extend (ABLATE) Intraoperative Margins for the Sole Local Treatment of Breast Cancer.
 - **Journal**: Annals of surgical oncology (**IF: Unknown**)
 - **Published**: 2026-06-01 | **PMID**: 41549218
 - **DOI**: [10.1245/s10434-025-19008-8](https://doi.org/10.1245/s10434-025-19008-8)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_V6XUR97N)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VCGWRZ2A)
 
 
 > [!warning] Gemini 解析失败

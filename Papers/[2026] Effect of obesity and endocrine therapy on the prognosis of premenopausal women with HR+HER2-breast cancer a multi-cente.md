@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-18"
 doi: "10.1038/s41598-026-45742-4"
 pmid: 42144406
-zotero_link: "zotero://select/items/0_5GEP7R9R"
+zotero_link: "zotero://select/items/0_7JKR55RA"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-08
+sync_date: 2026-06-15
 ---
 # Effect of obesity and endocrine therapy on the prognosis of premenopausal women with HR+HER2-breast cancer: a multi-center retrospective study.
 - **Journal**: Scientific reports (**IF: Unknown**)
 - **Published**: 2026-05-18 | **PMID**: 42144406
 - **DOI**: [10.1038/s41598-026-45742-4](https://doi.org/10.1038/s41598-026-45742-4)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5GEP7R9R)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7JKR55RA)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-05-21"
 doi: "10.1002/14651858.CD015072.pub3"
 pmid: 42165290
-zotero_link: "zotero://select/items/0_59J6K63G"
+zotero_link: "zotero://select/items/0_PTABVNPR"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-08
+sync_date: 2026-06-15
 ---
 # Immune checkpoint inhibitors and chemotherapy versus chemotherapy for early triple-negative breast cancer.
 - **Journal**: The Cochrane database of systematic reviews (**IF: Unknown**)
 - **Published**: 2026-05-21 | **PMID**: 42165290
 - **DOI**: [10.1002/14651858.CD015072.pub3](https://doi.org/10.1002/14651858.CD015072.pub3)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_59J6K63G)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_PTABVNPR)
 
 
 > [!warning] Gemini 解析失败

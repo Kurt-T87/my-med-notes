@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-06-01"
 doi: "10.1158/1078-0432.CCR-25-0948"
 pmid: 41117836
-zotero_link: "zotero://select/items/0_9KEDMMWA"
+zotero_link: "zotero://select/items/0_5XZQP2CQ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-08
+sync_date: 2026-06-15
 ---
 # Association of Tumor-Infiltrating Lymphocyte Subtypes with Clinical Characteristics and Prognosis in Young Women with Hormone Receptor-Positive Breast Cancer.
 - **Journal**: Clinical cancer research : an official journal of the American Association for Cancer Research (**IF: 12.5**)
 - **Published**: 2026-06-01 | **PMID**: 41117836
 - **DOI**: [10.1158/1078-0432.CCR-25-0948](https://doi.org/10.1158/1078-0432.CCR-25-0948)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9KEDMMWA)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5XZQP2CQ)
 
 
 > [!warning] Gemini 解析失败

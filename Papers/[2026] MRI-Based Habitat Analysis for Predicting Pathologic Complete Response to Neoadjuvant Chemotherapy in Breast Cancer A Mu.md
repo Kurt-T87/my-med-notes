@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-01"
 doi: "10.1002/jmri.70285"
 pmid: 41965129
-zotero_link: "zotero://select/items/0_NDUF3JEF"
+zotero_link: "zotero://select/items/0_S5IH2SP3"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-08
+sync_date: 2026-06-15
 ---
 # MRI-Based Habitat Analysis for Predicting Pathologic Complete Response to Neoadjuvant Chemotherapy in Breast Cancer: A Multicenter Study.
 - **Journal**: Journal of magnetic resonance imaging : JMRI (**IF: Unknown**)
 - **Published**: 2026-06-01 | **PMID**: 41965129
 - **DOI**: [10.1002/jmri.70285](https://doi.org/10.1002/jmri.70285)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_NDUF3JEF)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_S5IH2SP3)
 
 
 > [!warning] Gemini 解析失败
