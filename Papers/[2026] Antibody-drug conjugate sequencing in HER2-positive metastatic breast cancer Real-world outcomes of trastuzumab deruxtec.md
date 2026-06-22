@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-06-01"
 doi: "10.1016/j.breast.2026.104785"
 pmid: 41980521
-zotero_link: "zotero://select/items/0_FWVMR62A"
+zotero_link: "zotero://select/items/0_Z49DDEV9"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-15
+sync_date: 2026-06-22
 ---
 # Antibody-drug conjugate sequencing in HER2-positive metastatic breast cancer: Real-world outcomes of trastuzumab deruxtecan with and without prior T-DM1 exposure.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-06-01 | **PMID**: 41980521
 - **DOI**: [10.1016/j.breast.2026.104785](https://doi.org/10.1016/j.breast.2026.104785)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FWVMR62A)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_Z49DDEV9)
 
 
 > [!warning] Gemini 解析失败

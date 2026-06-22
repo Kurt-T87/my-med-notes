@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-06-04"
 doi: "10.1007/s10549-026-07991-9"
 pmid: 42243565
-zotero_link: "zotero://select/items/0_XXNHZKB5"
+zotero_link: "zotero://select/items/0_REZDCGH7"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-15
+sync_date: 2026-06-22
 ---
 # Association of baseline tumor-infiltrating lymphocytes and cell-cycle regulation markers on prognosis and mortality in patients with advanced breast cancer according to tumor characteristics and treatment type: an observational study.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-06-04 | **PMID**: 42243565
 - **DOI**: [10.1007/s10549-026-07991-9](https://doi.org/10.1007/s10549-026-07991-9)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XXNHZKB5)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_REZDCGH7)
 
 
 > [!warning] Gemini 解析失败

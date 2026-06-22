@@ -5,15 +5,15 @@ if: 56.7
 published: "2026-06-01"
 doi: "10.1016/j.annonc.2026.02.015"
 pmid: 41780642
-zotero_link: "zotero://select/items/0_SDSZMA3D"
+zotero_link: "zotero://select/items/0_3FGGPFTP"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-15
+sync_date: 2026-06-22
 ---
 # Trastuzumab deruxtecan in hormone receptor-positive, HER2-low/-ultralow metastatic breast cancer (DESTINY-Breast06): outcome analyses by time to progression on prior first-line endocrine therapy with CDK4/6 inhibitor and baseline burden of disease.
 - **Journal**: Annals of oncology : official journal of the European Society for Medical Oncology (**IF: 56.7**)
 - **Published**: 2026-06-01 | **PMID**: 41780642
 - **DOI**: [10.1016/j.annonc.2026.02.015](https://doi.org/10.1016/j.annonc.2026.02.015)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SDSZMA3D)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3FGGPFTP)
 
 
 > [!warning] Gemini 解析失败

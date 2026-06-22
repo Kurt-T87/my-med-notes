@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-01"
 doi: "10.1097/PAS.0000000000002530"
 pmid: 41808254
-zotero_link: "zotero://select/items/0_BB8U4FPC"
+zotero_link: "zotero://select/items/0_A632BF45"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-15
+sync_date: 2026-06-22
 ---
 # Clinicopathological and Molecular Features of Glycogen-Rich Breast Carcinoma.
 - **Journal**: The American journal of surgical pathology (**IF: Unknown**)
 - **Published**: 2026-06-01 | **PMID**: 41808254
 - **DOI**: [10.1097/PAS.0000000000002530](https://doi.org/10.1097/PAS.0000000000002530)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BB8U4FPC)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_A632BF45)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-01"
 doi: "10.1016/j.canep.2026.103031"
 pmid: 41763111
-zotero_link: "zotero://select/items/0_9PTHTCCS"
+zotero_link: "zotero://select/items/0_ZJZ7DD9S"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-15
+sync_date: 2026-06-22
 ---
 # Adherence to the 2018 WCRF/AICR Cancer Prevention Recommendations is associated with lower breast cancer incidence: A real-world prospective analysis from the Moli-sani Study and exploration of biological pathways.
 - **Journal**: Cancer epidemiology (**IF: Unknown**)
 - **Published**: 2026-06-01 | **PMID**: 41763111
 - **DOI**: [10.1016/j.canep.2026.103031](https://doi.org/10.1016/j.canep.2026.103031)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9PTHTCCS)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ZJZ7DD9S)
 
 
 > [!warning] Gemini 解析失败

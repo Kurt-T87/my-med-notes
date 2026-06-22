@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-06-12"
 doi: "10.1007/s10549-026-07996-4"
 pmid: 42283891
-zotero_link: "zotero://select/items/0_6NK6EZ6V"
+zotero_link: "zotero://select/items/0_3GIW6KF4"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-15
+sync_date: 2026-06-22
 ---
 # Adenoid cystic carcinoma of the breast: a case series of 26 patients.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-06-12 | **PMID**: 42283891
 - **DOI**: [10.1007/s10549-026-07996-4](https://doi.org/10.1007/s10549-026-07996-4)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_6NK6EZ6V)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3GIW6KF4)
 
 
 > [!warning] Gemini 解析失败

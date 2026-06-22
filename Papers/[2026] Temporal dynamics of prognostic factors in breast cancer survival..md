@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.1371/journal.pone.0349115"
 pmid: 42201883
-zotero_link: "zotero://select/items/0_WFNDQH4G"
+zotero_link: "zotero://select/items/0_M94ZKXWH"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-15
+sync_date: 2026-06-22
 ---
 # Temporal dynamics of prognostic factors in breast cancer survival.
 - **Journal**: PloS one (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42201883
 - **DOI**: [10.1371/journal.pone.0349115](https://doi.org/10.1371/journal.pone.0349115)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WFNDQH4G)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_M94ZKXWH)
 
 
 > [!warning] Gemini 解析失败
