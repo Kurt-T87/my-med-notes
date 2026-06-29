@@ -1,0 +1,24 @@
+---
+title: "Domain-Level Distribution of Pathogenic BRCA1/2 Somatic Mutations Shows No Evidence of Large Subtype-Specific Enrichment in Breast Cancer: A Three-Cohort Analysis Supporting Broad BRCA Testing."
+journal: "Genes"
+if: Unknown
+published: "2026-06-13"
+doi: "10.3390/genes17060693"
+pmid: 42353852
+zotero_link: "zotero://select/items/0_ZG3CCXIP"
+tags: #BC #HR+HER2- #GeminiAnalyzed
+sync_date: 2026-06-29
+---
+# Domain-Level Distribution of Pathogenic BRCA1/2 Somatic Mutations Shows No Evidence of Large Subtype-Specific Enrichment in Breast Cancer: A Three-Cohort Analysis Supporting Broad BRCA Testing.
+- **Journal**: Genes (**IF: Unknown**)
+- **Published**: 2026-06-13 | **PMID**: 42353852
+- **DOI**: [10.3390/genes17060693](https://doi.org/10.3390/genes17060693)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ZG3CCXIP)
+
+
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
+
+## 📄 Abstract
+<b>Background</b>: Pathogenic <i>BRCA1</i> and <i>BRCA2</i> mutations confer a homologous recombination deficiency that underlies PARP inhibitor sensitivity. While <i>BRCA1</i> mutation carriers more frequently develop triple-negative breast cancer (TNBC) and <i>BRCA2</i> carriers hormone receptor-positive (HR+) disease, whether the specific protein domain harboring a pathogenic somatic mutation differs systematically between breast cancer subtypes remains uncertain. Apparent domain enrichment in earlier unfiltered analyses may be confounded by missense variants of uncertain significance (VUSs), which lack clinical actionability. <b>Methods</b>: We assembled three independent breast cancer cohorts via cBioPortal: TCGA-BRCA (brca_tcga_pub2015), METABRIC (brca_metabric), and MSK-CHORD (msk_chord_2024). All somatic <i>BRCA1/2</i> mutations were mapped to UniProt-annotated functional domains and to Rebbeck-defined breast/ovarian cancer cluster regions (BCCR/OCCR). Per ENIGMA/ACMG guidance, pathogenic mutations (nonsense, frameshift, and canonical splice site) were analyzed inferentially, while missense and in-frame variants-predominantly VUSs-were only reported descriptively. Fisher's exact tests with Benjamini-Hochberg FDR correction were applied across domain × subtype contingencies. Cohort heterogeneity was assessed via Cochran's Q and I<sup>2</sup> statistics; pooled effect estimates were computed using inverse-variance fixed-effects meta-analysis. <b>Results</b>: A total of 394 somatic <i>BRCA1/2</i> mutations were identified across the three cohorts (<i>BRCA1 n</i> = 166; <i>BRCA2 n</i> = 228), of which 147 (37.3%) met pathogenic criteria. Among 131 pathogenic mutations in HR+/HER2- or TNBC subtypes, 84 (64.1%) occurred in HR+/HER2- disease and 47 (35.9%) in TNBC. Domain-level distributions did not differ significantly between subtypes for any <i>BRCA1</i> domain (BRCT: TNBC 20.0% vs. HR+ 18.8%, OR = 1.08, 95% CI 0.31-3.78, and FDR-adjusted <i>p</i> = 1.00) or <i>BRCA2</i> domain (DBD: TNBC 17.6% vs. HR+ 30.8%, OR = 0.48, and FDR-adjusted <i>p</i> = 1.00). Cluster-region analyses (nine Rebbeck BCCR/OCCRs) similarly showed no significant enrichment. Post hoc power analysis indicated that the study could only reliably detect large effects (OR ≥ ~3.0 for the principal BRCT contrast), and formal equivalence testing (TOST) demonstrated equivalence within a prespecified ±20% margin for <i>BRCA1</i> BRCT (TOST <i>p</i> = 0.031). Heterogeneity across cohorts was minimal (Cochran's Q = 0.62, I<sup>2</sup> = 0.0%). Descriptive analyses of VUSs suggested the apparent enrichment of BRCA1 BRCT-localized missense variants in TNBC (31.8% vs. 17.9% in HR+), but this signal did not extend to pathogenic mutations. <b>Conclusions</b>: Within the statistical power available, our three-cohort analysis shows no evidence of large subtype-specific enrichment of pathogenic <i>BRCA1/2</i> somatic mutations across protein domains or cluster regions; small to moderate effects cannot be excluded. Notably, the majority (64%) of pathogenic mutations occurred in HR+/HER2- disease, underscoring that <i>BRCA1/2</i> testing should not be deprioritized in non-TNBC subtypes. The apparent BRCT enrichment observed in earlier unfiltered analyses appears to be driven by VUSs rather than pathogenic variants, highlighting the methodological necessity of pathogenicity filtering for clinically actionable inference. These findings provide cohort-scale supportive evidence for emerging clinical guidelines that recommend broader <i>BRCA1/2</i> testing across breast cancer subtypes.

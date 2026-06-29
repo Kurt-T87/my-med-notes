@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-06-01"
 doi: "10.1016/j.breast.2026.104769"
 pmid: 42048902
-zotero_link: "zotero://select/items/0_AF4VICF6"
+zotero_link: "zotero://select/items/0_2WU3SWWR"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # Real-world effectiveness of CDK4/6 inhibitors in older patients with HR+/HER2- advanced breast cancer: a sub-analysis of the multicenter, PALMARES-2 study.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-06-01 | **PMID**: 42048902
 - **DOI**: [10.1016/j.breast.2026.104769](https://doi.org/10.1016/j.breast.2026.104769)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_AF4VICF6)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_2WU3SWWR)
 
 
 > [!warning] Gemini 解析失败

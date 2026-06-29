@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-06-04"
 doi: "10.1007/s10549-026-07988-4"
 pmid: 42243369
-zotero_link: "zotero://select/items/0_258K2569"
+zotero_link: "zotero://select/items/0_DWTJRAS9"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # The value of innovation in breast cancer treatment: real option value of olaparib for first-line treatment of gBRCA-mutated HER2 negative metastatic breast cancer.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-06-04 | **PMID**: 42243369
 - **DOI**: [10.1007/s10549-026-07988-4](https://doi.org/10.1007/s10549-026-07988-4)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_258K2569)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_DWTJRAS9)
 
 
 > [!warning] Gemini 解析失败

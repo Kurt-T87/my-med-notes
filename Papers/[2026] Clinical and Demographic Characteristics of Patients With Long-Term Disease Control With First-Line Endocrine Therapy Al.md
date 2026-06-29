@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-06-01"
 doi: "10.1016/j.clbc.2026.04.012"
 pmid: 42134089
-zotero_link: "zotero://select/items/0_ZXBVAVFH"
+zotero_link: "zotero://select/items/0_I6DUT2RZ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # Clinical and Demographic Characteristics of Patients With Long-Term Disease Control With First-Line Endocrine Therapy Alone for Hormone Receptor Positive, HER2 Negative, Metastatic Breast Cancer.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-06-01 | **PMID**: 42134089
 - **DOI**: [10.1016/j.clbc.2026.04.012](https://doi.org/10.1016/j.clbc.2026.04.012)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ZXBVAVFH)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_I6DUT2RZ)
 
 
 > [!warning] Gemini 解析失败

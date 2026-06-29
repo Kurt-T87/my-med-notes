@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-01"
 doi: "10.1080/14656566.2026.2678481"
 pmid: 42169538
-zotero_link: "zotero://select/items/0_58IRZ4XF"
+zotero_link: "zotero://select/items/0_NBM4S4AW"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # Oral selective estrogen receptor degraders (SERDs) for the treatment of hormone receptor-positive, HER2-negative breast cancer title.
 - **Journal**: Expert opinion on pharmacotherapy (**IF: Unknown**)
 - **Published**: 2026-06-01 | **PMID**: 42169538
 - **DOI**: [10.1080/14656566.2026.2678481](https://doi.org/10.1080/14656566.2026.2678481)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_58IRZ4XF)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_NBM4S4AW)
 
 
 > [!warning] Gemini 解析失败

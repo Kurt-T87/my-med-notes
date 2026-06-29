@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-01"
 doi: "10.1016/j.esmoop.2026.107766"
 pmid: 42242004
-zotero_link: "zotero://select/items/0_UGM2NVKM"
+zotero_link: "zotero://select/items/0_JNXJ8KJT"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # Tracking structural variants in early breast cancer using a high-sensitivity ctDNA assay predicts relapse in the post-neoadjuvant setting: the multicenter ALIENOR trial.
 - **Journal**: ESMO open (**IF: Unknown**)
 - **Published**: 2026-06-01 | **PMID**: 42242004
 - **DOI**: [10.1016/j.esmoop.2026.107766](https://doi.org/10.1016/j.esmoop.2026.107766)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UGM2NVKM)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JNXJ8KJT)
 
 
 > [!warning] Gemini 解析失败

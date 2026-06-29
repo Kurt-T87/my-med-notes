@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-02"
 doi: "10.3390/ijms27115040"
 pmid: 42278564
-zotero_link: "zotero://select/items/0_ZWIMKCHE"
+zotero_link: "zotero://select/items/0_I9EDF57N"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # Beyond Molecular Classification in Metastatic Triple-Negative Breast Cancer: Toward Subtype-Guided Precision Oncology.
 - **Journal**: International journal of molecular sciences (**IF: Unknown**)
 - **Published**: 2026-06-02 | **PMID**: 42278564
 - **DOI**: [10.3390/ijms27115040](https://doi.org/10.3390/ijms27115040)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ZWIMKCHE)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_I9EDF57N)
 
 
 > [!warning] Gemini 解析失败

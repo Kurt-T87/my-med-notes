@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-06-01"
 doi: "10.1016/j.clbc.2026.04.003"
 pmid: 42068677
-zotero_link: "zotero://select/items/0_8RJQVZA5"
+zotero_link: "zotero://select/items/0_VCMPW4IZ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # Incidence, Clinicopathologic Features, and Follow-up Results of Invasive Ductal Carcinoma With Lobular-Like Growth Pattern.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-06-01 | **PMID**: 42068677
 - **DOI**: [10.1016/j.clbc.2026.04.003](https://doi.org/10.1016/j.clbc.2026.04.003)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8RJQVZA5)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VCMPW4IZ)
 
 
 > [!warning] Gemini 解析失败

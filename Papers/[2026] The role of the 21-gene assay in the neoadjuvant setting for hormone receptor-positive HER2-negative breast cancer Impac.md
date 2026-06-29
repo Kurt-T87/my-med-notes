@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-01"
 doi: "10.1016/j.ctrv.2026.103161"
 pmid: 42218834
-zotero_link: "zotero://select/items/0_N27RF4WJ"
+zotero_link: "zotero://select/items/0_QEA7CK9U"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # The role of the 21-gene assay in the neoadjuvant setting for hormone receptor-positive HER2-negative breast cancer: Impact on systemic and surgical treatment decisions.
 - **Journal**: Cancer treatment reviews (**IF: Unknown**)
 - **Published**: 2026-06-01 | **PMID**: 42218834
 - **DOI**: [10.1016/j.ctrv.2026.103161](https://doi.org/10.1016/j.ctrv.2026.103161)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_N27RF4WJ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_QEA7CK9U)
 
 
 > [!warning] Gemini 解析失败

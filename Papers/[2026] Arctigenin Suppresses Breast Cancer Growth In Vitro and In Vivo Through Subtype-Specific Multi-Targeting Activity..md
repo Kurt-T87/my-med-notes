@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-03"
 doi: "10.3390/ijms27115055"
 pmid: 42278579
-zotero_link: "zotero://select/items/0_U5K9RGSG"
+zotero_link: "zotero://select/items/0_7THQUBPF"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # Arctigenin Suppresses Breast Cancer Growth In Vitro and In Vivo Through Subtype-Specific Multi-Targeting Activity.
 - **Journal**: International journal of molecular sciences (**IF: Unknown**)
 - **Published**: 2026-06-03 | **PMID**: 42278579
 - **DOI**: [10.3390/ijms27115055](https://doi.org/10.3390/ijms27115055)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_U5K9RGSG)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7THQUBPF)
 
 
 > [!warning] Gemini 解析失败

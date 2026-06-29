@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-01"
 doi: "10.1016/j.modpat.2026.101004"
 pmid: 41997561
-zotero_link: "zotero://select/items/0_85U3MT25"
+zotero_link: "zotero://select/items/0_W2N56794"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # Mature Tertiary Lymphoid Structures in Breast Cancers Are Associated With Antitumor Immunity and Better Prognosis.
 - **Journal**: Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc (**IF: Unknown**)
 - **Published**: 2026-06-01 | **PMID**: 41997561
 - **DOI**: [10.1016/j.modpat.2026.101004](https://doi.org/10.1016/j.modpat.2026.101004)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_85U3MT25)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_W2N56794)
 
 
 > [!warning] Gemini 解析失败

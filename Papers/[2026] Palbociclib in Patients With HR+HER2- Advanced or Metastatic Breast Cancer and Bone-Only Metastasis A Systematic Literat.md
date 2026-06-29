@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-06-01"
 doi: "10.1016/j.clbc.2026.04.010"
 pmid: 42173733
-zotero_link: "zotero://select/items/0_VXESFZM6"
+zotero_link: "zotero://select/items/0_K56CHPT5"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # Palbociclib in Patients With HR+/HER2- Advanced or Metastatic Breast Cancer and Bone-Only Metastasis: A Systematic Literature Review.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-06-01 | **PMID**: 42173733
 - **DOI**: [10.1016/j.clbc.2026.04.010](https://doi.org/10.1016/j.clbc.2026.04.010)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VXESFZM6)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_K56CHPT5)
 
 
 > [!warning] Gemini 解析失败

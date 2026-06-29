@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-06-01"
 doi: "10.1016/j.breast.2026.104786"
 pmid: 41999684
-zotero_link: "zotero://select/items/0_MFBXDNJ5"
+zotero_link: "zotero://select/items/0_XAJKK5AV"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # Integrating PIK3CA Testing into Clinical Practice for Advanced HR+/HER2- Breast Cancer: An Expert Consensus.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-06-01 | **PMID**: 41999684
 - **DOI**: [10.1016/j.breast.2026.104786](https://doi.org/10.1016/j.breast.2026.104786)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MFBXDNJ5)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XAJKK5AV)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.1371/journal.pone.0343185"
 pmid: 42247401
-zotero_link: "zotero://select/items/0_5K79W557"
+zotero_link: "zotero://select/items/0_SGIBRNC2"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # Pre-analytical variables affecting breast cancer biomarker expression: A controlled single-specimen study of fixation duration, cold ischemia time, and fixative preparation in a low-resource setting.
 - **Journal**: PloS one (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42247401
 - **DOI**: [10.1371/journal.pone.0343185](https://doi.org/10.1371/journal.pone.0343185)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5K79W557)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SGIBRNC2)
 
 
 > [!warning] Gemini 解析失败

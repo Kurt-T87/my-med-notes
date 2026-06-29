@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-01"
 doi: "10.1080/14737159.2026.2663045"
 pmid: 42210689
-zotero_link: "zotero://select/items/0_6IMQE6MF"
+zotero_link: "zotero://select/items/0_CPRNWVM5"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # Assessing biomarkers for patients with breast cancer who are suited for adjuvant therapy.
 - **Journal**: Expert review of molecular diagnostics (**IF: Unknown**)
 - **Published**: 2026-06-01 | **PMID**: 42210689
 - **DOI**: [10.1080/14737159.2026.2663045](https://doi.org/10.1080/14737159.2026.2663045)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_6IMQE6MF)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CPRNWVM5)
 
 
 > [!warning] Gemini 解析失败

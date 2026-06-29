@@ -5,15 +5,15 @@ if: 7.6
 published: "2026-06-25"
 doi: "10.1016/j.ejca.2026.116817"
 pmid: 42202479
-zotero_link: "zotero://select/items/0_CWB2R4AD"
+zotero_link: "zotero://select/items/0_CI8DWADV"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # Dynamic thymidine kinase activity independently captures treatment-specific biological response and is independently associated with outcomes in endocrine-resistant HR+ /HER2 - metastatic breast cancer: A translational analysis of the GEICAM/2013-02 PEARL trial.
 - **Journal**: European journal of cancer (Oxford, England : 1990) (**IF: 7.6**)
 - **Published**: 2026-06-25 | **PMID**: 42202479
 - **DOI**: [10.1016/j.ejca.2026.116817](https://doi.org/10.1016/j.ejca.2026.116817)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CWB2R4AD)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CI8DWADV)
 
 
 > [!warning] Gemini 解析失败

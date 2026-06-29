@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-06-01"
 doi: "10.1016/j.clbc.2026.04.006"
 pmid: 42127583
-zotero_link: "zotero://select/items/0_E5BN9M8F"
+zotero_link: "zotero://select/items/0_B67PCHV4"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # Taxane-Induced Peripheral Neuropathy-Driven Treatment Modification and Pathologic Complete Response After Neoadjuvant TCHP in HER2-Positive Breast Cancer: A Retrospective Cohort Study.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-06-01 | **PMID**: 42127583
 - **DOI**: [10.1016/j.clbc.2026.04.006](https://doi.org/10.1016/j.clbc.2026.04.006)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_E5BN9M8F)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_B67PCHV4)
 
 
 > [!warning] Gemini 解析失败

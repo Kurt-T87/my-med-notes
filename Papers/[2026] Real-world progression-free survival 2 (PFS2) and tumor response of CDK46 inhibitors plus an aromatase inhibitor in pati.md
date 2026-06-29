@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-06-01"
 doi: "10.1016/j.breast.2026.104780"
 pmid: 41950642
-zotero_link: "zotero://select/items/0_XFEZSI9J"
+zotero_link: "zotero://select/items/0_6H62IKDK"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # Real-world progression-free survival 2 (PFS2) and tumor response of CDK4/6 inhibitors plus an aromatase inhibitor in patients with HR+/HER2- metastatic breast cancer in US routine clinical practice.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-06-01 | **PMID**: 41950642
 - **DOI**: [10.1016/j.breast.2026.104780](https://doi.org/10.1016/j.breast.2026.104780)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XFEZSI9J)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_6H62IKDK)
 
 
 > [!warning] Gemini 解析失败

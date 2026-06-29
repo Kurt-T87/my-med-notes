@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.1371/journal.pone.0350553"
 pmid: 42224209
-zotero_link: "zotero://select/items/0_46SAZJ77"
+zotero_link: "zotero://select/items/0_72T65WCW"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-06-29
 ---
 # Interplay of the IGFBP-3 polymorphism and serum levels of IGF-1/IGFBP-3 with hormone receptor subtypes in patients with breast cancer among Palestinian women.
 - **Journal**: PloS one (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42224209
 - **DOI**: [10.1371/journal.pone.0350553](https://doi.org/10.1371/journal.pone.0350553)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_46SAZJ77)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_72T65WCW)
 
 
 > [!warning] Gemini 解析失败
