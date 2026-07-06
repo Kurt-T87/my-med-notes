@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-06"
 doi: "10.1093/oncolo/oyag183"
 pmid: 42135608
-zotero_link: "zotero://select/items/0_XZAVNPS7"
+zotero_link: "zotero://select/items/0_E8CP2WX4"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-29
+sync_date: 2026-07-06
 ---
 # Ki-67 as a treatment decision modifier in breast cancer.
 - **Journal**: The oncologist (**IF: Unknown**)
 - **Published**: 2026-06-06 | **PMID**: 42135608
 - **DOI**: [10.1093/oncolo/oyag183](https://doi.org/10.1093/oncolo/oyag183)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XZAVNPS7)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_E8CP2WX4)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-16"
 doi: "10.3390/ijms27125440"
 pmid: 42353156
-zotero_link: "zotero://select/items/0_9V73X9ZT"
+zotero_link: "zotero://select/items/0_GFF8WWQ9"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-29
+sync_date: 2026-07-06
 ---
 # Molecular Mechanisms Underlying Recurrence in Triple-Positive Breast Cancer (ER+/PR+/HER2+) and Potential Repurposing of Multi-Target Inhibitors.
 - **Journal**: International journal of molecular sciences (**IF: Unknown**)
 - **Published**: 2026-06-16 | **PMID**: 42353156
 - **DOI**: [10.3390/ijms27125440](https://doi.org/10.3390/ijms27125440)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9V73X9ZT)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GFF8WWQ9)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-12-31"
 doi: "10.1080/15384047.2026.2683159"
 pmid: 42337391
-zotero_link: "zotero://select/items/0_66WJ3698"
+zotero_link: "zotero://select/items/0_GCVNZ9JB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-29
+sync_date: 2026-07-06
 ---
 # Efficacy and safety profiles of CDK4/6 inhibitor in patients with hormone receptor-positive and human epidermal growth factor receptor 2-negative (HR+/HER2-) advanced breast cancer (ABC) from the high-altitude <i>versus</i> low-altitude regions: a multi-center retrospective study.
 - **Journal**: Cancer biology & therapy (**IF: Unknown**)
 - **Published**: 2026-12-31 | **PMID**: 42337391
 - **DOI**: [10.1080/15384047.2026.2683159](https://doi.org/10.1080/15384047.2026.2683159)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_66WJ3698)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GCVNZ9JB)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.3389/fimmu.2026.1877547"
 pmid: 42358985
-zotero_link: "zotero://select/items/0_VUE949B4"
+zotero_link: "zotero://select/items/0_VESFUPRU"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-29
+sync_date: 2026-07-06
 ---
 # Early identification of neoadjuvant therapy non-response via multimodal immune-imaging biomarkers in breast cancer.
 - **Journal**: Frontiers in immunology (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42358985
 - **DOI**: [10.3389/fimmu.2026.1877547](https://doi.org/10.3389/fimmu.2026.1877547)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VUE949B4)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VESFUPRU)
 
 
 > [!warning] Gemini 解析失败

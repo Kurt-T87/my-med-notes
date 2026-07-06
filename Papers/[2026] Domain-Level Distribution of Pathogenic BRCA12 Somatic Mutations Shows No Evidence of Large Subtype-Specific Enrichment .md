@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-13"
 doi: "10.3390/genes17060693"
 pmid: 42353852
-zotero_link: "zotero://select/items/0_ZG3CCXIP"
+zotero_link: "zotero://select/items/0_3TDKFBEV"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-29
+sync_date: 2026-07-06
 ---
 # Domain-Level Distribution of Pathogenic BRCA1/2 Somatic Mutations Shows No Evidence of Large Subtype-Specific Enrichment in Breast Cancer: A Three-Cohort Analysis Supporting Broad BRCA Testing.
 - **Journal**: Genes (**IF: Unknown**)
 - **Published**: 2026-06-13 | **PMID**: 42353852
 - **DOI**: [10.3390/genes17060693](https://doi.org/10.3390/genes17060693)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ZG3CCXIP)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3TDKFBEV)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-11"
 doi: "10.3390/biom16060856"
 pmid: 42352322
-zotero_link: "zotero://select/items/0_9ZJZSEIB"
+zotero_link: "zotero://select/items/0_JXKJ4W2T"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-29
+sync_date: 2026-07-06
 ---
 # Small Molecule Liver X Receptor Modulator GAC0001E5 Targets Mechanisms of Endocrine Resistance in Estrogen Receptor-Positive Breast Cancer Cells.
 - **Journal**: Biomolecules (**IF: Unknown**)
 - **Published**: 2026-06-11 | **PMID**: 42352322
 - **DOI**: [10.3390/biom16060856](https://doi.org/10.3390/biom16060856)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9ZJZSEIB)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JXKJ4W2T)
 
 
 > [!warning] Gemini 解析失败

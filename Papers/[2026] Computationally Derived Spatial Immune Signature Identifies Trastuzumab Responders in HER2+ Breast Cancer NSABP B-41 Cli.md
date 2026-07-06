@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-06-15"
 doi: "10.1158/1078-0432.CCR-25-4185"
 pmid: 41915435
-zotero_link: "zotero://select/items/0_KHCG3M3B"
+zotero_link: "zotero://select/items/0_KECXH3K6"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-22
+sync_date: 2026-07-06
 ---
 # Computationally Derived Spatial Immune Signature Identifies Trastuzumab Responders in HER2+ Breast Cancer: NSABP B-41 Clinical Trial Validation.
 - **Journal**: Clinical cancer research : an official journal of the American Association for Cancer Research (**IF: 12.5**)
 - **Published**: 2026-06-15 | **PMID**: 41915435
 - **DOI**: [10.1158/1078-0432.CCR-25-4185](https://doi.org/10.1158/1078-0432.CCR-25-4185)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KHCG3M3B)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KECXH3K6)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-14"
 doi: "10.15407/exp-oncology.2026.01.066"
 pmid: 42290554
-zotero_link: "zotero://select/items/0_IJJJI4D8"
+zotero_link: "zotero://select/items/0_HDMZ5SFS"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-29
+sync_date: 2026-07-06
 ---
 # A Case Report: A Rare Casr Mutation Associated with HER2-Positive Breast Cancer.
 - **Journal**: Experimental oncology (**IF: Unknown**)
 - **Published**: 2026-06-14 | **PMID**: 42290554
 - **DOI**: [10.15407/exp-oncology.2026.01.066](https://doi.org/10.15407/exp-oncology.2026.01.066)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_IJJJI4D8)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HDMZ5SFS)
 
 
 > [!warning] Gemini 解析失败

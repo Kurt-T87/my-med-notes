@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-23"
 doi: "10.1073/pnas.2601563123"
 pmid: 42308036
-zotero_link: "zotero://select/items/0_7VX2J8EJ"
+zotero_link: "zotero://select/items/0_IVHI38JN"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-29
+sync_date: 2026-07-06
 ---
 # Dynamic monitoring of antibody drug conjugates targeting TROP2 or HER2 in breast cancer using circulating tumor cells.
 - **Journal**: Proceedings of the National Academy of Sciences of the United States of America (**IF: Unknown**)
 - **Published**: 2026-06-23 | **PMID**: 42308036
 - **DOI**: [10.1073/pnas.2601563123](https://doi.org/10.1073/pnas.2601563123)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7VX2J8EJ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_IVHI38JN)
 
 
 > [!warning] Gemini 解析失败

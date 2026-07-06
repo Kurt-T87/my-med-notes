@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-19"
 doi: "10.1007/s00394-026-04008-5"
 pmid: 42319457
-zotero_link: "zotero://select/items/0_HDN74BKS"
+zotero_link: "zotero://select/items/0_9JH52CDH"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-29
+sync_date: 2026-07-06
 ---
 # Changes in alcohol consumption and the risk of postmenopausal breast cancer in the European Prospective Investigation into Cancer and Nutrition cohort.
 - **Journal**: European journal of nutrition (**IF: Unknown**)
 - **Published**: 2026-06-19 | **PMID**: 42319457
 - **DOI**: [10.1007/s00394-026-04008-5](https://doi.org/10.1007/s00394-026-04008-5)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HDN74BKS)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9JH52CDH)
 
 
 > [!warning] Gemini 解析失败

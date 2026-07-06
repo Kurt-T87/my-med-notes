@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-17"
 doi: "10.3390/curroncol33060365"
 pmid: 42346265
-zotero_link: "zotero://select/items/0_BWPE8T8S"
+zotero_link: "zotero://select/items/0_VC7HDM5G"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-29
+sync_date: 2026-07-06
 ---
 # Real-World Outcomes of CDK4/6 Inhibitors in Germline BRCA1/2-Mutated Hormone Receptor-Positive, HER2-Negative Metastatic Breast Cancer: Turkish Oncology Group (TOG) Study.
 - **Journal**: Current oncology (Toronto, Ont.) (**IF: Unknown**)
 - **Published**: 2026-06-17 | **PMID**: 42346265
 - **DOI**: [10.3390/curroncol33060365](https://doi.org/10.3390/curroncol33060365)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BWPE8T8S)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VC7HDM5G)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: 14.7
 published: "2026-06-23"
 doi: "10.1038/s41467-026-73432-2"
 pmid: 42337235
-zotero_link: "zotero://select/items/0_T5RRKEFK"
+zotero_link: "zotero://select/items/0_4S963HA4"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-29
+sync_date: 2026-07-06
 ---
 # Spatial analyses implicate high stromal tumour-infiltrating CD8<sup>+</sup> lymphocytes as a negative predictive marker for chemotherapy in estrogen receptor-positive breast cancer.
 - **Journal**: Nature communications (**IF: 14.7**)
 - **Published**: 2026-06-23 | **PMID**: 42337235
 - **DOI**: [10.1038/s41467-026-73432-2](https://doi.org/10.1038/s41467-026-73432-2)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_T5RRKEFK)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4S963HA4)
 
 
 > [!warning] Gemini 解析失败

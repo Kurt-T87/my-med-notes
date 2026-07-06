@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-16"
 doi: "10.2196/76785"
 pmid: 42302265
-zotero_link: "zotero://select/items/0_I6S7RF85"
+zotero_link: "zotero://select/items/0_UNX36HXT"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-06-29
+sync_date: 2026-07-06
 ---
 # Deep-Learning Solution Providing Molecular Marker Subtyping of Breast Cancer Whole Slide Images: Protocol for a UK Clinical Service Evaluation Study.
 - **Journal**: JMIR research protocols (**IF: Unknown**)
 - **Published**: 2026-06-16 | **PMID**: 42302265
 - **DOI**: [10.2196/76785](https://doi.org/10.2196/76785)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_I6S7RF85)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UNX36HXT)
 
 
 > [!warning] Gemini 解析失败

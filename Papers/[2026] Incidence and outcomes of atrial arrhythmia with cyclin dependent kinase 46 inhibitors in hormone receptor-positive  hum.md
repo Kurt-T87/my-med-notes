@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-01"
 doi: "10.1016/j.ijcard.2026.134466"
 pmid: 41903892
-zotero_link: "zotero://select/items/0_HUI9FVUP"
+zotero_link: "zotero://select/items/0_5CPN4QWM"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-04-27
+sync_date: 2026-07-06
 ---
 # Incidence and outcomes of atrial arrhythmia with cyclin dependent kinase 4/6 inhibitors in hormone receptor-positive / human epidermal growth factor receptor 2-negative breast cancer.
 - **Journal**: International journal of cardiology (**IF: Unknown**)
 - **Published**: 2026-07-01 | **PMID**: 41903892
 - **DOI**: [10.1016/j.ijcard.2026.134466](https://doi.org/10.1016/j.ijcard.2026.134466)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HUI9FVUP)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5CPN4QWM)
 
 
 > [!warning] Gemini 解析失败
