@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-01"
 doi: "10.1016/j.ejrad.2026.112863"
 pmid: 42000472
-zotero_link: "zotero://select/items/0_F9QUXH4J"
+zotero_link: "zotero://select/items/0_K9QRDMWN"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-06
+sync_date: 2026-07-13
 ---
 # Breast MRI biomarkers of tumor biology: integrating imaging with pathology to guide clinical care.
 - **Journal**: European journal of radiology (**IF: Unknown**)
 - **Published**: 2026-07-01 | **PMID**: 42000472
 - **DOI**: [10.1016/j.ejrad.2026.112863](https://doi.org/10.1016/j.ejrad.2026.112863)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_F9QUXH4J)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_K9QRDMWN)
 
 
 > [!warning] Gemini 解析失败

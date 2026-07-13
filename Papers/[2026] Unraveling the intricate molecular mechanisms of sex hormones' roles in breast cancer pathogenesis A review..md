@@ -5,15 +5,15 @@ if: 158.5
 published: "2026-06-26"
 doi: "10.1097/MD.0000000000049376"
 pmid: 42363452
-zotero_link: "zotero://select/items/0_NZ9PQ7AV"
+zotero_link: "zotero://select/items/0_QSPKJ85V"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-06
+sync_date: 2026-07-13
 ---
 # Unraveling the intricate molecular mechanisms of sex hormones' roles in breast cancer pathogenesis: A review.
 - **Journal**: Medicine (**IF: 158.5**)
 - **Published**: 2026-06-26 | **PMID**: 42363452
 - **DOI**: [10.1097/MD.0000000000049376](https://doi.org/10.1097/MD.0000000000049376)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_NZ9PQ7AV)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_QSPKJ85V)
 
 
 > [!warning] Gemini 解析失败

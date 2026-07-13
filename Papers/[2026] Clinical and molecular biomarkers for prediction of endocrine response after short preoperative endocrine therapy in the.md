@@ -5,15 +5,15 @@ if: 56.7
 published: "2026-07-01"
 doi: "10.1016/j.annonc.2026.04.007"
 pmid: 41999978
-zotero_link: "zotero://select/items/0_RPPI9VFX"
+zotero_link: "zotero://select/items/0_KPF2BXBK"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-06
+sync_date: 2026-07-13
 ---
 # Clinical and molecular biomarkers for prediction of endocrine response after short preoperative endocrine therapy in the WSG ADAPT-HR+/HER2- and ADAPTcycle trials (N = 7914).
 - **Journal**: Annals of oncology : official journal of the European Society for Medical Oncology (**IF: 56.7**)
 - **Published**: 2026-07-01 | **PMID**: 41999978
 - **DOI**: [10.1016/j.annonc.2026.04.007](https://doi.org/10.1016/j.annonc.2026.04.007)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RPPI9VFX)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KPF2BXBK)
 
 
 > [!warning] Gemini 解析失败

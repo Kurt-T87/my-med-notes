@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-01"
 doi: "10.1245/s10434-026-19620-2"
 pmid: 41963560
-zotero_link: "zotero://select/items/0_V6RN6H7V"
+zotero_link: "zotero://select/items/0_KM82BJFW"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-06
+sync_date: 2026-07-13
 ---
 # Ki67 Gene Expression is Associated with Immune Cell Infiltration and Neoadjuvant Chemotherapy Response in ER+/HER2- Breast Cancer.
 - **Journal**: Annals of surgical oncology (**IF: Unknown**)
 - **Published**: 2026-07-01 | **PMID**: 41963560
 - **DOI**: [10.1245/s10434-026-19620-2](https://doi.org/10.1245/s10434-026-19620-2)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_V6RN6H7V)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KM82BJFW)
 
 
 > [!warning] Gemini 解析失败

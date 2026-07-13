@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-01"
 doi: "10.1016/j.ejso.2026.111880"
 pmid: 42173037
-zotero_link: "zotero://select/items/0_EBQGDJUC"
+zotero_link: "zotero://select/items/0_8VVK8ZXR"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-06
+sync_date: 2026-07-13
 ---
 # Prognostic factors and the role of GnRHa in premenopausal HR+/HER2+ breast cancer achieving pathologic complete response after neoadjuvant chemotherapy.
 - **Journal**: European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology (**IF: Unknown**)
 - **Published**: 2026-07-01 | **PMID**: 42173037
 - **DOI**: [10.1016/j.ejso.2026.111880](https://doi.org/10.1016/j.ejso.2026.111880)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_EBQGDJUC)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8VVK8ZXR)
 
 
 > [!warning] Gemini 解析失败

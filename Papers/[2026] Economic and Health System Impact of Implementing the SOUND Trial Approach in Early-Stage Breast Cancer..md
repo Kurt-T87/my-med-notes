@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-01"
 doi: "10.1245/s10434-026-19564-7"
 pmid: 41913016
-zotero_link: "zotero://select/items/0_2KC69PIV"
+zotero_link: "zotero://select/items/0_E33NI5WP"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-06
+sync_date: 2026-07-13
 ---
 # Economic and Health System Impact of Implementing the SOUND Trial Approach in Early-Stage Breast Cancer.
 - **Journal**: Annals of surgical oncology (**IF: Unknown**)
 - **Published**: 2026-07-01 | **PMID**: 41913016
 - **DOI**: [10.1245/s10434-026-19564-7](https://doi.org/10.1245/s10434-026-19564-7)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_2KC69PIV)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_E33NI5WP)
 
 
 > [!warning] Gemini 解析失败

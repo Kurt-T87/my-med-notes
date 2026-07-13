@@ -5,15 +5,15 @@ if: 7.6
 published: "2026-07-01"
 doi: "10.1038/s41416-026-03388-z"
 pmid: 42020778
-zotero_link: "zotero://select/items/0_DJSV7PJF"
+zotero_link: "zotero://select/items/0_ER33SMEG"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-06
+sync_date: 2026-07-13
 ---
 # CDKN1B inactivation impacts ER signaling and drives resistance to endocrine therapy in breast cancer.
 - **Journal**: British journal of cancer (**IF: 7.6**)
 - **Published**: 2026-07-01 | **PMID**: 42020778
 - **DOI**: [10.1038/s41416-026-03388-z](https://doi.org/10.1038/s41416-026-03388-z)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_DJSV7PJF)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ER33SMEG)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-01"
 doi: "10.1016/j.radonc.2026.111573"
 pmid: 42142534
-zotero_link: "zotero://select/items/0_3ND7GVZ6"
+zotero_link: "zotero://select/items/0_HTA6BVCN"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-06
+sync_date: 2026-07-13
 ---
 # Definitive, stereotactic ablative radiotherapy and endocrine therapy without surgery for select low-risk breast cancers: A prospective, phase II trial.
 - **Journal**: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (**IF: Unknown**)
 - **Published**: 2026-07-01 | **PMID**: 42142534
 - **DOI**: [10.1016/j.radonc.2026.111573](https://doi.org/10.1016/j.radonc.2026.111573)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3ND7GVZ6)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HTA6BVCN)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-01"
 doi: "10.1080/15548627.2026.2656780"
 pmid: 41948828
-zotero_link: "zotero://select/items/0_KXUGAU6N"
+zotero_link: "zotero://select/items/0_5ZCZN3PM"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-06
+sync_date: 2026-07-13
 ---
 # Secretory autophagy mediates SLC16A3/MCT4-dependent lactate secretion to drive metastatic progression in triple-negative breast cancer.
 - **Journal**: Autophagy (**IF: Unknown**)
 - **Published**: 2026-07-01 | **PMID**: 41948828
 - **DOI**: [10.1080/15548627.2026.2656780](https://doi.org/10.1080/15548627.2026.2656780)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KXUGAU6N)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5ZCZN3PM)
 
 
 > [!warning] Gemini 解析失败

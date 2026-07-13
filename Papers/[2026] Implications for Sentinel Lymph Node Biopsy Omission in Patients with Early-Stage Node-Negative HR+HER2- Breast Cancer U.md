@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-01"
 doi: "10.1245/s10434-026-19588-z"
 pmid: 41949735
-zotero_link: "zotero://select/items/0_WJM6JJKI"
+zotero_link: "zotero://select/items/0_ZKAF437A"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-06
+sync_date: 2026-07-13
 ---
 # Implications for Sentinel Lymph Node Biopsy Omission in Patients with Early-Stage Node-Negative HR+/HER2- Breast Cancer Undergoing Mastectomy.
 - **Journal**: Annals of surgical oncology (**IF: Unknown**)
 - **Published**: 2026-07-01 | **PMID**: 41949735
 - **DOI**: [10.1245/s10434-026-19588-z](https://doi.org/10.1245/s10434-026-19588-z)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WJM6JJKI)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ZKAF437A)
 
 
 > [!warning] Gemini 解析失败

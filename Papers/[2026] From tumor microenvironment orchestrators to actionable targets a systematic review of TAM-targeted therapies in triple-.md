@@ -5,15 +5,15 @@ if: 42.1
 published: "2026-07-01"
 doi: "10.1007/s10147-026-02987-3"
 pmid: 42138756
-zotero_link: "zotero://select/items/0_V9S63EZP"
+zotero_link: "zotero://select/items/0_U8WTU6FK"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-06
+sync_date: 2026-07-13
 ---
 # From tumor microenvironment orchestrators to actionable targets: a systematic review of TAM-targeted therapies in triple-negative breast cancer.
 - **Journal**: International journal of clinical oncology (**IF: 42.1**)
 - **Published**: 2026-07-01 | **PMID**: 42138756
 - **DOI**: [10.1007/s10147-026-02987-3](https://doi.org/10.1007/s10147-026-02987-3)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_V9S63EZP)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_U8WTU6FK)
 
 
 > [!warning] Gemini 解析失败

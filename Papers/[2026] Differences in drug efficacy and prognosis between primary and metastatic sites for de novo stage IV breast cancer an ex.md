@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-07-01"
 doi: "10.1007/s12282-026-01846-3"
 pmid: 41989526
-zotero_link: "zotero://select/items/0_XWH6FRGH"
+zotero_link: "zotero://select/items/0_KXEEJFGM"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-06
+sync_date: 2026-07-13
 ---
 # Differences in drug efficacy and prognosis between primary and metastatic sites for de novo stage IV breast cancer: an exploratory analysis of a phase III trial, JCOG1017.
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-07-01 | **PMID**: 41989526
 - **DOI**: [10.1007/s12282-026-01846-3](https://doi.org/10.1007/s12282-026-01846-3)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XWH6FRGH)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KXEEJFGM)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: 40.8
 published: "2026-06-12"
 doi: "10.1038/s41392-026-02788-0"
 pmid: 42285923
-zotero_link: "zotero://select/items/0_CR32MQ5B"
+zotero_link: "zotero://select/items/0_7KZNVBQC"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-06
+sync_date: 2026-07-13
 ---
 # Anlotinib combined with neoadjuvant chemotherapy for HR+/HER2- breast cancer (ACNTBC): a prospective, single-arm, single-center phase II clinical study with real-world validation.
 - **Journal**: Signal transduction and targeted therapy (**IF: 40.8**)
 - **Published**: 2026-06-12 | **PMID**: 42285923
 - **DOI**: [10.1038/s41392-026-02788-0](https://doi.org/10.1038/s41392-026-02788-0)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CR32MQ5B)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7KZNVBQC)
 
 
 > [!warning] Gemini 解析失败

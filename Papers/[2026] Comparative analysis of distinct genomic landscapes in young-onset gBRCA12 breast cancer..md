@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-22"
 doi: "10.1172/jci.insight.203005"
 pmid: 42048167
-zotero_link: "zotero://select/items/0_AM25ZS6R"
+zotero_link: "zotero://select/items/0_ICSH94WV"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-06
+sync_date: 2026-07-13
 ---
 # Comparative analysis of distinct genomic landscapes in young-onset gBRCA1/2 breast cancer.
 - **Journal**: JCI insight (**IF: Unknown**)
 - **Published**: 2026-06-22 | **PMID**: 42048167
 - **DOI**: [10.1172/jci.insight.203005](https://doi.org/10.1172/jci.insight.203005)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_AM25ZS6R)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ICSH94WV)
 
 
 > [!warning] Gemini 解析失败
