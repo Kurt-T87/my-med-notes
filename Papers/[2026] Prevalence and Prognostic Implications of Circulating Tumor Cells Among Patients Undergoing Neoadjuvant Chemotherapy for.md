@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-07-01"
 doi: "10.1016/j.clbc.2026.05.005"
 pmid: 42284652
-zotero_link: "zotero://select/items/0_GFWDJVG6"
+zotero_link: "zotero://select/items/0_TZHDTQQN"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-13
+sync_date: 2026-07-20
 ---
 # Prevalence and Prognostic Implications of Circulating Tumor Cells Among Patients Undergoing Neoadjuvant Chemotherapy for Early-Stage Breast Cancer.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-07-01 | **PMID**: 42284652
 - **DOI**: [10.1016/j.clbc.2026.05.005](https://doi.org/10.1016/j.clbc.2026.05.005)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GFWDJVG6)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TZHDTQQN)
 
 
 > [!warning] Gemini 解析失败

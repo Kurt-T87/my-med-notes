@@ -5,15 +5,15 @@ if: 48.8
 published: "2026-07-09"
 doi: "10.1016/j.cell.2026.04.023"
 pmid: 42105763
-zotero_link: "zotero://select/items/0_JRVSHVJ4"
+zotero_link: "zotero://select/items/0_4IQ4FHCR"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-13
+sync_date: 2026-07-20
 ---
 # AI-predicted spatial transcriptomics unlocks breast cancer biomarkers from pathology.
 - **Journal**: Cell (**IF: 48.8**)
 - **Published**: 2026-07-09 | **PMID**: 42105763
 - **DOI**: [10.1016/j.cell.2026.04.023](https://doi.org/10.1016/j.cell.2026.04.023)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JRVSHVJ4)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4IQ4FHCR)
 
 
 > [!warning] Gemini 解析失败

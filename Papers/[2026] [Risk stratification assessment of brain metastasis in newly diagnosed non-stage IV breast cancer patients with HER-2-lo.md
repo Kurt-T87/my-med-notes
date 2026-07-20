@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-23"
 doi: "10.3760/cma.j.cn112152-20250418-00174"
 pmid: 42331553
-zotero_link: "zotero://select/items/0_QBH4XRZM"
+zotero_link: "zotero://select/items/0_E65ZDBNZ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-13
+sync_date: 2026-07-20
 ---
 # [Risk stratification assessment of brain metastasis in newly diagnosed non-stage IV breast cancer patients with HER-2-low expression following systemic therapy].
 - **Journal**: Zhonghua zhong liu za zhi [Chinese journal of oncology] (**IF: Unknown**)
 - **Published**: 2026-06-23 | **PMID**: 42331553
 - **DOI**: [10.3760/cma.j.cn112152-20250418-00174](https://doi.org/10.3760/cma.j.cn112152-20250418-00174)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_QBH4XRZM)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_E65ZDBNZ)
 
 
 > [!warning] Gemini 解析失败

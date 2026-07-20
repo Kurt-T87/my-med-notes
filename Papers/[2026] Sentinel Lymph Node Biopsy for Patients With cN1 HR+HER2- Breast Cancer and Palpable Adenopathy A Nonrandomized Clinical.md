@@ -5,15 +5,15 @@ if: 120.7
 published: "2026-07-01"
 doi: "10.1001/jamasurg.2026.1268"
 pmid: 42090164
-zotero_link: "zotero://select/items/0_A8NQEM89"
+zotero_link: "zotero://select/items/0_QRMG86TR"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-13
+sync_date: 2026-07-20
 ---
 # Sentinel Lymph Node Biopsy for Patients With cN1 HR+/HER2- Breast Cancer and Palpable Adenopathy: A Nonrandomized Clinical Trial.
 - **Journal**: JAMA surgery (**IF: 120.7**)
 - **Published**: 2026-07-01 | **PMID**: 42090164
 - **DOI**: [10.1001/jamasurg.2026.1268](https://doi.org/10.1001/jamasurg.2026.1268)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_A8NQEM89)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_QRMG86TR)
 
 
 > [!warning] Gemini 解析失败

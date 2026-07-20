@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-06-22"
 doi: "10.1007/s10549-026-08009-0"
 pmid: 42329472
-zotero_link: "zotero://select/items/0_7E7WSV9A"
+zotero_link: "zotero://select/items/0_SQKVDWMB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-13
+sync_date: 2026-07-20
 ---
 # Receptor discordance between primary tumors and nodal metastases and correlation with the 21-gene recurrence score in early-stage, estrogen receptor-positive, node-positive breast cancer.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-06-22 | **PMID**: 42329472
 - **DOI**: [10.1007/s10549-026-08009-0](https://doi.org/10.1007/s10549-026-08009-0)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7E7WSV9A)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SQKVDWMB)
 
 
 > [!warning] Gemini 解析失败

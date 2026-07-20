@@ -5,15 +5,15 @@ if: 7.6
 published: "2026-06-25"
 doi: "10.1016/j.ejca.2026.116818"
 pmid: 42190396
-zotero_link: "zotero://select/items/0_9A4KSBRG"
+zotero_link: "zotero://select/items/0_M9PFIA88"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-13
+sync_date: 2026-07-20
 ---
 # Association between chemotherapy use and prognosis in young patients with stage I-II ER+ /HER2-negative breast cancer according to Prosigna®: An international real-world analysis with propensity-score matching.
 - **Journal**: European journal of cancer (Oxford, England : 1990) (**IF: 7.6**)
 - **Published**: 2026-06-25 | **PMID**: 42190396
 - **DOI**: [10.1016/j.ejca.2026.116818](https://doi.org/10.1016/j.ejca.2026.116818)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9A4KSBRG)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_M9PFIA88)
 
 
 > [!warning] Gemini 解析失败

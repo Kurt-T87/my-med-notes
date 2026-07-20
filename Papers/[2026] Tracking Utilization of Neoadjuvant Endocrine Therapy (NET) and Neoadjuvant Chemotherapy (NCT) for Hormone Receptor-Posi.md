@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-07-01"
 doi: "10.1016/j.clbc.2026.05.008"
 pmid: 42314607
-zotero_link: "zotero://select/items/0_IFPA6BP5"
+zotero_link: "zotero://select/items/0_9DIIZGFD"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-13
+sync_date: 2026-07-20
 ---
 # Tracking Utilization of Neoadjuvant Endocrine Therapy (NET) and Neoadjuvant Chemotherapy (NCT) for Hormone Receptor-Positive Breast Cancer (HR + BC) in the U.S.A. Over Time - A TriNetX Database Study.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-07-01 | **PMID**: 42314607
 - **DOI**: [10.1016/j.clbc.2026.05.008](https://doi.org/10.1016/j.clbc.2026.05.008)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_IFPA6BP5)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9DIIZGFD)
 
 
 > [!warning] Gemini 解析失败

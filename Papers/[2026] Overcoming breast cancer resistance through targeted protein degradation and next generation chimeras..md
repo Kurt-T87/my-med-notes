@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-01"
 doi: "10.1016/j.phrs.2026.108239"
 pmid: 42107508
-zotero_link: "zotero://select/items/0_K3VEWISM"
+zotero_link: "zotero://select/items/0_K86ZT3RV"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-13
+sync_date: 2026-07-20
 ---
 # Overcoming breast cancer resistance through targeted protein degradation and next generation chimeras.
 - **Journal**: Pharmacological research (**IF: Unknown**)
 - **Published**: 2026-07-01 | **PMID**: 42107508
 - **DOI**: [10.1016/j.phrs.2026.108239](https://doi.org/10.1016/j.phrs.2026.108239)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_K3VEWISM)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_K86ZT3RV)
 
 
 > [!warning] Gemini 解析失败
