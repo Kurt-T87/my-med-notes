@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-07-01"
 doi: "10.1016/j.ebiom.2026.106351"
 pmid: 42349255
-zotero_link: "zotero://select/items/0_A5EZRH7V"
+zotero_link: "zotero://select/items/0_Z67DNGQS"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # A multi-centre, phase 1a/1b dose escalation and expansion study of the HER2-directed antibody-drug conjugate T-Bren (BL-M07D1) in advanced breast cancer and other solid tumours.
 - **Journal**: EBioMedicine (**IF: 12.8**)
 - **Published**: 2026-07-01 | **PMID**: 42349255
 - **DOI**: [10.1016/j.ebiom.2026.106351](https://doi.org/10.1016/j.ebiom.2026.106351)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_A5EZRH7V)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_Z67DNGQS)
 
 
 > [!warning] Gemini 解析失败

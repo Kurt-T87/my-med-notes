@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-07-01"
 doi: "10.1038/s44321-026-00447-z"
 pmid: 42192203
-zotero_link: "zotero://select/items/0_28GVSEB3"
+zotero_link: "zotero://select/items/0_2FEQTC42"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # NeoCircle: pre- and post-operative circulating tumor DNA dynamics predicts survival in neoadjuvant-treated early breast cancer.
 - **Journal**: EMBO molecular medicine (**IF: 12.8**)
 - **Published**: 2026-07-01 | **PMID**: 42192203
 - **DOI**: [10.1038/s44321-026-00447-z](https://doi.org/10.1038/s44321-026-00447-z)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_28GVSEB3)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_2FEQTC42)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-01"
 doi: "10.1080/14737167.2026.2691183"
 pmid: 42305034
-zotero_link: "zotero://select/items/0_84IDVGKJ"
+zotero_link: "zotero://select/items/0_N9FAAXC5"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # Budget impact analysis of capivasertib as a second-line therapy for advanced breast cancer in the United States.
 - **Journal**: Expert review of pharmacoeconomics & outcomes research (**IF: Unknown**)
 - **Published**: 2026-07-01 | **PMID**: 42305034
 - **DOI**: [10.1080/14737167.2026.2691183](https://doi.org/10.1080/14737167.2026.2691183)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_84IDVGKJ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_N9FAAXC5)
 
 
 > [!warning] Gemini 解析失败

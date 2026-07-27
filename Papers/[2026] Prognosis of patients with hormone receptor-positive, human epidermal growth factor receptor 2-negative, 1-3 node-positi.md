@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-07-01"
 doi: "10.1007/s12282-026-01871-2"
 pmid: 42176177
-zotero_link: "zotero://select/items/0_K9CC3QXE"
+zotero_link: "zotero://select/items/0_RMXU9T4W"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # Prognosis of patients with hormone receptor-positive, human epidermal growth factor receptor 2-negative, 1-3 node-positive breast cancer meeting the high-risk criteria of the monarchE trial: a comparison between macrometastasis and micrometastasis.
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-07-01 | **PMID**: 42176177
 - **DOI**: [10.1007/s12282-026-01871-2](https://doi.org/10.1007/s12282-026-01871-2)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_K9CC3QXE)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RMXU9T4W)
 
 
 > [!warning] Gemini 解析失败

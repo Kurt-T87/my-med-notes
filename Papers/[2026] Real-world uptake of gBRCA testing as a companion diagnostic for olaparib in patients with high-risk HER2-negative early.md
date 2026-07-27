@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-07-01"
 doi: "10.1007/s12282-026-01867-y"
 pmid: 42176176
-zotero_link: "zotero://select/items/0_9EIJFT8U"
+zotero_link: "zotero://select/items/0_DESIJCBW"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # Real-world uptake of gBRCA testing as a companion diagnostic for olaparib in patients with high-risk HER2-negative early breast cancer in Japan: a cross-sectional multicenter study (BRCAwareness).
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-07-01 | **PMID**: 42176176
 - **DOI**: [10.1007/s12282-026-01867-y](https://doi.org/10.1007/s12282-026-01867-y)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9EIJFT8U)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_DESIJCBW)
 
 
 > [!warning] Gemini 解析失败

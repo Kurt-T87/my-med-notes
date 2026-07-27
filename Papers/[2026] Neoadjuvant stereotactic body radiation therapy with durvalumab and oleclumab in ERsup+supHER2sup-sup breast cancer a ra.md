@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-07-01"
 doi: "10.1038/s41591-026-04453-z"
 pmid: 42350643
-zotero_link: "zotero://select/items/0_95CRZKKZ"
+zotero_link: "zotero://select/items/0_GWVICJRS"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # Neoadjuvant stereotactic body radiation therapy with durvalumab and oleclumab in ER<sup>+</sup>HER2<sup>-</sup> breast cancer: a randomized phase 2 trial.
 - **Journal**: Nature medicine (**IF: 12.8**)
 - **Published**: 2026-07-01 | **PMID**: 42350643
 - **DOI**: [10.1038/s41591-026-04453-z](https://doi.org/10.1038/s41591-026-04453-z)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_95CRZKKZ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GWVICJRS)
 
 
 > [!warning] Gemini 解析失败

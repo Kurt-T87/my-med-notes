@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-07-01"
 doi: "10.1016/j.clbc.2026.05.004"
 pmid: 42263466
-zotero_link: "zotero://select/items/0_J4JM5XHC"
+zotero_link: "zotero://select/items/0_EAQK4TPP"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # Pharmacologic Features, Clinical Applications, and Drug Safety Evaluation of Inavolisib in the Treatment of Metastatic Breast Cancer.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-07-01 | **PMID**: 42263466
 - **DOI**: [10.1016/j.clbc.2026.05.004](https://doi.org/10.1016/j.clbc.2026.05.004)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_J4JM5XHC)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_EAQK4TPP)
 
 
 > [!warning] Gemini 解析失败

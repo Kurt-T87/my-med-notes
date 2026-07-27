@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.2147/DDDT.S544583"
 pmid: 42415939
-zotero_link: "zotero://select/items/0_ZHR9A9IZ"
+zotero_link: "zotero://select/items/0_9QIG5WR4"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # Metformin Sensitizes HR+/HER2- Breast Cancer Cells to CDK4/6 Inhibitor via Suppressing of PI3K/AKT/mTOR Signaling Pathway.
 - **Journal**: Drug design, development and therapy (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42415939
 - **DOI**: [10.2147/DDDT.S544583](https://doi.org/10.2147/DDDT.S544583)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ZHR9A9IZ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9QIG5WR4)
 
 
 > [!warning] Gemini 解析失败

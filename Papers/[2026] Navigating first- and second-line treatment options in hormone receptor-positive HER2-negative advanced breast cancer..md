@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-08"
 doi: "10.1093/oncolo/oyag215"
 pmid: 42266036
-zotero_link: "zotero://select/items/0_3QS9HKB8"
+zotero_link: "zotero://select/items/0_2MPWZUDK"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # Navigating first- and second-line treatment options in hormone receptor-positive HER2-negative advanced breast cancer.
 - **Journal**: The oncologist (**IF: Unknown**)
 - **Published**: 2026-07-08 | **PMID**: 42266036
 - **DOI**: [10.1093/oncolo/oyag215](https://doi.org/10.1093/oncolo/oyag215)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3QS9HKB8)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_2MPWZUDK)
 
 
 > [!warning] Gemini 解析失败

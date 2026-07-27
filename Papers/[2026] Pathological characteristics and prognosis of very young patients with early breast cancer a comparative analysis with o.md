@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-06-29"
 doi: "10.2340/1651-226X.2026.45584"
 pmid: 42374837
-zotero_link: "zotero://select/items/0_VJN8SDS2"
+zotero_link: "zotero://select/items/0_DQI8V56V"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # Pathological characteristics and prognosis of very young patients with early breast cancer: a comparative analysis with older patients.
 - **Journal**: Acta oncologica (Stockholm, Sweden) (**IF: Unknown**)
 - **Published**: 2026-06-29 | **PMID**: 42374837
 - **DOI**: [10.2340/1651-226X.2026.45584](https://doi.org/10.2340/1651-226X.2026.45584)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VJN8SDS2)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_DQI8V56V)
 
 
 > [!warning] Gemini 解析失败

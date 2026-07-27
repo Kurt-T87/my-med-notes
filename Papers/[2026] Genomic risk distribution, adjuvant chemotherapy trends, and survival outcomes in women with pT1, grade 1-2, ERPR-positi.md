@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-08-01"
 doi: "10.1016/j.currproblcancer.2026.101318"
 pmid: 42431160
-zotero_link: "zotero://select/items/0_VZVBHEZ4"
+zotero_link: "zotero://select/items/0_M2A8SPHM"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # Genomic risk distribution, adjuvant chemotherapy trends, and survival outcomes in women with pT1, grade 1-2, ER/PR-positive, LVI-negative breast cancer.
 - **Journal**: Current problems in cancer (**IF: Unknown**)
 - **Published**: 2026-08-01 | **PMID**: 42431160
 - **DOI**: [10.1016/j.currproblcancer.2026.101318](https://doi.org/10.1016/j.currproblcancer.2026.101318)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VZVBHEZ4)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_M2A8SPHM)
 
 
 > [!warning] Gemini 解析失败

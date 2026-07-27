@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-03"
 doi: "10.3390/ijms27135976"
 pmid: 42450243
-zotero_link: "zotero://select/items/0_PNJ73N97"
+zotero_link: "zotero://select/items/0_CQHQH6ZE"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # The Multifaceted Role of Extracellular Vesicles in Triple Negative Breast Cancer.
 - **Journal**: International journal of molecular sciences (**IF: Unknown**)
 - **Published**: 2026-07-03 | **PMID**: 42450243
 - **DOI**: [10.3390/ijms27135976](https://doi.org/10.3390/ijms27135976)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_PNJ73N97)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CQHQH6ZE)
 
 
 > [!warning] Gemini 解析失败

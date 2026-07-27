@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-07-10"
 doi: "10.1007/s10549-026-08012-5"
 pmid: 42429895
-zotero_link: "zotero://select/items/0_B7RHZIRX"
+zotero_link: "zotero://select/items/0_DW92Z4JW"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # EVERolimus effectiveness after proGREssion on ENdocrine therapy plus CDK4/6 inhibitor for ER-positive/HER2-negative advanced breast cancer: EVERGREEN study.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-07-10 | **PMID**: 42429895
 - **DOI**: [10.1007/s10549-026-08012-5](https://doi.org/10.1007/s10549-026-08012-5)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_B7RHZIRX)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_DW92Z4JW)
 
 
 > [!warning] Gemini 解析失败

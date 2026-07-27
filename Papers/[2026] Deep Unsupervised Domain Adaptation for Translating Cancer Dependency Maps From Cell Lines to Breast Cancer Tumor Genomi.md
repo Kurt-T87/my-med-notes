@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-01"
 doi: "10.1002/gepi.70044"
 pmid: 42339999
-zotero_link: "zotero://select/items/0_VXR9MHWN"
+zotero_link: "zotero://select/items/0_S6SJGGFH"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # Deep Unsupervised Domain Adaptation for Translating Cancer Dependency Maps From Cell Lines to Breast Cancer Tumor Genomics.
 - **Journal**: Genetic epidemiology (**IF: Unknown**)
 - **Published**: 2026-07-01 | **PMID**: 42339999
 - **DOI**: [10.1002/gepi.70044](https://doi.org/10.1002/gepi.70044)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VXR9MHWN)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_S6SJGGFH)
 
 
 > [!warning] Gemini 解析失败

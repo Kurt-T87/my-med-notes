@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-01-01"
 doi: "10.1590/1806-9282.20252145"
 pmid: 42454844
-zotero_link: "zotero://select/items/0_MTCDNMFX"
+zotero_link: "zotero://select/items/0_46K5CVAW"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # Independent prognostic ımpact of perineural ınvasion in breast cancer patients with residual disease after neoadjuvant chemotherapy.
 - **Journal**: Revista da Associacao Medica Brasileira (1992) (**IF: 12.8**)
 - **Published**: 2026-01-01 | **PMID**: 42454844
 - **DOI**: [10.1590/1806-9282.20252145](https://doi.org/10.1590/1806-9282.20252145)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MTCDNMFX)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_46K5CVAW)
 
 
 > [!warning] Gemini 解析失败

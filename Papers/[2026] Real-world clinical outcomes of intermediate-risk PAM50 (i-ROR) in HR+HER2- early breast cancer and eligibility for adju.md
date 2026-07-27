@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-07-14"
 doi: "10.1007/s10549-026-08027-y"
 pmid: 42446834
-zotero_link: "zotero://select/items/0_8M8PUCAA"
+zotero_link: "zotero://select/items/0_2X84WD9A"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # Real-world clinical outcomes of intermediate-risk PAM50 (i-ROR) in HR+/HER2- early breast cancer and eligibility for adjuvant CDK4/6 inhibitors.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-07-14 | **PMID**: 42446834
 - **DOI**: [10.1007/s10549-026-08027-y](https://doi.org/10.1007/s10549-026-08027-y)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8M8PUCAA)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_2X84WD9A)
 
 
 > [!warning] Gemini 解析失败

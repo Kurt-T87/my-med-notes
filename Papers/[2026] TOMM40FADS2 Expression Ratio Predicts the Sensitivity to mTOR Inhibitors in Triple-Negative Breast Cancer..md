@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-07-01"
 doi: "10.1002/cam4.72089"
 pmid: 42470318
-zotero_link: "zotero://select/items/0_UE5GVTAU"
+zotero_link: "zotero://select/items/0_4NQC2MBH"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # TOMM40/FADS2 Expression Ratio Predicts the Sensitivity to mTOR Inhibitors in Triple-Negative Breast Cancer.
 - **Journal**: Cancer medicine (**IF: 12.8**)
 - **Published**: 2026-07-01 | **PMID**: 42470318
 - **DOI**: [10.1002/cam4.72089](https://doi.org/10.1002/cam4.72089)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UE5GVTAU)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4NQC2MBH)
 
 
 > [!warning] Gemini 解析失败

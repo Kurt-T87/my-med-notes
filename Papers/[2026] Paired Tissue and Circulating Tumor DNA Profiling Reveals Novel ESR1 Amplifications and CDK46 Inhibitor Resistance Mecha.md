@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-01"
 doi: "10.1016/j.labinv.2026.106135"
 pmid: 42162670
-zotero_link: "zotero://select/items/0_3UN4AFQA"
+zotero_link: "zotero://select/items/0_3BV9DDBR"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-20
+sync_date: 2026-07-27
 ---
 # Paired Tissue and Circulating Tumor DNA Profiling Reveals Novel ESR1 Amplifications and CDK4/6 Inhibitor Resistance Mechanisms in Hormone Receptor-Positive/HER2-Negative Metastatic Breast Cancers.
 - **Journal**: Laboratory investigation; a journal of technical methods and pathology (**IF: Unknown**)
 - **Published**: 2026-07-01 | **PMID**: 42162670
 - **DOI**: [10.1016/j.labinv.2026.106135](https://doi.org/10.1016/j.labinv.2026.106135)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3UN4AFQA)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3BV9DDBR)
 
 
 > [!warning] Gemini 解析失败
