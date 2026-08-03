@@ -5,15 +5,15 @@ if: Unknown
 published: "2025-01-01"
 doi: "10.3389/pore.2025.1612113"
 pmid: 42488884
-zotero_link: "zotero://select/items/0_XGR237UE"
+zotero_link: "zotero://select/items/0_MQKBH7D6"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-27
+sync_date: 2026-08-03
 ---
 # Evaluating an RNA-based test for proliferation assessment and recurrence prediction in early HR+/HER2- breast cancer.
 - **Journal**: Pathology oncology research : POR (**IF: Unknown**)
 - **Published**: 2025-01-01 | **PMID**: 42488884
 - **DOI**: [10.3389/pore.2025.1612113](https://doi.org/10.3389/pore.2025.1612113)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XGR237UE)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MQKBH7D6)
 
 
 > [!warning] Gemini 解析失败

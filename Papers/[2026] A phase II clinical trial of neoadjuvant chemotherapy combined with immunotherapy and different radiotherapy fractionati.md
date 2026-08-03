@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.3389/fimmu.2026.1836220"
 pmid: 42495649
-zotero_link: "zotero://select/items/0_U6MRHRZ4"
+zotero_link: "zotero://select/items/0_JKCS842J"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-27
+sync_date: 2026-08-03
 ---
 # A phase II clinical trial of neoadjuvant chemotherapy combined with immunotherapy and different radiotherapy fractionation regimens in HR+/HER2- breast cancer.
 - **Journal**: Frontiers in immunology (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42495649
 - **DOI**: [10.3389/fimmu.2026.1836220](https://doi.org/10.3389/fimmu.2026.1836220)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_U6MRHRZ4)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JKCS842J)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.2147/DDDT.S611371"
 pmid: 42445743
-zotero_link: "zotero://select/items/0_7IAM8VZU"
+zotero_link: "zotero://select/items/0_2KZFH9KZ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-27
+sync_date: 2026-08-03
 ---
 # Precision Endocrine-Based Combinations After CDK4/6 Inhibitor Progression in HR-Positive Metastatic Breast Cancer.
 - **Journal**: Drug design, development and therapy (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42445743
 - **DOI**: [10.2147/DDDT.S611371](https://doi.org/10.2147/DDDT.S611371)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7IAM8VZU)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_2KZFH9KZ)
 
 
 > [!warning] Gemini 解析失败

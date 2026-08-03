@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-07-10"
 doi: "10.1007/s10549-026-08021-4"
 pmid: 42432052
-zotero_link: "zotero://select/items/0_VJBFT6JD"
+zotero_link: "zotero://select/items/0_S22BTPBJ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-27
+sync_date: 2026-08-03
 ---
 # Curative-intent stereotactic ablative body radiation, surgery, and systemic therapy in non-osseous oligometastatic breast cancer.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-07-10 | **PMID**: 42432052
 - **DOI**: [10.1007/s10549-026-08021-4](https://doi.org/10.1007/s10549-026-08021-4)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VJBFT6JD)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_S22BTPBJ)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-08"
 doi: "10.1093/oncolo/oyag248"
 pmid: 42438148
-zotero_link: "zotero://select/items/0_FKTE8RUZ"
+zotero_link: "zotero://select/items/0_ZVTTRRZA"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-27
+sync_date: 2026-08-03
 ---
 # Risk of venous thromboembolism with CDK4/6 inhibitor use in breast cancer: a systematic review and meta-analysis.
 - **Journal**: The oncologist (**IF: Unknown**)
 - **Published**: 2026-07-08 | **PMID**: 42438148
 - **DOI**: [10.1093/oncolo/oyag248](https://doi.org/10.1093/oncolo/oyag248)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FKTE8RUZ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ZVTTRRZA)
 
 
 > [!warning] Gemini 解析失败

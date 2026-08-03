@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-07-20"
 doi: "10.1007/s10549-026-08032-1"
 pmid: 42474755
-zotero_link: "zotero://select/items/0_CTAZ2MX4"
+zotero_link: "zotero://select/items/0_VW6BCXD7"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-27
+sync_date: 2026-08-03
 ---
 # Clinical and molecular features of resected breast cancer brain metastases: a single center retrospective cohort study.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-07-20 | **PMID**: 42474755
 - **DOI**: [10.1007/s10549-026-08032-1](https://doi.org/10.1007/s10549-026-08032-1)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CTAZ2MX4)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VW6BCXD7)
 
 
 > [!warning] Gemini 解析失败

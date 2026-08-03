@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-17"
 doi: "10.1136/jcp-2026-210723"
 pmid: 42264919
-zotero_link: "zotero://select/items/0_IRCIDG6B"
+zotero_link: "zotero://select/items/0_AUUP5835"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-27
+sync_date: 2026-08-03
 ---
 # Triple-negative breast cancer: a threshold-defined diagnostic category within a biological continuum.
 - **Journal**: Journal of clinical pathology (**IF: Unknown**)
 - **Published**: 2026-07-17 | **PMID**: 42264919
 - **DOI**: [10.1136/jcp-2026-210723](https://doi.org/10.1136/jcp-2026-210723)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_IRCIDG6B)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_AUUP5835)
 
 
 > [!warning] Gemini 解析失败

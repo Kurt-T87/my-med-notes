@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-07-08"
 doi: "10.1007/s10549-026-08004-5"
 pmid: 42420599
-zotero_link: "zotero://select/items/0_5DIA3RT9"
+zotero_link: "zotero://select/items/0_QG7PAPFT"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-27
+sync_date: 2026-08-03
 ---
 # Efficacy and safety of eribulin mesylate vs. docetaxel or paclitaxel, combined with trastuzumab and pertuzumab, as first-line treatment for HER2-positive locally advanced or metastatic breast cancer: updated subgroup analyses of JBCRG-M06/EMERALD.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-07-08 | **PMID**: 42420599
 - **DOI**: [10.1007/s10549-026-08004-5](https://doi.org/10.1007/s10549-026-08004-5)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5DIA3RT9)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_QG7PAPFT)
 
 
 > [!warning] Gemini 解析失败

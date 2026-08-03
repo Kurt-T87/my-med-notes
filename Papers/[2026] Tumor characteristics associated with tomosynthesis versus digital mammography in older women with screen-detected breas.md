@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-07-08"
 doi: "10.1007/s10549-026-08013-4"
 pmid: 42420682
-zotero_link: "zotero://select/items/0_3TV23WIM"
+zotero_link: "zotero://select/items/0_SEKV4I2M"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-07-27
+sync_date: 2026-08-03
 ---
 # Tumor characteristics associated with tomosynthesis versus digital mammography in older women with screen-detected breast cancer.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-07-08 | **PMID**: 42420682
 - **DOI**: [10.1007/s10549-026-08013-4](https://doi.org/10.1007/s10549-026-08013-4)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3TV23WIM)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SEKV4I2M)
 
 
 > [!warning] Gemini 解析失败
