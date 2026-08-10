@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-24"
 doi: "10.1007/s11060-026-05711-3"
 pmid: 42496928
-zotero_link: "zotero://select/items/0_5AD5SVKW"
+zotero_link: "zotero://select/items/0_ZW2RRH7Z"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-03
+sync_date: 2026-08-10
 ---
 # Clinicopathological factors associated with brain metastases development among breast cancer patients receiving neoadjuvant chemotherapy.
 - **Journal**: Journal of neuro-oncology (**IF: Unknown**)
 - **Published**: 2026-07-24 | **PMID**: 42496928
 - **DOI**: [10.1007/s11060-026-05711-3](https://doi.org/10.1007/s11060-026-05711-3)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5AD5SVKW)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ZW2RRH7Z)
 
 
 > [!warning] Gemini 解析失败

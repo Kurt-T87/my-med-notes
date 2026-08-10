@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-10"
 doi: "10.3390/molecules31142426"
 pmid: 42513110
-zotero_link: "zotero://select/items/0_JQGMFBEN"
+zotero_link: "zotero://select/items/0_VPFSDRZK"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-03
+sync_date: 2026-08-10
 ---
 # Advances in Mechanism of Action and Efficacy of CBP/p300 Inhibitors in Different Subtypes of Breast Cancer.
 - **Journal**: Molecules (Basel, Switzerland) (**IF: Unknown**)
 - **Published**: 2026-07-10 | **PMID**: 42513110
 - **DOI**: [10.3390/molecules31142426](https://doi.org/10.3390/molecules31142426)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JQGMFBEN)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VPFSDRZK)
 
 
 > [!warning] Gemini 解析失败

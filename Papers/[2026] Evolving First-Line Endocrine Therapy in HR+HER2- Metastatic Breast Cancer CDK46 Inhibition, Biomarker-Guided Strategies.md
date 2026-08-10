@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-14"
 doi: "10.3390/curroncol33070421"
 pmid: 42505223
-zotero_link: "zotero://select/items/0_JGQ5PPZD"
+zotero_link: "zotero://select/items/0_XHAX8664"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-03
+sync_date: 2026-08-10
 ---
 # Evolving First-Line Endocrine Therapy in HR+/HER2- Metastatic Breast Cancer: CDK4/6 Inhibition, Biomarker-Guided Strategies and Emerging Therapeutic Paradigms.
 - **Journal**: Current oncology (Toronto, Ont.) (**IF: Unknown**)
 - **Published**: 2026-07-14 | **PMID**: 42505223
 - **DOI**: [10.3390/curroncol33070421](https://doi.org/10.3390/curroncol33070421)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JGQ5PPZD)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XHAX8664)
 
 
 > [!warning] Gemini 解析失败

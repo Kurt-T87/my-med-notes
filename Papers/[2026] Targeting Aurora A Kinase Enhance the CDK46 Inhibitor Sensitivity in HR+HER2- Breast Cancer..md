@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.32604/or.2026.081653"
 pmid: 42500578
-zotero_link: "zotero://select/items/0_7W7URJNA"
+zotero_link: "zotero://select/items/0_SQ7R7CNW"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-03
+sync_date: 2026-08-10
 ---
 # Targeting Aurora A Kinase Enhance the CDK4/6 Inhibitor Sensitivity in HR+/HER2- Breast Cancer.
 - **Journal**: Oncology research (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42500578
 - **DOI**: [10.32604/or.2026.081653](https://doi.org/10.32604/or.2026.081653)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7W7URJNA)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SQ7R7CNW)
 
 
 > [!warning] Gemini 解析失败

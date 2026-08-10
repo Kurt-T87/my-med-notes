@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-07-20"
 doi: "10.1007/s10549-026-08031-2"
 pmid: 42474572
-zotero_link: "zotero://select/items/0_MT48R3JB"
+zotero_link: "zotero://select/items/0_A6XNMUX4"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-03
+sync_date: 2026-08-10
 ---
 # Abemaciclib rechallenge after progression on abemaciclib plus endocrine therapy in patients with hormone receptor-positive HER2-negative metastatic breast cancer: results from the phase II again study (WJOG14220B).
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-07-20 | **PMID**: 42474572
 - **DOI**: [10.1007/s10549-026-08031-2](https://doi.org/10.1007/s10549-026-08031-2)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MT48R3JB)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_A6XNMUX4)
 
 
 > [!warning] Gemini 解析失败

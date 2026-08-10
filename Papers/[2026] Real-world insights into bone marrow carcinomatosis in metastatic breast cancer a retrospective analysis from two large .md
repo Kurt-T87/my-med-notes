@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-07-23"
 doi: "10.1007/s00432-026-06546-1"
 pmid: 42489733
-zotero_link: "zotero://select/items/0_B58PTG8S"
+zotero_link: "zotero://select/items/0_MGIC2PQB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-03
+sync_date: 2026-08-10
 ---
 # Real-world insights into bone marrow carcinomatosis in metastatic breast cancer: a retrospective analysis from two large university breast cancer centers.
 - **Journal**: Journal of cancer research and clinical oncology (**IF: 12.5**)
 - **Published**: 2026-07-23 | **PMID**: 42489733
 - **DOI**: [10.1007/s00432-026-06546-1](https://doi.org/10.1007/s00432-026-06546-1)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_B58PTG8S)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MGIC2PQB)
 
 
 > [!warning] Gemini 解析失败

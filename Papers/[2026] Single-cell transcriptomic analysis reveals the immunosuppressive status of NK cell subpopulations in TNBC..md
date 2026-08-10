@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.1371/journal.pone.0354524"
 pmid: 42490672
-zotero_link: "zotero://select/items/0_9ND8R4HJ"
+zotero_link: "zotero://select/items/0_K5SMZMUQ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-03
+sync_date: 2026-08-10
 ---
 # Single-cell transcriptomic analysis reveals the immunosuppressive status of NK cell subpopulations in TNBC.
 - **Journal**: PloS one (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42490672
 - **DOI**: [10.1371/journal.pone.0354524](https://doi.org/10.1371/journal.pone.0354524)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9ND8R4HJ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_K5SMZMUQ)
 
 
 > [!warning] Gemini 解析失败

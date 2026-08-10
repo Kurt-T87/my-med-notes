@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-08-01"
 doi: "10.1007/s00259-026-07920-4"
 pmid: 42209818
-zotero_link: "zotero://select/items/0_H6WWP4RR"
+zotero_link: "zotero://select/items/0_REP2VTER"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-03
+sync_date: 2026-08-10
 ---
 # Comparison of [<sup>68</sup>Ga]Ga-HER2 Affibody PET/CT and MRI for the early prediction of response to targeted neoadjuvant therapy in breast cancer.
 - **Journal**: European journal of nuclear medicine and molecular imaging (**IF: 12.8**)
 - **Published**: 2026-08-01 | **PMID**: 42209818
 - **DOI**: [10.1007/s00259-026-07920-4](https://doi.org/10.1007/s00259-026-07920-4)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_H6WWP4RR)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_REP2VTER)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-08-01"
 doi: "10.18553/jmcp.2026.32.8.911"
 pmid: 42504809
-zotero_link: "zotero://select/items/0_PFFV4KEM"
+zotero_link: "zotero://select/items/0_8UJFRA3W"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-03
+sync_date: 2026-08-10
 ---
 # Economic value of ribociclib in early breast cancer in the United States.
 - **Journal**: Journal of managed care & specialty pharmacy (**IF: Unknown**)
 - **Published**: 2026-08-01 | **PMID**: 42504809
 - **DOI**: [10.18553/jmcp.2026.32.8.911](https://doi.org/10.18553/jmcp.2026.32.8.911)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_PFFV4KEM)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8UJFRA3W)
 
 
 > [!warning] Gemini 解析失败

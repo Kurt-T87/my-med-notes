@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.3389/fimmu.2026.1793737"
 pmid: 42539503
-zotero_link: "zotero://select/items/0_X7AMIH4E"
+zotero_link: "zotero://select/items/0_A74UMFG2"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-03
+sync_date: 2026-08-10
 ---
 # Latest advances in nanodrug delivery systems for modulating the immune microenvironment in triple-negative breast cancer.
 - **Journal**: Frontiers in immunology (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42539503
 - **DOI**: [10.3389/fimmu.2026.1793737](https://doi.org/10.3389/fimmu.2026.1793737)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_X7AMIH4E)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_A74UMFG2)
 
 
 > [!warning] Gemini 解析失败

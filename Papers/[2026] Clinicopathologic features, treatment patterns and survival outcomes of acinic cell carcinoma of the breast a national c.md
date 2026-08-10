@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-07-14"
 doi: "10.1007/s10549-026-08026-z"
 pmid: 42446757
-zotero_link: "zotero://select/items/0_5JGV7WH7"
+zotero_link: "zotero://select/items/0_RCAXGUPT"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-03
+sync_date: 2026-08-10
 ---
 # Clinicopathologic features, treatment patterns and survival outcomes of acinic cell carcinoma of the breast: a national cancer database analysis.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-07-14 | **PMID**: 42446757
 - **DOI**: [10.1007/s10549-026-08026-z](https://doi.org/10.1007/s10549-026-08026-z)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5JGV7WH7)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RCAXGUPT)
 
 
 > [!warning] Gemini 解析失败

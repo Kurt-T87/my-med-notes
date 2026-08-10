@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.3389/fendo.2026.1871537"
 pmid: 42516751
-zotero_link: "zotero://select/items/0_ZM3X3535"
+zotero_link: "zotero://select/items/0_J22SU54N"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-03
+sync_date: 2026-08-10
 ---
 # Development and validation of a prognostic model for stage IV breast cancer based on primary tumor resection with machine learning methods: retrospective cohort study.
 - **Journal**: Frontiers in endocrinology (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42516751
 - **DOI**: [10.3389/fendo.2026.1871537](https://doi.org/10.3389/fendo.2026.1871537)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ZM3X3535)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_J22SU54N)
 
 
 > [!warning] Gemini 解析失败

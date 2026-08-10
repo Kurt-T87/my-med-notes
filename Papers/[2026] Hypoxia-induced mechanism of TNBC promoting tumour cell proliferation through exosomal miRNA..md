@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-18"
 doi: "10.1007/s00335-026-10260-1"
 pmid: 42471478
-zotero_link: "zotero://select/items/0_G4VM3VUE"
+zotero_link: "zotero://select/items/0_9I9ICZZ9"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-03
+sync_date: 2026-08-10
 ---
 # Hypoxia-induced mechanism of TNBC promoting tumour cell proliferation through exosomal miRNA.
 - **Journal**: Mammalian genome : official journal of the International Mammalian Genome Society (**IF: Unknown**)
 - **Published**: 2026-07-18 | **PMID**: 42471478
 - **DOI**: [10.1007/s00335-026-10260-1](https://doi.org/10.1007/s00335-026-10260-1)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_G4VM3VUE)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9I9ICZZ9)
 
 
 > [!warning] Gemini 解析失败
