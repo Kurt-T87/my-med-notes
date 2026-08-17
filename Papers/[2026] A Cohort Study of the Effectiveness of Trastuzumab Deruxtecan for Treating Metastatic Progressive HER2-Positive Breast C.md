@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-08-01"
 doi: "10.1016/j.clbc.2026.06.003"
 pmid: 42418955
-zotero_link: "zotero://select/items/0_QMU8DFHW"
+zotero_link: "zotero://select/items/0_74JNWVV2"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-10
+sync_date: 2026-08-17
 ---
 # A Cohort Study of the Effectiveness of Trastuzumab Deruxtecan for Treating Metastatic Progressive HER2-Positive Breast Cancer.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-08-01 | **PMID**: 42418955
 - **DOI**: [10.1016/j.clbc.2026.06.003](https://doi.org/10.1016/j.clbc.2026.06.003)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_QMU8DFHW)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_74JNWVV2)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-07-31"
 doi: "10.1007/s10549-026-08019-y"
 pmid: 42536225
-zotero_link: "zotero://select/items/0_TPWJXNUX"
+zotero_link: "zotero://select/items/0_3UKW86ME"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-10
+sync_date: 2026-08-17
 ---
 # Machine learning and cox model-based prediction of CDK4/6 inhibitor outcomes in HR+/HER2 - metastatic breast cancer: a multicenter real-world study.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-07-31 | **PMID**: 42536225
 - **DOI**: [10.1007/s10549-026-08019-y](https://doi.org/10.1007/s10549-026-08019-y)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TPWJXNUX)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3UKW86ME)
 
 
 > [!warning] Gemini 解析失败

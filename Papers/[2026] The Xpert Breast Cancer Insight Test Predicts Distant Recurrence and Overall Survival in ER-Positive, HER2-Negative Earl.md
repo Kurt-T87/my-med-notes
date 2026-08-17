@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-08-01"
 doi: "10.1016/j.clbc.2026.06.012"
 pmid: 42497534
-zotero_link: "zotero://select/items/0_VCJSEE4B"
+zotero_link: "zotero://select/items/0_UTHZ8J97"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-10
+sync_date: 2026-08-17
 ---
 # The Xpert Breast Cancer Insight Test Predicts Distant Recurrence and Overall Survival in ER-Positive, HER2-Negative Early Breast Cancer.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-08-01 | **PMID**: 42497534
 - **DOI**: [10.1016/j.clbc.2026.06.012](https://doi.org/10.1016/j.clbc.2026.06.012)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VCJSEE4B)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UTHZ8J97)
 
 
 > [!warning] Gemini 解析失败

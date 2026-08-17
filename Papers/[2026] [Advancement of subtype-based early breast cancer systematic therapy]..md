@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-21"
 doi: "10.3760/cma.j.cn112137-20260306-00633"
 pmid: 42477937
-zotero_link: "zotero://select/items/0_K7FE8GAZ"
+zotero_link: "zotero://select/items/0_JBQPMR2X"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-10
+sync_date: 2026-08-17
 ---
 # [Advancement of subtype-based early breast cancer systematic therapy].
 - **Journal**: Zhonghua yi xue za zhi (**IF: Unknown**)
 - **Published**: 2026-07-21 | **PMID**: 42477937
 - **DOI**: [10.3760/cma.j.cn112137-20260306-00633](https://doi.org/10.3760/cma.j.cn112137-20260306-00633)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_K7FE8GAZ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JBQPMR2X)
 
 
 > [!warning] Gemini 解析失败

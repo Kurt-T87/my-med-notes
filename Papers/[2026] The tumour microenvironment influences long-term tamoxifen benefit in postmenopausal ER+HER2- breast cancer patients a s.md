@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-08-05"
 doi: "10.1186/s12916-026-05091-5"
 pmid: 42557562
-zotero_link: "zotero://select/items/0_VNKSZTP5"
+zotero_link: "zotero://select/items/0_3AR63IMS"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-10
+sync_date: 2026-08-17
 ---
 # The tumour microenvironment influences long-term tamoxifen benefit in postmenopausal ER+/HER2- breast cancer patients: a secondary analysis of the randomised Stockholm Tamoxifen (STO-3) trial.
 - **Journal**: BMC medicine (**IF: 12.8**)
 - **Published**: 2026-08-05 | **PMID**: 42557562
 - **DOI**: [10.1186/s12916-026-05091-5](https://doi.org/10.1186/s12916-026-05091-5)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VNKSZTP5)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3AR63IMS)
 
 
 > [!warning] Gemini 解析失败
