@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-30"
 doi: "10.1007/s11033-026-12482-7"
 pmid: 42530698
-zotero_link: "zotero://select/items/0_SU8ABFJ7"
+zotero_link: "zotero://select/items/0_8BQWAXDI"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-17
+sync_date: 2026-08-24
 ---
 # Emerging biomarkers in breast fibroadenoma: implications for differential diagnosis, malignant transformation, and precision medicine.
 - **Journal**: Molecular biology reports (**IF: Unknown**)
 - **Published**: 2026-07-30 | **PMID**: 42530698
 - **DOI**: [10.1007/s11033-026-12482-7](https://doi.org/10.1007/s11033-026-12482-7)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SU8ABFJ7)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8BQWAXDI)
 
 
 > [!warning] Gemini 解析失败

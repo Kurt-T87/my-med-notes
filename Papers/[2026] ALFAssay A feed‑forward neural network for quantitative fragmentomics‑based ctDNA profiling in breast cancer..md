@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-01"
 doi: "10.1371/journal.pcbi.1014505"
 pmid: 42507708
-zotero_link: "zotero://select/items/0_SIIXVE2S"
+zotero_link: "zotero://select/items/0_9K9RMAVX"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-17
+sync_date: 2026-08-24
 ---
 # ALFAssay: A feed‑forward neural network for quantitative fragmentomics‑based ctDNA profiling in breast cancer.
 - **Journal**: PLoS computational biology (**IF: Unknown**)
 - **Published**: 2026-07-01 | **PMID**: 42507708
 - **DOI**: [10.1371/journal.pcbi.1014505](https://doi.org/10.1371/journal.pcbi.1014505)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SIIXVE2S)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9K9RMAVX)
 
 
 > [!warning] Gemini 解析失败

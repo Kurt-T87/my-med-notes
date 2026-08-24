@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-08-14"
 doi: "10.1158/1078-0432.CCR-25-2965"
 pmid: 42154572
-zotero_link: "zotero://select/items/0_J2M37FBU"
+zotero_link: "zotero://select/items/0_TGKS5NQT"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-17
+sync_date: 2026-08-24
 ---
 # Exploratory Analysis of PTEN Deficiency by Immunohistochemistry from the Phase III CAPItello-291 Trial.
 - **Journal**: Clinical cancer research : an official journal of the American Association for Cancer Research (**IF: 12.5**)
 - **Published**: 2026-08-14 | **PMID**: 42154572
 - **DOI**: [10.1158/1078-0432.CCR-25-2965](https://doi.org/10.1158/1078-0432.CCR-25-2965)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_J2M37FBU)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TGKS5NQT)
 
 
 > [!warning] Gemini 解析失败

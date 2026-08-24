@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-08-01"
 doi: "10.1016/j.breast.2026.104830"
 pmid: 42235180
-zotero_link: "zotero://select/items/0_JDIRTI25"
+zotero_link: "zotero://select/items/0_EMZC7G2S"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-17
+sync_date: 2026-08-24
 ---
 # A mixed prebiotic/probiotic intervention (MBR-01) for the management of diarrhea during abemaciclib treatment of early breast cancer in postmenopausal patients: A single-center prospective case-control pilot study.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-08-01 | **PMID**: 42235180
 - **DOI**: [10.1016/j.breast.2026.104830](https://doi.org/10.1016/j.breast.2026.104830)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JDIRTI25)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_EMZC7G2S)
 
 
 > [!warning] Gemini 解析失败

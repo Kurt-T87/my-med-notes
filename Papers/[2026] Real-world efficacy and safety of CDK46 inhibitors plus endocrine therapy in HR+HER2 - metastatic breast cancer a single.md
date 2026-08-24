@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-07-28"
 doi: "10.1186/s43046-026-00390-7"
 pmid: 42521925
-zotero_link: "zotero://select/items/0_I4NJ97EK"
+zotero_link: "zotero://select/items/0_G5ESF29C"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-17
+sync_date: 2026-08-24
 ---
 # Real-world efficacy and safety of CDK4/6 inhibitors plus endocrine therapy in HR+/HER2 - metastatic breast cancer: a single-institution experience.
 - **Journal**: Journal of the Egyptian National Cancer Institute (**IF: Unknown**)
 - **Published**: 2026-07-28 | **PMID**: 42521925
 - **DOI**: [10.1186/s43046-026-00390-7](https://doi.org/10.1186/s43046-026-00390-7)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_I4NJ97EK)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_G5ESF29C)
 
 
 > [!warning] Gemini 解析失败

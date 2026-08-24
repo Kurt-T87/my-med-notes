@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-08-01"
 doi: "10.1016/j.suronc.2026.102455"
 pmid: 42208119
-zotero_link: "zotero://select/items/0_ECA779BX"
+zotero_link: "zotero://select/items/0_VW8SQD84"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-17
+sync_date: 2026-08-24
 ---
 # Exploring osteoporosis risk in breast cancer patients after comprehensive treatment via explainable artificial intelligence algorithms.
 - **Journal**: Surgical oncology (**IF: Unknown**)
 - **Published**: 2026-08-01 | **PMID**: 42208119
 - **DOI**: [10.1016/j.suronc.2026.102455](https://doi.org/10.1016/j.suronc.2026.102455)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ECA779BX)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VW8SQD84)
 
 
 > [!warning] Gemini 解析失败

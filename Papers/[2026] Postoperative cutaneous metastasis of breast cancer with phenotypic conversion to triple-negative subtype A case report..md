@@ -5,15 +5,15 @@ if: 158.5
 published: "2026-08-14"
 doi: "10.1097/MD.0000000000050166"
 pmid: 42601691
-zotero_link: "zotero://select/items/0_ITCX2TVM"
+zotero_link: "zotero://select/items/0_WZEH32RZ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-17
+sync_date: 2026-08-24
 ---
 # Postoperative cutaneous metastasis of breast cancer with phenotypic conversion to triple-negative subtype: A case report.
 - **Journal**: Medicine (**IF: 158.5**)
 - **Published**: 2026-08-14 | **PMID**: 42601691
 - **DOI**: [10.1097/MD.0000000000050166](https://doi.org/10.1097/MD.0000000000050166)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ITCX2TVM)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WZEH32RZ)
 
 
 > [!warning] Gemini 解析失败

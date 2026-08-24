@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-08-01"
 doi: "10.1016/j.breast.2026.104815"
 pmid: 42160910
-zotero_link: "zotero://select/items/0_GQ9S534D"
+zotero_link: "zotero://select/items/0_UJ477CG6"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-17
+sync_date: 2026-08-24
 ---
 # Characteristics and outcomes of patients with HER2-negative metastatic breast cancers with low expression of estrogen and progesterone receptors in the multicenter ESME cohort.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-08-01 | **PMID**: 42160910
 - **DOI**: [10.1016/j.breast.2026.104815](https://doi.org/10.1016/j.breast.2026.104815)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GQ9S534D)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UJ477CG6)
 
 
 > [!warning] Gemini 解析失败

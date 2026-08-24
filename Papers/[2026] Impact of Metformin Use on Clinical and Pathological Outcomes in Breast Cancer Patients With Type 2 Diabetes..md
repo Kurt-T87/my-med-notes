@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-08-01"
 doi: "10.1002/cnr2.70631"
 pmid: 42528302
-zotero_link: "zotero://select/items/0_ACQ32N7D"
+zotero_link: "zotero://select/items/0_AZAQSUJT"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-17
+sync_date: 2026-08-24
 ---
 # Impact of Metformin Use on Clinical and Pathological Outcomes in Breast Cancer Patients With Type 2 Diabetes.
 - **Journal**: Cancer reports (Hoboken, N.J.) (**IF: Unknown**)
 - **Published**: 2026-08-01 | **PMID**: 42528302
 - **DOI**: [10.1002/cnr2.70631](https://doi.org/10.1002/cnr2.70631)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ACQ32N7D)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_AZAQSUJT)
 
 
 > [!warning] Gemini 解析失败

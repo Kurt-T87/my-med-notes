@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-08-13"
 doi: "10.1186/s13058-026-02366-w"
 pmid: 42587318
-zotero_link: "zotero://select/items/0_UKPGB2WJ"
+zotero_link: "zotero://select/items/0_9UGEGKDA"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-17
+sync_date: 2026-08-24
 ---
 # Variation in chemotherapy use across healthcare regions in Sweden and its impact on prognosis in women with HR+/HER2- early breast cancer.
 - **Journal**: Breast cancer research : BCR (**IF: 12.5**)
 - **Published**: 2026-08-13 | **PMID**: 42587318
 - **DOI**: [10.1186/s13058-026-02366-w](https://doi.org/10.1186/s13058-026-02366-w)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UKPGB2WJ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9UGEGKDA)
 
 
 > [!warning] Gemini 解析失败

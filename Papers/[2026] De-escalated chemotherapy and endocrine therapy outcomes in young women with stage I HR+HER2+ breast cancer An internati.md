@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-08-01"
 doi: "10.1016/j.breast.2026.104838"
 pmid: 42309024
-zotero_link: "zotero://select/items/0_BCGSQNXG"
+zotero_link: "zotero://select/items/0_MIK8MGFB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-17
+sync_date: 2026-08-24
 ---
 # De-escalated chemotherapy and endocrine therapy outcomes in young women with stage I HR+/HER2+ breast cancer: An international real-world study.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-08-01 | **PMID**: 42309024
 - **DOI**: [10.1016/j.breast.2026.104838](https://doi.org/10.1016/j.breast.2026.104838)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BCGSQNXG)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MIK8MGFB)
 
 
 > [!warning] Gemini 解析失败

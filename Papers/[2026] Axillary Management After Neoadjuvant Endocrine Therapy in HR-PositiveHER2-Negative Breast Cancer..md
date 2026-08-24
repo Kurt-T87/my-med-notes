@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-08-01"
 doi: "10.1016/j.clbc.2026.06.011"
 pmid: 42468453
-zotero_link: "zotero://select/items/0_CFEFVX3D"
+zotero_link: "zotero://select/items/0_D6MRRQAB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-17
+sync_date: 2026-08-24
 ---
 # Axillary Management After Neoadjuvant Endocrine Therapy in HR-Positive/HER2-Negative Breast Cancer.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-08-01 | **PMID**: 42468453
 - **DOI**: [10.1016/j.clbc.2026.06.011](https://doi.org/10.1016/j.clbc.2026.06.011)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CFEFVX3D)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_D6MRRQAB)
 
 
 > [!warning] Gemini 解析失败

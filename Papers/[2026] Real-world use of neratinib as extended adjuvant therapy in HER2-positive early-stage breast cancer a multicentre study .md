@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-08-01"
 doi: "10.1016/j.breast.2026.104818"
 pmid: 42235181
-zotero_link: "zotero://select/items/0_MS6ZWVK9"
+zotero_link: "zotero://select/items/0_82Q8XCXZ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-17
+sync_date: 2026-08-24
 ---
 # Real-world use of neratinib as extended adjuvant therapy in HER2-positive early-stage breast cancer: a multicentre study in mainland China and Hong Kong.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-08-01 | **PMID**: 42235181
 - **DOI**: [10.1016/j.breast.2026.104818](https://doi.org/10.1016/j.breast.2026.104818)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MS6ZWVK9)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_82Q8XCXZ)
 
 
 > [!warning] Gemini 解析失败
