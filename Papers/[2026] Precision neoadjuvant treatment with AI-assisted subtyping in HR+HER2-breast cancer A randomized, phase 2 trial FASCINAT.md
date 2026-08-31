@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-08-18"
 doi: "10.1016/j.xcrm.2026.102977"
 pmid: 42561949
-zotero_link: "zotero://select/items/0_22MCPFHQ"
+zotero_link: "zotero://select/items/0_8IZ7S6II"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-24
+sync_date: 2026-08-31
 ---
 # Precision neoadjuvant treatment with AI-assisted subtyping in HR+/HER2-breast cancer: A randomized, phase 2 trial FASCINATE-N.
 - **Journal**: Cell reports. Medicine (**IF: 12.8**)
 - **Published**: 2026-08-18 | **PMID**: 42561949
 - **DOI**: [10.1016/j.xcrm.2026.102977](https://doi.org/10.1016/j.xcrm.2026.102977)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_22MCPFHQ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8IZ7S6II)
 
 
 > [!warning] Gemini 解析失败

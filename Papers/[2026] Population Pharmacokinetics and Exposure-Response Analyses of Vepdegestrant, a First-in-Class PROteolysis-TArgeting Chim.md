@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-08-01"
 doi: "10.1002/jcph.70252"
 pmid: 42572241
-zotero_link: "zotero://select/items/0_TB32T9DJ"
+zotero_link: "zotero://select/items/0_AN9IUWCW"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-24
+sync_date: 2026-08-31
 ---
 # Population Pharmacokinetics and Exposure-Response Analyses of Vepdegestrant, a First-in-Class PROteolysis-TArgeting Chimera Estrogen Receptor Degrader.
 - **Journal**: Journal of clinical pharmacology (**IF: Unknown**)
 - **Published**: 2026-08-01 | **PMID**: 42572241
 - **DOI**: [10.1002/jcph.70252](https://doi.org/10.1002/jcph.70252)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TB32T9DJ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_AN9IUWCW)
 
 
 > [!warning] Gemini 解析失败

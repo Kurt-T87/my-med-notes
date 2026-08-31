@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-08-06"
 doi: "10.1007/s10549-026-08024-1"
 pmid: 42560578
-zotero_link: "zotero://select/items/0_U2Z8A3MG"
+zotero_link: "zotero://select/items/0_ZU9JDRTN"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-24
+sync_date: 2026-08-31
 ---
 # Invasive lobular breast cancer in young patients without adjuvant systemic treatment: 15-year survival outcomes.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-08-06 | **PMID**: 42560578
 - **DOI**: [10.1007/s10549-026-08024-1](https://doi.org/10.1007/s10549-026-08024-1)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_U2Z8A3MG)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ZU9JDRTN)
 
 
 > [!warning] Gemini 解析失败

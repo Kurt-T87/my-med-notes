@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-08-01"
 doi: "10.1038/s43587-026-01173-4"
 pmid: 42509302
-zotero_link: "zotero://select/items/0_TVWK6NQQ"
+zotero_link: "zotero://select/items/0_KNIH2AWJ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-24
+sync_date: 2026-08-31
 ---
 # Systemic and local chronic inflammation and hormone disposition promote a tumor-permissive environment for breast cancer in older women.
 - **Journal**: Nature aging (**IF: Unknown**)
 - **Published**: 2026-08-01 | **PMID**: 42509302
 - **DOI**: [10.1038/s43587-026-01173-4](https://doi.org/10.1038/s43587-026-01173-4)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TVWK6NQQ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KNIH2AWJ)
 
 
 > [!warning] Gemini 解析失败

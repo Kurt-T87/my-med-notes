@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-08-01"
 doi: "10.1016/j.breast.2026.104834"
 pmid: 42288056
-zotero_link: "zotero://select/items/0_DAQX3G2F"
+zotero_link: "zotero://select/items/0_2IM9V2KV"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-24
+sync_date: 2026-08-31
 ---
 # A nationwide population-based study on the incidence and prognosis of HER2-positive breast cancer eligible for adjuvant pertuzumab in the modern era of neoadjuvant therapy.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-08-01 | **PMID**: 42288056
 - **DOI**: [10.1016/j.breast.2026.104834](https://doi.org/10.1016/j.breast.2026.104834)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_DAQX3G2F)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_2IM9V2KV)
 
 
 > [!warning] Gemini 解析失败

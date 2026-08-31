@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-08-01"
 doi: "10.1016/j.surg.2026.110264"
 pmid: 42166928
-zotero_link: "zotero://select/items/0_FAHIZVAV"
+zotero_link: "zotero://select/items/0_VU9M3QDT"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-24
+sync_date: 2026-08-31
 ---
 # Characterization of pathologic complete response to neoadjuvant chemotherapy among breast cancer patients in the National Cancer Database.
 - **Journal**: Surgery (**IF: Unknown**)
 - **Published**: 2026-08-01 | **PMID**: 42166928
 - **DOI**: [10.1016/j.surg.2026.110264](https://doi.org/10.1016/j.surg.2026.110264)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FAHIZVAV)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VU9M3QDT)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-08-01"
 doi: "10.1016/j.ejso.2026.111881"
 pmid: 42335799
-zotero_link: "zotero://select/items/0_89SP4AQK"
+zotero_link: "zotero://select/items/0_UCG2AET2"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-24
+sync_date: 2026-08-31
 ---
 # National United Kingdom study of the management of breast cancer locoregional recurrence (MARECA) study: Analysis of disease presentation and patient management.
 - **Journal**: European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology (**IF: Unknown**)
 - **Published**: 2026-08-01 | **PMID**: 42335799
 - **DOI**: [10.1016/j.ejso.2026.111881](https://doi.org/10.1016/j.ejso.2026.111881)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_89SP4AQK)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UCG2AET2)
 
 
 > [!warning] Gemini 解析失败

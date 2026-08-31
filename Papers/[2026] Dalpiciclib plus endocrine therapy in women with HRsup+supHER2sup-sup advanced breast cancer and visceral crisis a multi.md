@@ -5,15 +5,15 @@ if: 28.5
 published: "2026-08-01"
 doi: "10.1038/s43018-026-01208-0"
 pmid: 42481711
-zotero_link: "zotero://select/items/0_Z7EMHSUG"
+zotero_link: "zotero://select/items/0_Q8KWZ6BS"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-24
+sync_date: 2026-08-31
 ---
 # Dalpiciclib plus endocrine therapy in women with HR<sup>+</sup>/HER2<sup>-</sup> advanced breast cancer and visceral crisis: a multicenter, nonrandomized, phase 2 DARVIN trial.
 - **Journal**: Nature cancer (**IF: 28.5**)
 - **Published**: 2026-08-01 | **PMID**: 42481711
 - **DOI**: [10.1038/s43018-026-01208-0](https://doi.org/10.1038/s43018-026-01208-0)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_Z7EMHSUG)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_Q8KWZ6BS)
 
 
 > [!warning] Gemini 解析失败

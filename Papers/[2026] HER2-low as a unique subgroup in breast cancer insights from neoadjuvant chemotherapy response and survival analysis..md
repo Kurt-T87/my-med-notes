@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-08-20"
 doi: "10.1136/jcp-2026-210732"
 pmid: 42409624
-zotero_link: "zotero://select/items/0_HUTFPES9"
+zotero_link: "zotero://select/items/0_SMT3SMQG"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-24
+sync_date: 2026-08-31
 ---
 # HER2-low as a unique subgroup in breast cancer: insights from neoadjuvant chemotherapy response and survival analysis.
 - **Journal**: Journal of clinical pathology (**IF: Unknown**)
 - **Published**: 2026-08-20 | **PMID**: 42409624
 - **DOI**: [10.1136/jcp-2026-210732](https://doi.org/10.1136/jcp-2026-210732)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HUTFPES9)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SMT3SMQG)
 
 
 > [!warning] Gemini 解析失败

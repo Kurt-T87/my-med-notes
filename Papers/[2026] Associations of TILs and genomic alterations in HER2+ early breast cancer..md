@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-08-01"
 doi: "10.1530/ERC-25-0411"
 pmid: 42554712
-zotero_link: "zotero://select/items/0_9I3CF9TB"
+zotero_link: "zotero://select/items/0_QGP8JXTQ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-24
+sync_date: 2026-08-31
 ---
 # Associations of TILs and genomic alterations in HER2+ early breast cancer.
 - **Journal**: Endocrine-related cancer (**IF: Unknown**)
 - **Published**: 2026-08-01 | **PMID**: 42554712
 - **DOI**: [10.1530/ERC-25-0411](https://doi.org/10.1530/ERC-25-0411)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9I3CF9TB)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_QGP8JXTQ)
 
 
 > [!warning] Gemini 解析失败

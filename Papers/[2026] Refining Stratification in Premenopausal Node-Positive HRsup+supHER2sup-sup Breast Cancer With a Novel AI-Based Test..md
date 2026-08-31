@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-08-01"
 doi: "10.1016/j.clbc.2026.06.001"
 pmid: 42431147
-zotero_link: "zotero://select/items/0_EIH4DWU3"
+zotero_link: "zotero://select/items/0_EIA5JBNE"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-24
+sync_date: 2026-08-31
 ---
 # Refining Stratification in Premenopausal Node-Positive HR<sup>+</sup>/HER2<sup>-</sup> Breast Cancer With a Novel AI-Based Test.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-08-01 | **PMID**: 42431147
 - **DOI**: [10.1016/j.clbc.2026.06.001](https://doi.org/10.1016/j.clbc.2026.06.001)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_EIH4DWU3)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_EIA5JBNE)
 
 
 > [!warning] Gemini 解析失败

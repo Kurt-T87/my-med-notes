@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-08-01"
 doi: "10.1016/j.clbc.2026.07.004"
 pmid: 42531656
-zotero_link: "zotero://select/items/0_8AMTX9KQ"
+zotero_link: "zotero://select/items/0_HII9AK94"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-24
+sync_date: 2026-08-31
 ---
 # Comparative Prognostic Utility of CPS+EG, Neo-Bioscore, and Conventional Staging Systems in Breast Cancer Patients Without Pathological Complete Response to Neoadjuvant Chemotherapy.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-08-01 | **PMID**: 42531656
 - **DOI**: [10.1016/j.clbc.2026.07.004](https://doi.org/10.1016/j.clbc.2026.07.004)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8AMTX9KQ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HII9AK94)
 
 
 > [!warning] Gemini 解析失败

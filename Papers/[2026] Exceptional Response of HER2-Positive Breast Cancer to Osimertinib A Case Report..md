@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-08-01"
 doi: "10.1111/1759-7714.70379"
 pmid: 42601812
-zotero_link: "zotero://select/items/0_QSPJ25AP"
+zotero_link: "zotero://select/items/0_4XDKMMXN"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-24
+sync_date: 2026-08-31
 ---
 # Exceptional Response of HER2-Positive Breast Cancer to Osimertinib: A Case Report.
 - **Journal**: Thoracic cancer (**IF: Unknown**)
 - **Published**: 2026-08-01 | **PMID**: 42601812
 - **DOI**: [10.1111/1759-7714.70379](https://doi.org/10.1111/1759-7714.70379)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_QSPJ25AP)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4XDKMMXN)
 
 
 > [!warning] Gemini 解析失败

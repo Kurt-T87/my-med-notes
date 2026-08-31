@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-08-09"
 doi: "10.12659/AJCR.952507"
 pmid: 42571049
-zotero_link: "zotero://select/items/0_JN6VXISX"
+zotero_link: "zotero://select/items/0_R3AQWTV5"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-24
+sync_date: 2026-08-31
 ---
 # Invasive Breast Cancer Complicated by Colitis After TCbHP Chemotherapy: A Case Report.
 - **Journal**: The American journal of case reports (**IF: Unknown**)
 - **Published**: 2026-08-09 | **PMID**: 42571049
 - **DOI**: [10.12659/AJCR.952507](https://doi.org/10.12659/AJCR.952507)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JN6VXISX)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_R3AQWTV5)
 
 
 > [!warning] Gemini 解析失败
