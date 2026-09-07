@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-09-01"
 doi: "10.1007/s12282-026-01903-x"
 pmid: 42565974
-zotero_link: "zotero://select/items/0_FJGPK37U"
+zotero_link: "zotero://select/items/0_6FKPF6K7"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-31
+sync_date: 2026-09-07
 ---
 # Crossing the milestone: landmark-based conditional survival after first-line CDK4/6 inhibitor therapy in HR+/HER2-metastatic breast cancer.
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-09-01 | **PMID**: 42565974
 - **DOI**: [10.1007/s12282-026-01903-x](https://doi.org/10.1007/s12282-026-01903-x)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FJGPK37U)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_6FKPF6K7)
 
 
 > [!warning] Gemini 解析失败

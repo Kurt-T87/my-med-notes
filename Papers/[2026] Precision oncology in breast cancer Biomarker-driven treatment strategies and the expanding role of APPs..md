@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-01"
 doi: "10.1097/01.JAA.0000000000000408"
 pmid: 42647673
-zotero_link: "zotero://select/items/0_HN6Q5FB8"
+zotero_link: "zotero://select/items/0_4FEXXEP3"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-31
+sync_date: 2026-09-07
 ---
 # Precision oncology in breast cancer: Biomarker-driven treatment strategies and the expanding role of APPs.
 - **Journal**: JAAPA : official journal of the American Academy of Physician Assistants (**IF: Unknown**)
 - **Published**: 2026-09-01 | **PMID**: 42647673
 - **DOI**: [10.1097/01.JAA.0000000000000408](https://doi.org/10.1097/01.JAA.0000000000000408)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HN6Q5FB8)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4FEXXEP3)
 
 
 > [!warning] Gemini 解析失败

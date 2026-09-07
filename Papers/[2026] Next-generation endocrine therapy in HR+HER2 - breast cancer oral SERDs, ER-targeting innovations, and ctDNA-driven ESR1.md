@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-09-01"
 doi: "10.1007/s12282-026-01900-0"
 pmid: 42565973
-zotero_link: "zotero://select/items/0_N8FIN5BF"
+zotero_link: "zotero://select/items/0_HFMR2MSJ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-31
+sync_date: 2026-09-07
 ---
 # Next-generation endocrine therapy in HR+/HER2 - breast cancer: oral SERDs, ER-targeting innovations, and ctDNA-driven ESR1 mutation-guided switching.
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-09-01 | **PMID**: 42565973
 - **DOI**: [10.1007/s12282-026-01900-0](https://doi.org/10.1007/s12282-026-01900-0)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_N8FIN5BF)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HFMR2MSJ)
 
 
 > [!warning] Gemini 解析失败

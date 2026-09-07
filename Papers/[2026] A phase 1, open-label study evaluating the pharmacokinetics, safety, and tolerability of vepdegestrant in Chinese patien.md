@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-08-13"
 doi: "10.1007/s00280-026-04921-w"
 pmid: 42593688
-zotero_link: "zotero://select/items/0_JKT3HJ2I"
+zotero_link: "zotero://select/items/0_P565BQ2S"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-31
+sync_date: 2026-09-07
 ---
 # A phase 1, open-label study evaluating the pharmacokinetics, safety, and tolerability of vepdegestrant in Chinese patients with ER+/HER2- advanced breast cancer.
 - **Journal**: Cancer chemotherapy and pharmacology (**IF: Unknown**)
 - **Published**: 2026-08-13 | **PMID**: 42593688
 - **DOI**: [10.1007/s00280-026-04921-w](https://doi.org/10.1007/s00280-026-04921-w)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JKT3HJ2I)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_P565BQ2S)
 
 
 > [!warning] Gemini 解析失败

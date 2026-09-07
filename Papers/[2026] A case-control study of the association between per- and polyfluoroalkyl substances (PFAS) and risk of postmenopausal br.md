@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-08-15"
 doi: "10.1016/j.envres.2026.124837"
 pmid: 42176938
-zotero_link: "zotero://select/items/0_HMJPPNEP"
+zotero_link: "zotero://select/items/0_H8B6QTE8"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-31
+sync_date: 2026-09-07
 ---
 # A case-control study of the association between per- and polyfluoroalkyl substances (PFAS) and risk of postmenopausal breast cancer in the Danish diet cancer and health cohort.
 - **Journal**: Environmental research (**IF: Unknown**)
 - **Published**: 2026-08-15 | **PMID**: 42176938
 - **DOI**: [10.1016/j.envres.2026.124837](https://doi.org/10.1016/j.envres.2026.124837)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HMJPPNEP)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_H8B6QTE8)
 
 
 > [!warning] Gemini 解析失败
