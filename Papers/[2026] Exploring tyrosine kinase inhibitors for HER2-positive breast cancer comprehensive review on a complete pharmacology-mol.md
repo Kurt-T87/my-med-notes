@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-01"
 doi: "10.1007/s12094-026-04331-7"
 pmid: 41917341
-zotero_link: "zotero://select/items/0_3ASGI7RP"
+zotero_link: "zotero://select/items/0_BDGIFAXB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-07
+sync_date: 2026-09-14
 ---
 # Exploring tyrosine kinase inhibitors for HER2-positive breast cancer: comprehensive review on a complete pharmacology-molecular mechanisms, safety profiles, and insights from preclinical and clinical studies.
 - **Journal**: Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico (**IF: Unknown**)
 - **Published**: 2026-09-01 | **PMID**: 41917341
 - **DOI**: [10.1007/s12094-026-04331-7](https://doi.org/10.1007/s12094-026-04331-7)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3ASGI7RP)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BDGIFAXB)
 
 
 > [!warning] Gemini 解析失败

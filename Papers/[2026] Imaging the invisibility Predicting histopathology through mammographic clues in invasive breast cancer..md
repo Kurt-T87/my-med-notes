@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.7417/CT.2026.2104"
 pmid: 42664124
-zotero_link: "zotero://select/items/0_VWVDUC35"
+zotero_link: "zotero://select/items/0_GFHR67R2"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-07
+sync_date: 2026-09-14
 ---
 # Imaging the invisibility: Predicting histopathology through mammographic clues in invasive breast cancer.
 - **Journal**: La Clinica terapeutica (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42664124
 - **DOI**: [10.7417/CT.2026.2104](https://doi.org/10.7417/CT.2026.2104)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VWVDUC35)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GFHR67R2)
 
 
 > [!warning] Gemini 解析失败

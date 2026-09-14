@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-09-02"
 doi: "10.1158/0008-5472.CAN-26-0076"
 pmid: 42268298
-zotero_link: "zotero://select/items/0_XAR8PH9B"
+zotero_link: "zotero://select/items/0_GNC4VWVH"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-07
+sync_date: 2026-09-14
 ---
 # Circulating Cell-Free DNA Methylation Profiling Enables Detection, Distinction, and Estrogen Receptor Status Classification of Advanced Breast Cancer.
 - **Journal**: Cancer research (**IF: 12.5**)
 - **Published**: 2026-09-02 | **PMID**: 42268298
 - **DOI**: [10.1158/0008-5472.CAN-26-0076](https://doi.org/10.1158/0008-5472.CAN-26-0076)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XAR8PH9B)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GNC4VWVH)
 
 
 > [!warning] Gemini 解析失败

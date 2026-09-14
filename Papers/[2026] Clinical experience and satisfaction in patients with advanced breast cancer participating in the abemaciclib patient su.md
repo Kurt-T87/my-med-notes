@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-01"
 doi: "10.1007/s12094-026-04267-y"
 pmid: 41817657
-zotero_link: "zotero://select/items/0_XA2E37DK"
+zotero_link: "zotero://select/items/0_3ZMSC5GE"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-07
+sync_date: 2026-09-14
 ---
 # Clinical experience and satisfaction in patients with advanced breast cancer participating in the abemaciclib patient support program in Spain: a prospective observational study.
 - **Journal**: Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico (**IF: Unknown**)
 - **Published**: 2026-09-01 | **PMID**: 41817657
 - **DOI**: [10.1007/s12094-026-04267-y](https://doi.org/10.1007/s12094-026-04267-y)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XA2E37DK)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3ZMSC5GE)
 
 
 > [!warning] Gemini 解析失败

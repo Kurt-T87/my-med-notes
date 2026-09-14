@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-09-01"
 doi: "10.1007/s12282-026-01865-0"
 pmid: 42340618
-zotero_link: "zotero://select/items/0_93SJ8KCD"
+zotero_link: "zotero://select/items/0_TPMGKVP6"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-07
+sync_date: 2026-09-14
 ---
 # Quality of life with palbociclib plus tamoxifen in hormone receptor-positive, HER2-negative advanced breast cancer: results from PATHWAY, an Asian international, double-blind, randomized phase 3 trial.
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-09-01 | **PMID**: 42340618
 - **DOI**: [10.1007/s12282-026-01865-0](https://doi.org/10.1007/s12282-026-01865-0)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_93SJ8KCD)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TPMGKVP6)
 
 
 > [!warning] Gemini 解析失败

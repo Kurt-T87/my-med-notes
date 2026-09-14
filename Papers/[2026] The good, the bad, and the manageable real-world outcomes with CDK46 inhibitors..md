@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-01"
 doi: "10.1097/CAD.0000000000001810"
 pmid: 41601163
-zotero_link: "zotero://select/items/0_65825AM2"
+zotero_link: "zotero://select/items/0_WVKZPXE2"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-07
+sync_date: 2026-09-14
 ---
 # The good, the bad, and the manageable: real-world outcomes with CDK4/6 inhibitors.
 - **Journal**: Anti-cancer drugs (**IF: Unknown**)
 - **Published**: 2026-09-01 | **PMID**: 41601163
 - **DOI**: [10.1097/CAD.0000000000001810](https://doi.org/10.1097/CAD.0000000000001810)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_65825AM2)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WVKZPXE2)
 
 
 > [!warning] Gemini 解析失败

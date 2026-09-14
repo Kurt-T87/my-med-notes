@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-09-01"
 doi: "10.1007/s12282-026-01862-3"
 pmid: 42310258
-zotero_link: "zotero://select/items/0_HCM2GC2U"
+zotero_link: "zotero://select/items/0_WQGMJ278"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-07
+sync_date: 2026-09-14
 ---
 # Prognosis of ER-positive, HER2-negative postmenopausal early breast cancer patients based on response to neoadjuvant endocrine therapy and multigene assay results: findings from the NEOS trial.
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-09-01 | **PMID**: 42310258
 - **DOI**: [10.1007/s12282-026-01862-3](https://doi.org/10.1007/s12282-026-01862-3)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HCM2GC2U)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WQGMJ278)
 
 
 > [!warning] Gemini 解析失败

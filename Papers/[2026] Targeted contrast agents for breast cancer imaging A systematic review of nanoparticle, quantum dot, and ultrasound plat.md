@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-01"
 doi: "10.1016/j.radi.2026.103525"
 pmid: 42508150
-zotero_link: "zotero://select/items/0_EHPS6DX4"
+zotero_link: "zotero://select/items/0_MXWBPHBC"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-07
+sync_date: 2026-09-14
 ---
 # Targeted contrast agents for breast cancer imaging: A systematic review of nanoparticle, quantum dot, and ultrasound platforms.
 - **Journal**: Radiography (London, England : 1995) (**IF: Unknown**)
 - **Published**: 2026-09-01 | **PMID**: 42508150
 - **DOI**: [10.1016/j.radi.2026.103525](https://doi.org/10.1016/j.radi.2026.103525)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_EHPS6DX4)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MXWBPHBC)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: 42.1
 published: "2026-09-01"
 doi: "10.1007/s10147-026-03133-9"
 pmid: 42484744
-zotero_link: "zotero://select/items/0_C8CQ49QH"
+zotero_link: "zotero://select/items/0_N3UMW953"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-07
+sync_date: 2026-09-14
 ---
 # Identification and functional validation of lipid droplet-associated prognostic biomarkers in breast cancer via integrative multi-omics and machine learning approaches.
 - **Journal**: International journal of clinical oncology (**IF: 42.1**)
 - **Published**: 2026-09-01 | **PMID**: 42484744
 - **DOI**: [10.1007/s10147-026-03133-9](https://doi.org/10.1007/s10147-026-03133-9)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_C8CQ49QH)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_N3UMW953)
 
 
 > [!warning] Gemini 解析失败

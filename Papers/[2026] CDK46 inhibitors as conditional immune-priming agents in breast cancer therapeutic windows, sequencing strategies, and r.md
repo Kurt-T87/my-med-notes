@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.3389/fimmu.2026.1934879"
 pmid: 42688140
-zotero_link: "zotero://select/items/0_3UMFGK3N"
+zotero_link: "zotero://select/items/0_P7GDEXBN"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-07
+sync_date: 2026-09-14
 ---
 # CDK4/6 inhibitors as conditional immune-priming agents in breast cancer: therapeutic windows, sequencing strategies, and rational combinations with immunotherapy, radiotherapy, and antibody-drug conjugates.
 - **Journal**: Frontiers in immunology (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42688140
 - **DOI**: [10.3389/fimmu.2026.1934879](https://doi.org/10.3389/fimmu.2026.1934879)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3UMFGK3N)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_P7GDEXBN)
 
 
 > [!warning] Gemini 解析失败

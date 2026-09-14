@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-09-01"
 doi: "10.1007/s12282-026-01896-7"
 pmid: 42489813
-zotero_link: "zotero://select/items/0_P9ABSG4D"
+zotero_link: "zotero://select/items/0_K3ECJI8D"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-07
+sync_date: 2026-09-14
 ---
 # Reevaluating sentinel lymph node biopsy in older adults with T1 HR+/HER2- breast cancer: a SEER competing risk and nomogram study.
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-09-01 | **PMID**: 42489813
 - **DOI**: [10.1007/s12282-026-01896-7](https://doi.org/10.1007/s12282-026-01896-7)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_P9ABSG4D)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_K3ECJI8D)
 
 
 > [!warning] Gemini 解析失败
