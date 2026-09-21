@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-09-01"
 doi: "10.1007/s12282-026-01882-z"
 pmid: 42323780
-zotero_link: "zotero://select/items/0_9MTT99VB"
+zotero_link: "zotero://select/items/0_9N2U6CRT"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Prognostic impact of progesterone receptor status in patients with breast cancer and isolated locoregional recurrence.
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-09-01 | **PMID**: 42323780
 - **DOI**: [10.1007/s12282-026-01882-z](https://doi.org/10.1007/s12282-026-01882-z)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9MTT99VB)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9N2U6CRT)
 
 
 > [!warning] Gemini 解析失败

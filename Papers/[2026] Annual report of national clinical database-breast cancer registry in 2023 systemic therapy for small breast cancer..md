@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-09-01"
 doi: "10.1007/s12282-026-01881-0"
 pmid: 42286387
-zotero_link: "zotero://select/items/0_DVZEPSMR"
+zotero_link: "zotero://select/items/0_MEDPAIQH"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Annual report of national clinical database-breast cancer registry in 2023: systemic therapy for small breast cancer.
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-09-01 | **PMID**: 42286387
 - **DOI**: [10.1007/s12282-026-01881-0](https://doi.org/10.1007/s12282-026-01881-0)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_DVZEPSMR)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MEDPAIQH)
 
 
 > [!warning] Gemini 解析失败

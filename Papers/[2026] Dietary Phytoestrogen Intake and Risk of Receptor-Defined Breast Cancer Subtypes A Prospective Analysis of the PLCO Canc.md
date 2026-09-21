@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-09-01"
 doi: "10.1158/1055-9965.EPI-26-0428"
 pmid: 42377092
-zotero_link: "zotero://select/items/0_MIPD67WI"
+zotero_link: "zotero://select/items/0_2MEBFJPA"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Dietary Phytoestrogen Intake and Risk of Receptor-Defined Breast Cancer Subtypes: A Prospective Analysis of the PLCO Cancer Screening Trial Cohort.
 - **Journal**: Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology (**IF: 12.5**)
 - **Published**: 2026-09-01 | **PMID**: 42377092
 - **DOI**: [10.1158/1055-9965.EPI-26-0428](https://doi.org/10.1158/1055-9965.EPI-26-0428)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MIPD67WI)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_2MEBFJPA)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-09-01"
 doi: "10.21873/anticanres.18352"
 pmid: 42674716
-zotero_link: "zotero://select/items/0_BV22VPAR"
+zotero_link: "zotero://select/items/0_KBPFAJW3"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Predictors of Discontinuation of Eribulin Therapy for Metastatic Breast Cancer: A Retrospective Cohort Study.
 - **Journal**: Anticancer research (**IF: 12.5**)
 - **Published**: 2026-09-01 | **PMID**: 42674716
 - **DOI**: [10.21873/anticanres.18352](https://doi.org/10.21873/anticanres.18352)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BV22VPAR)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KBPFAJW3)
 
 
 > [!warning] Gemini 解析失败

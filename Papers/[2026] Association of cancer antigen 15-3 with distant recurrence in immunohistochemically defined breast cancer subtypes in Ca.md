@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-03"
 doi: "10.1093/jncics/pkag068"
 pmid: 42360727
-zotero_link: "zotero://select/items/0_4Q4T2ZC4"
+zotero_link: "zotero://select/items/0_J3MW685S"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Association of cancer antigen 15-3 with distant recurrence in immunohistochemically defined breast cancer subtypes in Canadian Cancer Trials Group MA.32.
 - **Journal**: JNCI cancer spectrum (**IF: Unknown**)
 - **Published**: 2026-09-03 | **PMID**: 42360727
 - **DOI**: [10.1093/jncics/pkag068](https://doi.org/10.1093/jncics/pkag068)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4Q4T2ZC4)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_J3MW685S)
 
 
 > [!warning] Gemini 解析失败

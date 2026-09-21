@@ -5,15 +5,15 @@ if: 93.6
 published: "2026-09-02"
 doi: "10.1136/bmjopen-2026-119811"
 pmid: 42692526
-zotero_link: "zotero://select/items/0_8SRFDQSH"
+zotero_link: "zotero://select/items/0_AM6563MX"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Does stereotactic ablative body radiotherapy (SABR) added to continued systemic therapy improve time to treatment failure compared with physician's choice of systemic therapy in oligoprogressive ER-positive, HER2-negative advanced breast cancer? Study protocol for a multicentre, randomised, open-label phase II trial in Australian tertiary cancer centres (AVATAR-II).
 - **Journal**: BMJ open (**IF: 93.6**)
 - **Published**: 2026-09-02 | **PMID**: 42692526
 - **DOI**: [10.1136/bmjopen-2026-119811](https://doi.org/10.1136/bmjopen-2026-119811)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8SRFDQSH)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_AM6563MX)
 
 
 > [!warning] Gemini 解析失败

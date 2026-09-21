@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-09-01"
 doi: "10.1016/j.clbc.2026.07.035"
 pmid: 42636567
-zotero_link: "zotero://select/items/0_SKC8I7GW"
+zotero_link: "zotero://select/items/0_SNV8MZ8Z"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # CDK4/6i in the Underrepresented Histological Subtypes of HR±/HER2- Metastatic Breast Cancer: A Real-World Cohort Study of Effectiveness and Safety.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-09-01 | **PMID**: 42636567
 - **DOI**: [10.1016/j.clbc.2026.07.035](https://doi.org/10.1016/j.clbc.2026.07.035)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SKC8I7GW)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SNV8MZ8Z)
 
 
 > [!warning] Gemini 解析失败

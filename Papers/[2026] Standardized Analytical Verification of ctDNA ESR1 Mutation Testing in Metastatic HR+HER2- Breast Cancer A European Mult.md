@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-01"
 doi: "10.1007/s40291-026-00850-9"
 pmid: 42307899
-zotero_link: "zotero://select/items/0_M4QUV3KG"
+zotero_link: "zotero://select/items/0_TQ6X8KP7"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Standardized Analytical Verification of ctDNA ESR1 Mutation Testing in Metastatic HR+/HER2- Breast Cancer: A European Multicentre Study Using dPCR and NGS-Based Liquid Biopsy.
 - **Journal**: Molecular diagnosis & therapy (**IF: Unknown**)
 - **Published**: 2026-09-01 | **PMID**: 42307899
 - **DOI**: [10.1007/s40291-026-00850-9](https://doi.org/10.1007/s40291-026-00850-9)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_M4QUV3KG)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TQ6X8KP7)
 
 
 > [!warning] Gemini 解析失败

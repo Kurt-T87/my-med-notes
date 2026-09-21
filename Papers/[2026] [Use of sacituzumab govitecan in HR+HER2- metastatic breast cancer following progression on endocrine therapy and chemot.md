@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-09-01"
 doi: "10.1701/4764.47850"
 pmid: 42684175
-zotero_link: "zotero://select/items/0_PUP9U998"
+zotero_link: "zotero://select/items/0_JP85D9CQ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # [Use of sacituzumab govitecan in HR+/HER2- metastatic breast cancer following progression on endocrine therapy and chemotherapy: a case report in line with the results of the TROPiCS-02 study.].
 - **Journal**: Recenti progressi in medicina (**IF: 12.8**)
 - **Published**: 2026-09-01 | **PMID**: 42684175
 - **DOI**: [10.1701/4764.47850](https://doi.org/10.1701/4764.47850)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_PUP9U998)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JP85D9CQ)
 
 
 > [!warning] Gemini 解析失败

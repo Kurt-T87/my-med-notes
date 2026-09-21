@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-02"
 doi: "10.1007/s11033-026-12426-1"
 pmid: 42684565
-zotero_link: "zotero://select/items/0_EN5HP4C3"
+zotero_link: "zotero://select/items/0_3MXXKWP6"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Integrated roles of miR-125b, miR-375, and miR-451 in breast cancer chemoresistance: mechanistic insights and translational implications.
 - **Journal**: Molecular biology reports (**IF: Unknown**)
 - **Published**: 2026-09-02 | **PMID**: 42684565
 - **DOI**: [10.1007/s11033-026-12426-1](https://doi.org/10.1007/s11033-026-12426-1)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_EN5HP4C3)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3MXXKWP6)
 
 
 > [!warning] Gemini 解析失败

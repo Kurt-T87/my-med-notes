@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-09-01"
 doi: "10.1007/s12282-026-01889-6"
 pmid: 42406276
-zotero_link: "zotero://select/items/0_R9UEI9Q3"
+zotero_link: "zotero://select/items/0_P5RVTSE8"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Abemaciclib plus endocrine therapy in chemotherapy-treated patients with hormone receptor-positive/human epidermal growth factor receptor 2-negative metastatic breast cancer.
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-09-01 | **PMID**: 42406276
 - **DOI**: [10.1007/s12282-026-01889-6](https://doi.org/10.1007/s12282-026-01889-6)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_R9UEI9Q3)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_P5RVTSE8)
 
 
 > [!warning] Gemini 解析失败

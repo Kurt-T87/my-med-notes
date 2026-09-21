@@ -5,15 +5,15 @@ if: 56.7
 published: "2026-09-01"
 doi: "10.1016/j.annonc.2026.05.697"
 pmid: 42613139
-zotero_link: "zotero://select/items/0_WUTRFQZ8"
+zotero_link: "zotero://select/items/0_8XJI5CP8"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Ovarian reserve as a measure of adjuvant chemotherapy benefit in hormone receptor positive (HR-positive), HER2-negative, node-positive breast cancer in SWOG S1007 (RxPONDER).
 - **Journal**: Annals of oncology : official journal of the European Society for Medical Oncology (**IF: 56.7**)
 - **Published**: 2026-09-01 | **PMID**: 42613139
 - **DOI**: [10.1016/j.annonc.2026.05.697](https://doi.org/10.1016/j.annonc.2026.05.697)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WUTRFQZ8)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8XJI5CP8)
 
 
 > [!warning] Gemini 解析失败

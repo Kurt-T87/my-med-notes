@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.3389/fimmu.2026.1899080"
 pmid: 42723854
-zotero_link: "zotero://select/items/0_K4FX33IG"
+zotero_link: "zotero://select/items/0_IJI4SRK5"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Datopotamab deruxtecan in breast cancer treatment: a systematic review of clinical efficacy and safety.
 - **Journal**: Frontiers in immunology (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42723854
 - **DOI**: [10.3389/fimmu.2026.1899080](https://doi.org/10.3389/fimmu.2026.1899080)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_K4FX33IG)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_IJI4SRK5)
 
 
 > [!warning] Gemini 解析失败

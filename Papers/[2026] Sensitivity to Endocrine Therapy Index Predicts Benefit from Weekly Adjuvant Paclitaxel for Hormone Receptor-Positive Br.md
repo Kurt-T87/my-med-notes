@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-09-01"
 doi: "10.1158/1078-0432.CCR-26-0177"
 pmid: 42189890
-zotero_link: "zotero://select/items/0_MX5AKCMC"
+zotero_link: "zotero://select/items/0_QETSHBFH"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Sensitivity to Endocrine Therapy Index Predicts Benefit from Weekly Adjuvant Paclitaxel for Hormone Receptor-Positive Breast Cancer in the GEICAM/9906 Trial.
 - **Journal**: Clinical cancer research : an official journal of the American Association for Cancer Research (**IF: 12.5**)
 - **Published**: 2026-09-01 | **PMID**: 42189890
 - **DOI**: [10.1158/1078-0432.CCR-26-0177](https://doi.org/10.1158/1078-0432.CCR-26-0177)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MX5AKCMC)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_QETSHBFH)
 
 
 > [!warning] Gemini 解析失败

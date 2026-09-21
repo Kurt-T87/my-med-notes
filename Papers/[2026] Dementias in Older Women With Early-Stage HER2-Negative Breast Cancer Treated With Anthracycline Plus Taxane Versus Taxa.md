@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-01"
 doi: "10.1002/pds.70457"
 pmid: 42665946
-zotero_link: "zotero://select/items/0_WCW7DRCI"
+zotero_link: "zotero://select/items/0_4CI28R7C"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Dementias in Older Women With Early-Stage HER2-Negative Breast Cancer Treated With Anthracycline Plus Taxane Versus Taxane-Based Chemotherapy Regimens.
 - **Journal**: Pharmacoepidemiology and drug safety (**IF: Unknown**)
 - **Published**: 2026-09-01 | **PMID**: 42665946
 - **DOI**: [10.1002/pds.70457](https://doi.org/10.1002/pds.70457)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WCW7DRCI)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4CI28R7C)
 
 
 > [!warning] Gemini 解析失败

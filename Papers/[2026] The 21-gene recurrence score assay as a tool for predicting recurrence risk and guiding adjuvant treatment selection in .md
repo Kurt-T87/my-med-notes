@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-01"
 doi: "10.1080/14737159.2026.2709442"
 pmid: 42554307
-zotero_link: "zotero://select/items/0_FHRQJ3IV"
+zotero_link: "zotero://select/items/0_SGUZ42C8"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # The 21-gene recurrence score assay as a tool for predicting recurrence risk and guiding adjuvant treatment selection in early breast cancer.
 - **Journal**: Expert review of molecular diagnostics (**IF: Unknown**)
 - **Published**: 2026-09-01 | **PMID**: 42554307
 - **DOI**: [10.1080/14737159.2026.2709442](https://doi.org/10.1080/14737159.2026.2709442)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FHRQJ3IV)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SGUZ42C8)
 
 
 > [!warning] Gemini 解析失败

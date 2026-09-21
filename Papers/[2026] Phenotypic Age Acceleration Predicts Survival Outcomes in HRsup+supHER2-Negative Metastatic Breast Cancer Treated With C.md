@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-09-01"
 doi: "10.1016/j.clbc.2026.07.013"
 pmid: 42585849
-zotero_link: "zotero://select/items/0_F9THPIHK"
+zotero_link: "zotero://select/items/0_KCFSTPZV"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Phenotypic Age Acceleration Predicts Survival Outcomes in HR<sup>+</sup>/HER2-Negative Metastatic Breast Cancer Treated With CDK4/6 Inhibitors: A Real-World Cohort Study.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-09-01 | **PMID**: 42585849
 - **DOI**: [10.1016/j.clbc.2026.07.013](https://doi.org/10.1016/j.clbc.2026.07.013)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_F9THPIHK)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KCFSTPZV)
 
 
 > [!warning] Gemini 解析失败

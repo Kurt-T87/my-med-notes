@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-09"
 doi: "10.1007/s00520-026-11156-1"
 pmid: 42714641
-zotero_link: "zotero://select/items/0_VXCPHV24"
+zotero_link: "zotero://select/items/0_SNV7K9ZX"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Exercise and pathologic complete response to cancer treatment: a systematic review and meta-analysis.
 - **Journal**: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer (**IF: Unknown**)
 - **Published**: 2026-09-09 | **PMID**: 42714641
 - **DOI**: [10.1007/s00520-026-11156-1](https://doi.org/10.1007/s00520-026-11156-1)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VXCPHV24)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SNV7K9ZX)
 
 
 > [!warning] Gemini 解析失败

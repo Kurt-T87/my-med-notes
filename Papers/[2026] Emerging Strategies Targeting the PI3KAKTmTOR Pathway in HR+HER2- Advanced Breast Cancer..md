@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-01"
 doi: "10.1007/s40265-026-02347-5"
 pmid: 42518131
-zotero_link: "zotero://select/items/0_HZ796T5E"
+zotero_link: "zotero://select/items/0_KRN7RZ49"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Emerging Strategies Targeting the PI3K/AKT/mTOR Pathway in HR+/HER2- Advanced Breast Cancer.
 - **Journal**: Drugs (**IF: Unknown**)
 - **Published**: 2026-09-01 | **PMID**: 42518131
 - **DOI**: [10.1007/s40265-026-02347-5](https://doi.org/10.1007/s40265-026-02347-5)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HZ796T5E)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KRN7RZ49)
 
 
 > [!warning] Gemini 解析失败

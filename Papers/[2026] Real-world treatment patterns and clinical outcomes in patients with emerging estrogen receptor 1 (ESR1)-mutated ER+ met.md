@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-09-09"
 doi: "10.1007/s10549-026-08061-w"
 pmid: 42714671
-zotero_link: "zotero://select/items/0_53W4AE9U"
+zotero_link: "zotero://select/items/0_VMSWASDS"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Real-world treatment patterns and clinical outcomes in patients with emerging estrogen receptor 1 (ESR1)-mutated ER+ metastatic breast cancer in the U.S., 2018-2024.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-09-09 | **PMID**: 42714671
 - **DOI**: [10.1007/s10549-026-08061-w](https://doi.org/10.1007/s10549-026-08061-w)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_53W4AE9U)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VMSWASDS)
 
 
 > [!warning] Gemini 解析失败

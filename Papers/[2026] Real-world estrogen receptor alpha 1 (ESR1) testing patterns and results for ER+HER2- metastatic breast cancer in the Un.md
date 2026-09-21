@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-09-09"
 doi: "10.1007/s10549-026-08060-x"
 pmid: 42714697
-zotero_link: "zotero://select/items/0_PWQMZ785"
+zotero_link: "zotero://select/items/0_RPEA3P7J"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Real-world estrogen receptor alpha 1 (ESR1) testing patterns and results for ER+/HER2- metastatic breast cancer in the United States, 2018-2024.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-09-09 | **PMID**: 42714697
 - **DOI**: [10.1007/s10549-026-08060-x](https://doi.org/10.1007/s10549-026-08060-x)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_PWQMZ785)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RPEA3P7J)
 
 
 > [!warning] Gemini 解析失败

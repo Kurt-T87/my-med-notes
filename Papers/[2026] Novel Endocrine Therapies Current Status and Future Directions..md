@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-09-01"
 doi: "10.1016/j.clbc.2026.07.010"
 pmid: 42632230
-zotero_link: "zotero://select/items/0_327METFM"
+zotero_link: "zotero://select/items/0_RNS4GWHW"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-14
+sync_date: 2026-09-21
 ---
 # Novel Endocrine Therapies: Current Status and Future Directions.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-09-01 | **PMID**: 42632230
 - **DOI**: [10.1016/j.clbc.2026.07.010](https://doi.org/10.1016/j.clbc.2026.07.010)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_327METFM)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RNS4GWHW)
 
 
 > [!warning] Gemini 解析失败
