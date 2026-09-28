@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-09-01"
 doi: "10.1701/4764.47851"
 pmid: 42684176
-zotero_link: "zotero://select/items/0_AFHQ9IGQ"
+zotero_link: "zotero://select/items/0_K9H7CPI6"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-21
+sync_date: 2026-09-28
 ---
 # [Sacituzumab govitecan in ER+/HER2- breast cancer: a necessary treatment option for patients who have undergone multiple prior treatments.].
 - **Journal**: Recenti progressi in medicina (**IF: 12.8**)
 - **Published**: 2026-09-01 | **PMID**: 42684176
 - **DOI**: [10.1701/4764.47851](https://doi.org/10.1701/4764.47851)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_AFHQ9IGQ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_K9H7CPI6)
 
 
 > [!warning] Gemini 解析失败

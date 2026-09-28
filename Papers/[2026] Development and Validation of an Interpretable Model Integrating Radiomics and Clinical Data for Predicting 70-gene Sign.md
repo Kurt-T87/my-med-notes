@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-01"
 doi: "10.1016/j.acra.2026.06.003"
 pmid: 42414134
-zotero_link: "zotero://select/items/0_BZDCRU65"
+zotero_link: "zotero://select/items/0_79249NUC"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-21
+sync_date: 2026-09-28
 ---
 # Development and Validation of an Interpretable Model Integrating Radiomics and Clinical Data for Predicting 70-gene Signature Risk in Breast Cancer: A Multicenter Study.
 - **Journal**: Academic radiology (**IF: Unknown**)
 - **Published**: 2026-09-01 | **PMID**: 42414134
 - **DOI**: [10.1016/j.acra.2026.06.003](https://doi.org/10.1016/j.acra.2026.06.003)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BZDCRU65)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_79249NUC)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-01"
 doi: "10.1007/s12013-026-02127-8"
 pmid: 42599649
-zotero_link: "zotero://select/items/0_2UUXNEUH"
+zotero_link: "zotero://select/items/0_8J5R7TIA"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-21
+sync_date: 2026-09-28
 ---
 # A Three-Dimensional Hyaluronic Acid-Based Scaffold Model for Electroporation-Enhanced Resveratrol Therapy in Triple-Negative Breast Cancer.
 - **Journal**: Cell biochemistry and biophysics (**IF: Unknown**)
 - **Published**: 2026-09-01 | **PMID**: 42599649
 - **DOI**: [10.1007/s12013-026-02127-8](https://doi.org/10.1007/s12013-026-02127-8)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_2UUXNEUH)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8J5R7TIA)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-09-01"
 doi: "10.1002/cam4.72258"
 pmid: 42706495
-zotero_link: "zotero://select/items/0_75TXXQPG"
+zotero_link: "zotero://select/items/0_J2CCFCK9"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-21
+sync_date: 2026-09-28
 ---
 # Efficacy and Safety of Neoadjuvant Chemotherapy Followed by CDK4/6 Inhibitors Plus Endocrine Therapy in Patients With HR-Positive, HER2-Negative Breast Cancer: A Retrospective Single-Centre Cohort Analysis.
 - **Journal**: Cancer medicine (**IF: 12.8**)
 - **Published**: 2026-09-01 | **PMID**: 42706495
 - **DOI**: [10.1002/cam4.72258](https://doi.org/10.1002/cam4.72258)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_75TXXQPG)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_J2CCFCK9)
 
 
 > [!warning] Gemini 解析失败

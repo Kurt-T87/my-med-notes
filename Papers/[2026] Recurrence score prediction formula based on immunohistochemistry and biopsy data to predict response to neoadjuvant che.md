@@ -5,15 +5,15 @@ if: 158.5
 published: "2026-09-11"
 doi: "10.1097/MD.0000000000050585"
 pmid: 42736791
-zotero_link: "zotero://select/items/0_HI7MJ9F7"
+zotero_link: "zotero://select/items/0_MI6KXVG9"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-21
+sync_date: 2026-09-28
 ---
 # Recurrence score prediction formula based on immunohistochemistry and biopsy data to predict response to neoadjuvant chemotherapy in estrogen receptor-positive/human epidermal growth factor receptor 2-negative breast cancer: A retrospective cohort study.
 - **Journal**: Medicine (**IF: 158.5**)
 - **Published**: 2026-09-11 | **PMID**: 42736791
 - **DOI**: [10.1097/MD.0000000000050585](https://doi.org/10.1097/MD.0000000000050585)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HI7MJ9F7)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MI6KXVG9)
 
 
 > [!warning] Gemini 解析失败

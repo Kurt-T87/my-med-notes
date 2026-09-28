@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-15"
 doi: "10.1172/JCI199483"
 pmid: 42518285
-zotero_link: "zotero://select/items/0_GHHPZAAZ"
+zotero_link: "zotero://select/items/0_FRDQM3UU"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-21
+sync_date: 2026-09-28
 ---
 # Targeting casein kinase 1α-mediated FADD phosphorylation restores sensitivity in select CDK4/6 inhibitor-resistant breast cancer models.
 - **Journal**: The Journal of clinical investigation (**IF: Unknown**)
 - **Published**: 2026-09-15 | **PMID**: 42518285
 - **DOI**: [10.1172/JCI199483](https://doi.org/10.1172/JCI199483)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GHHPZAAZ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FRDQM3UU)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-09-01"
 doi: "10.1701/4764.47849"
 pmid: 42684174
-zotero_link: "zotero://select/items/0_8TZ439GE"
+zotero_link: "zotero://select/items/0_KNSMW8S9"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-21
+sync_date: 2026-09-28
 ---
 # [Efficacy and safety of sacituzumab govitecan in patients with metastatic HR+/HER2- pleomorphic lobular breast cancer complicated by renal impairment.].
 - **Journal**: Recenti progressi in medicina (**IF: 12.8**)
 - **Published**: 2026-09-01 | **PMID**: 42684174
 - **DOI**: [10.1701/4764.47849](https://doi.org/10.1701/4764.47849)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8TZ439GE)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KNSMW8S9)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-01"
 doi: "10.1016/j.bbcan.2026.189649"
 pmid: 42379327
-zotero_link: "zotero://select/items/0_T5K5NRP4"
+zotero_link: "zotero://select/items/0_A7APZP6V"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-21
+sync_date: 2026-09-28
 ---
 # Redefining first-line standards: The role of next-generation HER2-Targeted therapies in HER2-positive metastatic breast cancer.
 - **Journal**: Biochimica et biophysica acta. Reviews on cancer (**IF: Unknown**)
 - **Published**: 2026-09-01 | **PMID**: 42379327
 - **DOI**: [10.1016/j.bbcan.2026.189649](https://doi.org/10.1016/j.bbcan.2026.189649)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_T5K5NRP4)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_A7APZP6V)
 
 
 > [!warning] Gemini 解析失败

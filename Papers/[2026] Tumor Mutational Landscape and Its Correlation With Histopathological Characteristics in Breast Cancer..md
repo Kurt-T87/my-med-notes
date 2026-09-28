@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.21873/cgp.20616"
 pmid: 42674815
-zotero_link: "zotero://select/items/0_CPPIF7FT"
+zotero_link: "zotero://select/items/0_CPW4EWUB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-21
+sync_date: 2026-09-28
 ---
 # Tumor Mutational Landscape and Its Correlation With Histopathological Characteristics in Breast Cancer.
 - **Journal**: Cancer genomics & proteomics (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42674815
 - **DOI**: [10.21873/cgp.20616](https://doi.org/10.21873/cgp.20616)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CPPIF7FT)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CPW4EWUB)
 
 
 > [!warning] Gemini 解析失败

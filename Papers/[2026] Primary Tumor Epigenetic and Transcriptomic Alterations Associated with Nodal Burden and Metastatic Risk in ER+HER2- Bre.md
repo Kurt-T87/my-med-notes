@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-04"
 doi: "10.3390/ijms27177901"
 pmid: 42737797
-zotero_link: "zotero://select/items/0_HMREDGJE"
+zotero_link: "zotero://select/items/0_VZ4DVCNM"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-21
+sync_date: 2026-09-28
 ---
 # Primary Tumor Epigenetic and Transcriptomic Alterations Associated with Nodal Burden and Metastatic Risk in ER+/HER2- Breast Cancer.
 - **Journal**: International journal of molecular sciences (**IF: Unknown**)
 - **Published**: 2026-09-04 | **PMID**: 42737797
 - **DOI**: [10.3390/ijms27177901](https://doi.org/10.3390/ijms27177901)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HMREDGJE)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VZ4DVCNM)
 
 
 > [!warning] Gemini 解析失败
