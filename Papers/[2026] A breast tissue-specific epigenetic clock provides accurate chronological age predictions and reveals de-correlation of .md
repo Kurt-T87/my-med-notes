@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-12-31"
 doi: "10.1080/15592294.2026.2714582"
 pmid: 42723438
-zotero_link: "zotero://select/items/0_STH6Q2VC"
+zotero_link: "zotero://select/items/0_MX57K7ZB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-28
+sync_date: 2026-10-05
 ---
 # A breast tissue-specific epigenetic clock provides accurate chronological age predictions and reveals de-correlation of age and DNA methylation in tumor-adjacent and tumor samples.
 - **Journal**: Epigenetics (**IF: Unknown**)
 - **Published**: 2026-12-31 | **PMID**: 42723438
 - **DOI**: [10.1080/15592294.2026.2714582](https://doi.org/10.1080/15592294.2026.2714582)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_STH6Q2VC)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MX57K7ZB)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-01"
 doi: "10.1016/j.compbiolchem.2026.109228"
 pmid: 42407417
-zotero_link: "zotero://select/items/0_D99IDZ9A"
+zotero_link: "zotero://select/items/0_ARI2UBW4"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-08-03
+sync_date: 2026-10-05
 ---
 # M3FusionNet: Cross-cohort multimodal prediction of breast cancer biomarkers.
 - **Journal**: Computational biology and chemistry (**IF: Unknown**)
 - **Published**: 2026-10-01 | **PMID**: 42407417
 - **DOI**: [10.1016/j.compbiolchem.2026.109228](https://doi.org/10.1016/j.compbiolchem.2026.109228)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_D99IDZ9A)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ARI2UBW4)
 
 
 > [!warning] Gemini 解析失败

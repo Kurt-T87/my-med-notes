@@ -1,0 +1,27 @@
+---
+title: "Contralateral Prophylactic Mastectomy in Women with Unilateral Breast Cancer by Age, Race, and Tumor Subtype."
+journal: "Annals of surgical oncology"
+if: Unknown
+published: "2026-10-01"
+doi: "10.1245/s10434-026-20306-y"
+pmid: 42527799
+zotero_link: "zotero://select/items/0_6PVKNTVN"
+tags: #BC #HR+HER2- #GeminiAnalyzed
+sync_date: 2026-10-05
+---
+# Contralateral Prophylactic Mastectomy in Women with Unilateral Breast Cancer by Age, Race, and Tumor Subtype.
+- **Journal**: Annals of surgical oncology (**IF: Unknown**)
+- **Published**: 2026-10-01 | **PMID**: 42527799
+- **DOI**: [10.1245/s10434-026-20306-y](https://doi.org/10.1245/s10434-026-20306-y)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_6PVKNTVN)
+
+
+> [!warning] Gemini 解析失败
+> Code: 55, Error: [31mGemini CLI is not running in a trusted directory. To proceed, either use `--skip-trust`, set the `GEMINI_CLI_TRUST_WORKSPACE=true` environment variable, or trust this directory in interactive mode. For more details, see https://geminicli.com/docs/cli/trusted-folders/#headless-and-automated-environments[0m
+
+
+## 📄 Abstract
+Contralateral prophylactic mastectomy (CPM) is discouraged in average risk women with unilateral breast cancer (UBC) per national consensus guidelines. CPM rates among different UBC populations are unknown. Our aim was to determine CPM rates by age, race, and tumor subtype.
+Women with stage I-III UBC undergoing therapeutic mastectomy were identified from SEER18 cancer registries from 2010 to 2021 to compare the no CPM group and CPM group.
+Of 240,613 women, 31.3% underwent CPM. Non-Hispanic white (NHW) women were more likely to undergo CPM compared with non-Hispanic black (NHB), Hispanic white, and Asian women (34.7% vs. 27.6%, 27.5%, and 20.2% respectively; p < 0.0001). CPM rates increased 8.2%, from 25.4 to 33.6%, with the greatest increase in NHB (16.7%) and the smallest in Asian women (6.3%) (p < 0.0001). On multivariable analysis (MVA), factors associated with CPM were age 18-39 years (OR 3.39), white race (OR 2.46), ER-HER2- subtype (OR 1.29), and stage I disease (OR 1.43) (all p < 0.0001). MVA considering race, age, and receptor subtype, CPM rates were highest in: NHWs age 18-49 years with triple negative breast cancer (TNBC), followed by NHWs 18-49 years with ER+ cancer, and NHBs age 18-49 years with TNBC. NHBs age 18-49 years with TNBC had the greatest increase in CPM rates (24%).
+CPM rates in women with UBC who undergo therapeutic mastectomy continue to increase. CPM was most frequent in young NHW women with TNBC. Young NHBs with TNBC had the greatest rate of increase. Further research is needed to identify factors motivating CPM, especially in average risk women with UBC.

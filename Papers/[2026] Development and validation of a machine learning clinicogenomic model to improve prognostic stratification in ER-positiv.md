@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-09-16"
 doi: "10.1186/s13058-026-02388-4"
 pmid: 42750049
-zotero_link: "zotero://select/items/0_HTGQUSXV"
+zotero_link: "zotero://select/items/0_2T4T5Q5R"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-28
+sync_date: 2026-10-05
 ---
 # Development and validation of a machine learning clinicogenomic model to improve prognostic stratification in ER-positive/HER2-negative early breast cancer.
 - **Journal**: Breast cancer research : BCR (**IF: 12.5**)
 - **Published**: 2026-09-16 | **PMID**: 42750049
 - **DOI**: [10.1186/s13058-026-02388-4](https://doi.org/10.1186/s13058-026-02388-4)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HTGQUSXV)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_2T4T5Q5R)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-09"
 doi: "10.1093/oncolo/oyag338"
 pmid: 42640557
-zotero_link: "zotero://select/items/0_R75ZFSQR"
+zotero_link: "zotero://select/items/0_CTFAF33B"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-28
+sync_date: 2026-10-05
 ---
 # Ten-year survival of women with invasive breast cancer by stage, molecular subtype, and grade combined: a population-based study.
 - **Journal**: The oncologist (**IF: Unknown**)
 - **Published**: 2026-09-09 | **PMID**: 42640557
 - **DOI**: [10.1093/oncolo/oyag338](https://doi.org/10.1093/oncolo/oyag338)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_R75ZFSQR)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CTFAF33B)
 
 
 > [!warning] Gemini 解析失败

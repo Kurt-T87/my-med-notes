@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-24"
 doi: "10.1007/s00280-026-04960-3"
 pmid: 42786218
-zotero_link: "zotero://select/items/0_57TM8KPV"
+zotero_link: "zotero://select/items/0_RJN4PSE7"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-09-28
+sync_date: 2026-10-05
 ---
 # Crossing the toxicity threshold: a repeated landmark analysis of early toxicities and treatment modification during first-line CDK4/6 inhibitor therapy.
 - **Journal**: Cancer chemotherapy and pharmacology (**IF: Unknown**)
 - **Published**: 2026-09-24 | **PMID**: 42786218
 - **DOI**: [10.1007/s00280-026-04960-3](https://doi.org/10.1007/s00280-026-04960-3)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_57TM8KPV)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RJN4PSE7)
 
 
 > [!warning] Gemini 解析失败
