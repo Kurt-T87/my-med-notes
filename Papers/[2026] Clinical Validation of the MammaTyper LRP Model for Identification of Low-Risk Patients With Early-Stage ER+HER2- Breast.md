@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-10-01"
 doi: "10.1016/j.clbc.2026.08.015"
 pmid: 42800242
-zotero_link: "zotero://select/items/0_3UETNRJJ"
+zotero_link: "zotero://select/items/0_IJHTEZUV"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-05
+sync_date: 2026-10-12
 ---
 # Clinical Validation of the MammaTyper LRP Model for Identification of Low-Risk Patients With Early-Stage ER+/HER2- Breast Cancer: From Subtyping to Chemotherapy De-escalation.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-10-01 | **PMID**: 42800242
 - **DOI**: [10.1016/j.clbc.2026.08.015](https://doi.org/10.1016/j.clbc.2026.08.015)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3UETNRJJ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_IJHTEZUV)
 
 
 > [!warning] Gemini 解析失败

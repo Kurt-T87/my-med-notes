@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-01"
 doi: "10.1245/s10434-026-20145-x"
 pmid: 42493714
-zotero_link: "zotero://select/items/0_RS83IW24"
+zotero_link: "zotero://select/items/0_UE26VUSK"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-05
+sync_date: 2026-10-12
 ---
 # Impact of Sentinel Node Omission in Early-Stage Breast Cancers on Adjuvant Therapy Decision-Making.
 - **Journal**: Annals of surgical oncology (**IF: Unknown**)
 - **Published**: 2026-10-01 | **PMID**: 42493714
 - **DOI**: [10.1245/s10434-026-20145-x](https://doi.org/10.1245/s10434-026-20145-x)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RS83IW24)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UE26VUSK)
 
 
 > [!warning] Gemini 解析失败

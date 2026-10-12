@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-01"
 doi: "10.1245/s10434-026-20080-x"
 pmid: 42467154
-zotero_link: "zotero://select/items/0_XN2KZXZQ"
+zotero_link: "zotero://select/items/0_BRA85ITG"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-05
+sync_date: 2026-10-12
 ---
 # Patterns of Care and Follow-up of Patients with an Ipsilateral Breast Tumor Event After Breast-Conserving Surgery: A Multicenter Retrospective Cohort Study in the Netherlands.
 - **Journal**: Annals of surgical oncology (**IF: Unknown**)
 - **Published**: 2026-10-01 | **PMID**: 42467154
 - **DOI**: [10.1245/s10434-026-20080-x](https://doi.org/10.1245/s10434-026-20080-x)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XN2KZXZQ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BRA85ITG)
 
 
 > [!warning] Gemini 解析失败

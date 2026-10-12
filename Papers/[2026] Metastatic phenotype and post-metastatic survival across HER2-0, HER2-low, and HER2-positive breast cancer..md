@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-09-16"
 doi: "10.1007/s10549-026-08067-4"
 pmid: 42747633
-zotero_link: "zotero://select/items/0_ACH84WMQ"
+zotero_link: "zotero://select/items/0_CK3V9DMI"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-05
+sync_date: 2026-10-12
 ---
 # Metastatic phenotype and post-metastatic survival across HER2-0, HER2-low, and HER2-positive breast cancer.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-09-16 | **PMID**: 42747633
 - **DOI**: [10.1007/s10549-026-08067-4](https://doi.org/10.1007/s10549-026-08067-4)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ACH84WMQ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CK3V9DMI)
 
 
 > [!warning] Gemini 解析失败

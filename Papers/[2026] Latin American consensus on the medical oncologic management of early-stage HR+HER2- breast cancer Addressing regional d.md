@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-10-01"
 doi: "10.1016/j.breast.2026.104865"
 pmid: 42470932
-zotero_link: "zotero://select/items/0_6GUQBIIP"
+zotero_link: "zotero://select/items/0_BU4Z3P7U"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-05
+sync_date: 2026-10-12
 ---
 # Latin American consensus on the medical oncologic management of early-stage HR+/HER2- breast cancer: Addressing regional disparities in Spanish-speaking countries.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-10-01 | **PMID**: 42470932
 - **DOI**: [10.1016/j.breast.2026.104865](https://doi.org/10.1016/j.breast.2026.104865)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_6GUQBIIP)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BU4Z3P7U)
 
 
 > [!warning] Gemini 解析失败

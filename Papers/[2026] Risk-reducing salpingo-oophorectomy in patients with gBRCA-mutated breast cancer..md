@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-28"
 doi: "10.1007/s00404-026-08581-2"
 pmid: 42804048
-zotero_link: "zotero://select/items/0_Z5KGE5G5"
+zotero_link: "zotero://select/items/0_GC4QPNI2"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-05
+sync_date: 2026-10-12
 ---
 # Risk-reducing salpingo-oophorectomy in patients with gBRCA-mutated breast cancer.
 - **Journal**: Archives of gynecology and obstetrics (**IF: Unknown**)
 - **Published**: 2026-09-28 | **PMID**: 42804048
 - **DOI**: [10.1007/s00404-026-08581-2](https://doi.org/10.1007/s00404-026-08581-2)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_Z5KGE5G5)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GC4QPNI2)
 
 
 > [!warning] Gemini 解析失败

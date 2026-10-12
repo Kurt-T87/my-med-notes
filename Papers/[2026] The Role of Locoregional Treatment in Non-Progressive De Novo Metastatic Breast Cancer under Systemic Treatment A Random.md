@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-01"
 doi: "10.1245/s10434-026-20187-1"
 pmid: 42472751
-zotero_link: "zotero://select/items/0_CCAX6554"
+zotero_link: "zotero://select/items/0_F8SVF2TC"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-05
+sync_date: 2026-10-12
 ---
 # The Role of Locoregional Treatment in Non-Progressive De Novo Metastatic Breast Cancer under Systemic Treatment: A Randomized Controlled Trial (LTMBC).
 - **Journal**: Annals of surgical oncology (**IF: Unknown**)
 - **Published**: 2026-10-01 | **PMID**: 42472751
 - **DOI**: [10.1245/s10434-026-20187-1](https://doi.org/10.1245/s10434-026-20187-1)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CCAX6554)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_F8SVF2TC)
 
 
 > [!warning] Gemini 解析失败

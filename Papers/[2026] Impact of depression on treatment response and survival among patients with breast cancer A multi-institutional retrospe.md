@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-10-01"
 doi: "10.1016/j.breast.2026.104862"
 pmid: 42419252
-zotero_link: "zotero://select/items/0_EH2FR9FJ"
+zotero_link: "zotero://select/items/0_SPCX3U48"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-05
+sync_date: 2026-10-12
 ---
 # Impact of depression on treatment response and survival among patients with breast cancer: A multi-institutional retrospective cohort study.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-10-01 | **PMID**: 42419252
 - **DOI**: [10.1016/j.breast.2026.104862](https://doi.org/10.1016/j.breast.2026.104862)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_EH2FR9FJ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SPCX3U48)
 
 
 > [!warning] Gemini 解析失败

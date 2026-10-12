@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-10-01"
 doi: "10.1158/1078-0432.CCR-26-0975"
 pmid: 42467210
-zotero_link: "zotero://select/items/0_FEWZZN62"
+zotero_link: "zotero://select/items/0_9NX3RC8B"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-05
+sync_date: 2026-10-12
 ---
 # Tumor-Infiltrating Lymphocytes as a Predictor of Adjuvant Avelumab Efficacy in Patients with High-risk Triple-Negative Breast Cancer.
 - **Journal**: Clinical cancer research : an official journal of the American Association for Cancer Research (**IF: 12.5**)
 - **Published**: 2026-10-01 | **PMID**: 42467210
 - **DOI**: [10.1158/1078-0432.CCR-26-0975](https://doi.org/10.1158/1078-0432.CCR-26-0975)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FEWZZN62)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9NX3RC8B)
 
 
 > [!warning] Gemini 解析失败

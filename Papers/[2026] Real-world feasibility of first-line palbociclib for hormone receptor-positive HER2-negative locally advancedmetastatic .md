@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-10-01"
 doi: "10.1016/j.breast.2026.104879"
 pmid: 42579983
-zotero_link: "zotero://select/items/0_49UTXAEU"
+zotero_link: "zotero://select/items/0_XCVPCP23"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-05
+sync_date: 2026-10-12
 ---
 # Real-world feasibility of first-line palbociclib for hormone receptor-positive HER2-negative locally advanced/metastatic breast cancer in women aged 70 years and older - final results of the endocrine-sensitive cohort in the French prospective non-interventional PalomAGE study.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-10-01 | **PMID**: 42579983
 - **DOI**: [10.1016/j.breast.2026.104879](https://doi.org/10.1016/j.breast.2026.104879)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_49UTXAEU)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XCVPCP23)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-10-01"
 doi: "10.1002/nbm.70386"
 pmid: 42687344
-zotero_link: "zotero://select/items/0_PHZVRAAM"
+zotero_link: "zotero://select/items/0_9HF9KWEJ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-05
+sync_date: 2026-10-12
 ---
 # <sup>1</sup>H HR-MAS NMR Metabolomics in Combination With Transcriptomic Correlation Provides New Insights Into Metabolic Heterogeneity Across Breast Cancer Immunohistochemical Subtypes.
 - **Journal**: NMR in biomedicine (**IF: 12.8**)
 - **Published**: 2026-10-01 | **PMID**: 42687344
 - **DOI**: [10.1002/nbm.70386](https://doi.org/10.1002/nbm.70386)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_PHZVRAAM)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9HF9KWEJ)
 
 
 > [!warning] Gemini 解析失败

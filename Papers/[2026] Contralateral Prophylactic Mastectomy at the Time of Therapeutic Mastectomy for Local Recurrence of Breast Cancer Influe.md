@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-01"
 doi: "10.1002/jso.70339"
 pmid: 42478319
-zotero_link: "zotero://select/items/0_WFBU7VAX"
+zotero_link: "zotero://select/items/0_XRH5ED6Q"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-05
+sync_date: 2026-10-12
 ---
 # Contralateral Prophylactic Mastectomy at the Time of Therapeutic Mastectomy for Local Recurrence of Breast Cancer: Influence of Genetic Testing and Other Factors.
 - **Journal**: Journal of surgical oncology (**IF: Unknown**)
 - **Published**: 2026-10-01 | **PMID**: 42478319
 - **DOI**: [10.1002/jso.70339](https://doi.org/10.1002/jso.70339)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WFBU7VAX)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XRH5ED6Q)
 
 
 > [!warning] Gemini 解析失败

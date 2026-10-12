@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-10-01"
 doi: "10.1016/j.breast.2026.104891"
 pmid: 42575049
-zotero_link: "zotero://select/items/0_W7M8U2NN"
+zotero_link: "zotero://select/items/0_4FFHJVMQ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-05
+sync_date: 2026-10-12
 ---
 # Central nervous system metastases in metastatic breast cancer: Incidence, subtype-specific patterns, and outcomes from the Austrian AGMT_MBC registry.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-10-01 | **PMID**: 42575049
 - **DOI**: [10.1016/j.breast.2026.104891](https://doi.org/10.1016/j.breast.2026.104891)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_W7M8U2NN)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4FFHJVMQ)
 
 
 > [!warning] Gemini 解析失败

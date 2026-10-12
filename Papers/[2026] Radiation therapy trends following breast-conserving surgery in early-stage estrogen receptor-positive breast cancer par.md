@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-10-01"
 doi: "10.1016/j.breast.2026.104893"
 pmid: 42579982
-zotero_link: "zotero://select/items/0_PURAT653"
+zotero_link: "zotero://select/items/0_I6VF3X8J"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-05
+sync_date: 2026-10-12
 ---
 # Radiation therapy trends following breast-conserving surgery in early-stage estrogen receptor-positive breast cancer: particularly in older patients more frequently omitted.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-10-01 | **PMID**: 42579982
 - **DOI**: [10.1016/j.breast.2026.104893](https://doi.org/10.1016/j.breast.2026.104893)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_PURAT653)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_I6VF3X8J)
 
 
 > [!warning] Gemini 解析失败

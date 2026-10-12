@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-21"
 doi: "10.1186/s12885-026-17017-8"
 pmid: 42786451
-zotero_link: "zotero://select/items/0_TJXB7S7A"
+zotero_link: "zotero://select/items/0_WZZVKSMP"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-05
+sync_date: 2026-10-12
 ---
 # The effect of adding ovarian function suppression to adjuvant endocrine therapy in premenopausal patients with hormone receptor-positive, HER2-positive breast cancer who have undergone neoadjuvant therapy: a single-center experience.
 - **Journal**: BMC cancer (**IF: Unknown**)
 - **Published**: 2026-09-21 | **PMID**: 42786451
 - **DOI**: [10.1186/s12885-026-17017-8](https://doi.org/10.1186/s12885-026-17017-8)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TJXB7S7A)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WZZVKSMP)
 
 
 > [!warning] Gemini 解析失败

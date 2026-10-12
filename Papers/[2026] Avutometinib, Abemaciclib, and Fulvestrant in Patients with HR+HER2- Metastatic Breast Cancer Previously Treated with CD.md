@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-10-01"
 doi: "10.1158/1078-0432.CCR-26-0721"
 pmid: 42440363
-zotero_link: "zotero://select/items/0_U52SAP5A"
+zotero_link: "zotero://select/items/0_XEPWE796"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-05
+sync_date: 2026-10-12
 ---
 # Avutometinib, Abemaciclib, and Fulvestrant in Patients with HR+/HER2- Metastatic Breast Cancer Previously Treated with CDK4/6 Inhibitor: A Single-Arm Phase I Trial.
 - **Journal**: Clinical cancer research : an official journal of the American Association for Cancer Research (**IF: 12.5**)
 - **Published**: 2026-10-01 | **PMID**: 42440363
 - **DOI**: [10.1158/1078-0432.CCR-26-0721](https://doi.org/10.1158/1078-0432.CCR-26-0721)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_U52SAP5A)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XEPWE796)
 
 
 > [!warning] Gemini 解析失败
