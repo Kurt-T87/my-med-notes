@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-01"
 doi: "10.36721/PJPS.2026.39.10.286.1"
 pmid: 42474165
-zotero_link: "zotero://select/items/0_ZA78HDZR"
+zotero_link: "zotero://select/items/0_W5UUI4PU"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-12
+sync_date: 2026-10-19
 ---
 # Research on the impact of different chemotherapy and targeted therapy regimens on postoperative disease-free survival in breast cancer patients.
 - **Journal**: Pakistan journal of pharmaceutical sciences (**IF: Unknown**)
 - **Published**: 2026-10-01 | **PMID**: 42474165
 - **DOI**: [10.36721/PJPS.2026.39.10.286.1](https://doi.org/10.36721/PJPS.2026.39.10.286.1)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ZA78HDZR)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_W5UUI4PU)
 
 
 > [!warning] Gemini 解析失败

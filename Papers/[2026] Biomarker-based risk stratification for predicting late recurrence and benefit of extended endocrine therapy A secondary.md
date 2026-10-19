@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-10-01"
 doi: "10.1016/j.breast.2026.104903"
 pmid: 42632205
-zotero_link: "zotero://select/items/0_DXKJIU6K"
+zotero_link: "zotero://select/items/0_TAKZ2IV7"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-12
+sync_date: 2026-10-19
 ---
 # Biomarker-based risk stratification for predicting late recurrence and benefit of extended endocrine therapy: A secondary analysis of the IDEAL trial.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-10-01 | **PMID**: 42632205
 - **DOI**: [10.1016/j.breast.2026.104903](https://doi.org/10.1016/j.breast.2026.104903)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_DXKJIU6K)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_TAKZ2IV7)
 
 
 > [!warning] Gemini 解析失败

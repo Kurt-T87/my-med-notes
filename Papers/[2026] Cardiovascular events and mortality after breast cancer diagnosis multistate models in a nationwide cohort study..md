@@ -5,15 +5,15 @@ if: 93.6
 published: "2026-09-23"
 doi: "10.1136/bmjopen-2026-117647"
 pmid: 42778238
-zotero_link: "zotero://select/items/0_VIAKH7WR"
+zotero_link: "zotero://select/items/0_7E4BKUAR"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-12
+sync_date: 2026-10-19
 ---
 # Cardiovascular events and mortality after breast cancer diagnosis: multistate models in a nationwide cohort study.
 - **Journal**: BMJ open (**IF: 93.6**)
 - **Published**: 2026-09-23 | **PMID**: 42778238
 - **DOI**: [10.1136/bmjopen-2026-117647](https://doi.org/10.1136/bmjopen-2026-117647)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VIAKH7WR)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7E4BKUAR)
 
 
 > [!warning] Gemini 解析失败

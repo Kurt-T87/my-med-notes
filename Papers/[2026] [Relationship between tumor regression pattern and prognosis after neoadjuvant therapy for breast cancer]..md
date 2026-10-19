@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-08"
 doi: "10.3760/cma.j.cn112151-20260512-00369"
 pmid: 42851197
-zotero_link: "zotero://select/items/0_9RRGKSKT"
+zotero_link: "zotero://select/items/0_GA9SS786"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-12
+sync_date: 2026-10-19
 ---
 # [Relationship between tumor regression pattern and prognosis after neoadjuvant therapy for breast cancer].
 - **Journal**: Zhonghua bing li xue za zhi = Chinese journal of pathology (**IF: Unknown**)
 - **Published**: 2026-10-08 | **PMID**: 42851197
 - **DOI**: [10.3760/cma.j.cn112151-20260512-00369](https://doi.org/10.3760/cma.j.cn112151-20260512-00369)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9RRGKSKT)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GA9SS786)
 
 
 > [!warning] Gemini 解析失败

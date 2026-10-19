@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-10-01"
 doi: "10.1002/cam4.72359"
 pmid: 42834705
-zotero_link: "zotero://select/items/0_JTHM78XX"
+zotero_link: "zotero://select/items/0_JTFV58A3"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-12
+sync_date: 2026-10-19
 ---
 # Automated mRNA-Based Detection of ER, PR, HER2, and Ki-67 in Breast Cancer Tissue and Cytology Samples in Resource-Limited Settings.
 - **Journal**: Cancer medicine (**IF: 12.8**)
 - **Published**: 2026-10-01 | **PMID**: 42834705
 - **DOI**: [10.1002/cam4.72359](https://doi.org/10.1002/cam4.72359)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JTHM78XX)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JTFV58A3)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-09-21"
 doi: "10.1186/s43046-026-00408-0"
 pmid: 42766234
-zotero_link: "zotero://select/items/0_W2KQQCC5"
+zotero_link: "zotero://select/items/0_ANMD7NEJ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-12
+sync_date: 2026-10-19
 ---
 # Male breast cancer in Arab populations: a systematic review of molecular, genetic, and clinicopathologic characteristics.
 - **Journal**: Journal of the Egyptian National Cancer Institute (**IF: Unknown**)
 - **Published**: 2026-09-21 | **PMID**: 42766234
 - **DOI**: [10.1186/s43046-026-00408-0](https://doi.org/10.1186/s43046-026-00408-0)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_W2KQQCC5)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ANMD7NEJ)
 
 
 > [!warning] Gemini 解析失败

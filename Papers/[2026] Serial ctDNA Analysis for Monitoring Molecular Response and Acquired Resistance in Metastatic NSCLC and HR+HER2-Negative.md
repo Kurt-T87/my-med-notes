@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-10-01"
 doi: "10.1002/cam4.72208"
 pmid: 42817873
-zotero_link: "zotero://select/items/0_M7AEQSWI"
+zotero_link: "zotero://select/items/0_VDRXW66C"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-12
+sync_date: 2026-10-19
 ---
 # Serial ctDNA Analysis for Monitoring Molecular Response and Acquired Resistance in Metastatic NSCLC and HR+/HER2-Negative Breast Cancer: A Real-World Study.
 - **Journal**: Cancer medicine (**IF: 12.8**)
 - **Published**: 2026-10-01 | **PMID**: 42817873
 - **DOI**: [10.1002/cam4.72208](https://doi.org/10.1002/cam4.72208)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_M7AEQSWI)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VDRXW66C)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-10-01"
 doi: "10.1016/j.clbc.2026.08.009"
 pmid: 42715822
-zotero_link: "zotero://select/items/0_KPGDH428"
+zotero_link: "zotero://select/items/0_5Z4JV4VS"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-12
+sync_date: 2026-10-19
 ---
 # Synchronous Contralateral Breast Cancer Detected at Elective Bilateral Mastectomy: Incidence, Predictors, and Biomarker Concordance in the National Cancer Database.
 - **Journal**: Clinical breast cancer (**IF: 7.9**)
 - **Published**: 2026-10-01 | **PMID**: 42715822
 - **DOI**: [10.1016/j.clbc.2026.08.009](https://doi.org/10.1016/j.clbc.2026.08.009)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KPGDH428)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5Z4JV4VS)
 
 
 > [!warning] Gemini 解析失败

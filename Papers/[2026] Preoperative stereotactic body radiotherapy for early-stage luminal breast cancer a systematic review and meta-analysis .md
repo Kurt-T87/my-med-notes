@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-01"
 doi: "10.1016/j.radonc.2026.111743"
 pmid: 42603618
-zotero_link: "zotero://select/items/0_4WK8MAI5"
+zotero_link: "zotero://select/items/0_EZWN7XWQ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-12
+sync_date: 2026-10-19
 ---
 # Preoperative stereotactic body radiotherapy for early-stage luminal breast cancer: a systematic review and meta-analysis (PRELUMEN).
 - **Journal**: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (**IF: Unknown**)
 - **Published**: 2026-10-01 | **PMID**: 42603618
 - **DOI**: [10.1016/j.radonc.2026.111743](https://doi.org/10.1016/j.radonc.2026.111743)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4WK8MAI5)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_EZWN7XWQ)
 
 
 > [!warning] Gemini 解析失败

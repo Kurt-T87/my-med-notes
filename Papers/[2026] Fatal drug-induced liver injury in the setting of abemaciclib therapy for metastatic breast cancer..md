@@ -5,15 +5,15 @@ if: 93.6
 published: "2026-10-05"
 doi: "10.1136/bcr-2025-268777"
 pmid: 42833841
-zotero_link: "zotero://select/items/0_NI4DGCGR"
+zotero_link: "zotero://select/items/0_HE9SRPSF"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-12
+sync_date: 2026-10-19
 ---
 # Fatal drug-induced liver injury in the setting of abemaciclib therapy for metastatic breast cancer.
 - **Journal**: BMJ case reports (**IF: 93.6**)
 - **Published**: 2026-10-05 | **PMID**: 42833841
 - **DOI**: [10.1136/bcr-2025-268777](https://doi.org/10.1136/bcr-2025-268777)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_NI4DGCGR)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HE9SRPSF)
 
 
 > [!warning] Gemini 解析失败

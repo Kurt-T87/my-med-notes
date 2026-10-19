@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-10-07"
 doi: "10.1007/s10549-026-08092-3"
 pmid: 42842025
-zotero_link: "zotero://select/items/0_GCWCJRTG"
+zotero_link: "zotero://select/items/0_93IFBJIP"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-12
+sync_date: 2026-10-19
 ---
 # Brain-only metastatic breast cancer as a distinct clinical entity: evidence from national and institutional cohorts with implications for radiation therapy.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-10-07 | **PMID**: 42842025
 - **DOI**: [10.1007/s10549-026-08092-3](https://doi.org/10.1007/s10549-026-08092-3)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GCWCJRTG)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_93IFBJIP)
 
 
 > [!warning] Gemini 解析失败

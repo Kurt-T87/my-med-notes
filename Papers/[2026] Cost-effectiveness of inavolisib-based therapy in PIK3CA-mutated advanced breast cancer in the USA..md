@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-10-01"
 doi: "10.1016/j.breast.2026.104889"
 pmid: 42543051
-zotero_link: "zotero://select/items/0_8QXQXHKI"
+zotero_link: "zotero://select/items/0_ITMWB2US"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-12
+sync_date: 2026-10-19
 ---
 # Cost-effectiveness of inavolisib-based therapy in PIK3CA-mutated advanced breast cancer in the USA.
 - **Journal**: Breast (Edinburgh, Scotland) (**IF: 7.9**)
 - **Published**: 2026-10-01 | **PMID**: 42543051
 - **DOI**: [10.1016/j.breast.2026.104889](https://doi.org/10.1016/j.breast.2026.104889)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8QXQXHKI)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ITMWB2US)
 
 
 > [!warning] Gemini 解析失败

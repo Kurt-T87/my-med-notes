@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-10-01"
 doi: "10.1002/cam4.72331"
 pmid: 42811741
-zotero_link: "zotero://select/items/0_RGF9QP5C"
+zotero_link: "zotero://select/items/0_WP7B7XX5"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-12
+sync_date: 2026-10-19
 ---
 # Optimizing the ER Cutoff in HER2-Positive Breast Cancer: ER ≥ 50% Predicts Low pCR Rates and Resistance to Antibody-Drug Conjugates in the Neoadjuvant Setting.
 - **Journal**: Cancer medicine (**IF: 12.8**)
 - **Published**: 2026-10-01 | **PMID**: 42811741
 - **DOI**: [10.1002/cam4.72331](https://doi.org/10.1002/cam4.72331)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RGF9QP5C)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WP7B7XX5)
 
 
 > [!warning] Gemini 解析失败
