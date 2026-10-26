@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-15"
 doi: "10.12659/AJCR.953831"
 pmid: 42876016
-zotero_link: "zotero://select/items/0_FTMABGAJ"
+zotero_link: "zotero://select/items/0_FVB2D7Z9"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-19
+sync_date: 2026-10-26
 ---
 # Primary Intermammary Breast Carcinoma Presenting With Direct Sternal Invasion: A Diagnostic Pitfall of Standard Screening Mammography.
 - **Journal**: The American journal of case reports (**IF: Unknown**)
 - **Published**: 2026-10-15 | **PMID**: 42876016
 - **DOI**: [10.12659/AJCR.953831](https://doi.org/10.12659/AJCR.953831)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FTMABGAJ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FVB2D7Z9)
 
 
 > [!warning] Gemini 解析失败

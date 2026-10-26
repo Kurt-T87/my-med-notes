@@ -5,15 +5,15 @@ if: 7.6
 published: "2026-10-16"
 doi: "10.1016/j.ejca.2026.117019"
 pmid: 42685569
-zotero_link: "zotero://select/items/0_MR78PU76"
+zotero_link: "zotero://select/items/0_Z4FI463N"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-19
+sync_date: 2026-10-26
 ---
 # Broad baseline-variable profiling of visceral conversion in bone-only HR+/HER2 - metastatic breast cancer treated with CDK4/6 inhibitors.
 - **Journal**: European journal of cancer (Oxford, England : 1990) (**IF: 7.6**)
 - **Published**: 2026-10-16 | **PMID**: 42685569
 - **DOI**: [10.1016/j.ejca.2026.117019](https://doi.org/10.1016/j.ejca.2026.117019)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MR78PU76)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_Z4FI463N)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.1371/journal.pone.0358540"
 pmid: 42809558
-zotero_link: "zotero://select/items/0_DX5WHBEU"
+zotero_link: "zotero://select/items/0_VX8CIWXM"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-19
+sync_date: 2026-10-26
 ---
 # Efficacy and safety of T-DXd versus Other HER2-targeted therapies in second-line and later settings for HER2-positive metastatic breast cancer: A Bayesian network meta-analysis.
 - **Journal**: PloS one (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42809558
 - **DOI**: [10.1371/journal.pone.0358540](https://doi.org/10.1371/journal.pone.0358540)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_DX5WHBEU)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VX8CIWXM)
 
 
 > [!warning] Gemini 解析失败

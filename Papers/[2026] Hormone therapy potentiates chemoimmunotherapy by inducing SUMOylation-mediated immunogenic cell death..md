@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-01"
 doi: "10.1136/jitc-2025-014506"
 pmid: 42823086
-zotero_link: "zotero://select/items/0_72H86RD8"
+zotero_link: "zotero://select/items/0_GJAFHB6Z"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-19
+sync_date: 2026-10-26
 ---
 # Hormone therapy potentiates chemoimmunotherapy by inducing SUMOylation-mediated immunogenic cell death.
 - **Journal**: Journal for immunotherapy of cancer (**IF: Unknown**)
 - **Published**: 2026-10-01 | **PMID**: 42823086
 - **DOI**: [10.1136/jitc-2025-014506](https://doi.org/10.1136/jitc-2025-014506)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_72H86RD8)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GJAFHB6Z)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-01"
 doi: "10.1172/JCI207634"
 pmid: 42820285
-zotero_link: "zotero://select/items/0_HWB52SFT"
+zotero_link: "zotero://select/items/0_VVHNEV59"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-19
+sync_date: 2026-10-26
 ---
 # Breast cancer immunogenicity as a spectrum: evolving concepts and therapeutic implications.
 - **Journal**: The Journal of clinical investigation (**IF: Unknown**)
 - **Published**: 2026-10-01 | **PMID**: 42820285
 - **DOI**: [10.1172/JCI207634](https://doi.org/10.1172/JCI207634)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HWB52SFT)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VVHNEV59)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-10-01"
 doi: "10.1002/cam4.72325"
 pmid: 42811783
-zotero_link: "zotero://select/items/0_4KG4T8MK"
+zotero_link: "zotero://select/items/0_SRQJERW2"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-19
+sync_date: 2026-10-26
 ---
 # Use of Metronomic Chemotherapy in Hormone Receptor-Positive/HER2-Negative Metastatic Breast Cancer: A Retrospective Multicenter Study.
 - **Journal**: Cancer medicine (**IF: 12.8**)
 - **Published**: 2026-10-01 | **PMID**: 42811783
 - **DOI**: [10.1002/cam4.72325](https://doi.org/10.1002/cam4.72325)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4KG4T8MK)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SRQJERW2)
 
 
 > [!warning] Gemini 解析失败

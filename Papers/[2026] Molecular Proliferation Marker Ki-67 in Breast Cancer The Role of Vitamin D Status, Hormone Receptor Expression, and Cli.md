@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-01"
 doi: "10.3390/ijms27198797"
 pmid: 42884041
-zotero_link: "zotero://select/items/0_V2QUH2JK"
+zotero_link: "zotero://select/items/0_XK43XXDK"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-19
+sync_date: 2026-10-26
 ---
 # Molecular Proliferation Marker Ki-67 in Breast Cancer: The Role of Vitamin D Status, Hormone Receptor Expression, and Clinicopathological Factors-A Cross-Sectional Study.
 - **Journal**: International journal of molecular sciences (**IF: Unknown**)
 - **Published**: 2026-10-01 | **PMID**: 42884041
 - **DOI**: [10.3390/ijms27198797](https://doi.org/10.3390/ijms27198797)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_V2QUH2JK)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XK43XXDK)
 
 
 > [!warning] Gemini 解析失败

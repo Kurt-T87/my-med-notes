@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-10-01"
 doi: "10.21873/anticanres.18410"
 pmid: 42823150
-zotero_link: "zotero://select/items/0_H725K4QJ"
+zotero_link: "zotero://select/items/0_RHCGF86J"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-19
+sync_date: 2026-10-26
 ---
 # Impact of Resection Margin Width on Local Control and Prognostic Factors in HER2-enriched and Triple-negative Breast Cancer in the Modern Systemic Treatment Era.
 - **Journal**: Anticancer research (**IF: 12.5**)
 - **Published**: 2026-10-01 | **PMID**: 42823150
 - **DOI**: [10.21873/anticanres.18410](https://doi.org/10.21873/anticanres.18410)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_H725K4QJ)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RHCGF86J)
 
 
 > [!warning] Gemini 解析失败

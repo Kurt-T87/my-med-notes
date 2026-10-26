@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-10-01"
 doi: "10.1002/cam4.72240"
 pmid: 42850806
-zotero_link: "zotero://select/items/0_HRTZDC94"
+zotero_link: "zotero://select/items/0_I33MIDQZ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-19
+sync_date: 2026-10-26
 ---
 # Dodonaea viscosa in Breast Cancer: Phytochemistry, Anticancer Mechanisms, and Emerging Immunotherapeutic and Translational Perspectives.
 - **Journal**: Cancer medicine (**IF: 12.8**)
 - **Published**: 2026-10-01 | **PMID**: 42850806
 - **DOI**: [10.1002/cam4.72240](https://doi.org/10.1002/cam4.72240)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HRTZDC94)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_I33MIDQZ)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: 7.6
 published: "2026-10-16"
 doi: "10.1016/j.ejca.2026.117020"
 pmid: 42710277
-zotero_link: "zotero://select/items/0_N27J772A"
+zotero_link: "zotero://select/items/0_FVHAMJ29"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-19
+sync_date: 2026-10-26
 ---
 # Association of immune and proliferation gene signatures and stromal tumor-infiltrating lymphocytes with clinical outcomes in patients with stage I triple-negative breast cancer.
 - **Journal**: European journal of cancer (Oxford, England : 1990) (**IF: 7.6**)
 - **Published**: 2026-10-16 | **PMID**: 42710277
 - **DOI**: [10.1016/j.ejca.2026.117020](https://doi.org/10.1016/j.ejca.2026.117020)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_N27J772A)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FVHAMJ29)
 
 
 > [!warning] Gemini 解析失败

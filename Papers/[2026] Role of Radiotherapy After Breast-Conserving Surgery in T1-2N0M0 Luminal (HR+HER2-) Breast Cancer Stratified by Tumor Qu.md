@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-10-08"
 doi: "10.12659/MSM.953757"
 pmid: 42844798
-zotero_link: "zotero://select/items/0_SNP4N5PR"
+zotero_link: "zotero://select/items/0_HNBZ257P"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-19
+sync_date: 2026-10-26
 ---
 # Role of Radiotherapy After Breast-Conserving Surgery in T1-2N0M0 Luminal (HR+/HER2-) Breast Cancer Stratified by Tumor Quadrant Location.
 - **Journal**: Medical science monitor : international medical journal of experimental and clinical research (**IF: 12.8**)
 - **Published**: 2026-10-08 | **PMID**: 42844798
 - **DOI**: [10.12659/MSM.953757](https://doi.org/10.12659/MSM.953757)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SNP4N5PR)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HNBZ257P)
 
 
 > [!warning] Gemini 解析失败

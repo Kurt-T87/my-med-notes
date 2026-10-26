@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-01"
 doi: "10.1016/j.jss.2026.08.004"
 pmid: 42696829
-zotero_link: "zotero://select/items/0_6ME37T6A"
+zotero_link: "zotero://select/items/0_SI4IH8ET"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-19
+sync_date: 2026-10-26
 ---
 # Receipt of Preventive Care and Health Promotion Counseling in Early Stage Breast Cancer Survivors.
 - **Journal**: The Journal of surgical research (**IF: Unknown**)
 - **Published**: 2026-10-01 | **PMID**: 42696829
 - **DOI**: [10.1016/j.jss.2026.08.004](https://doi.org/10.1016/j.jss.2026.08.004)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_6ME37T6A)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_SI4IH8ET)
 
 
 > [!warning] Gemini 解析失败

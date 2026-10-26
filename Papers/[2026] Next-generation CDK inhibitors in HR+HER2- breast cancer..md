@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-15"
 doi: "10.1172/JCI207631"
 pmid: 42878072
-zotero_link: "zotero://select/items/0_5AFGFFWW"
+zotero_link: "zotero://select/items/0_5M5AAJMQ"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-19
+sync_date: 2026-10-26
 ---
 # Next-generation CDK inhibitors in HR+/HER2- breast cancer.
 - **Journal**: The Journal of clinical investigation (**IF: Unknown**)
 - **Published**: 2026-10-15 | **PMID**: 42878072
 - **DOI**: [10.1172/JCI207631](https://doi.org/10.1172/JCI207631)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5AFGFFWW)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5M5AAJMQ)
 
 
 > [!warning] Gemini 解析失败
