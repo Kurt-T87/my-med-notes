@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-07"
 doi: "10.1093/oncolo/oyag411"
 pmid: 42885553
-zotero_link: "zotero://select/items/0_RVTPP2Q6"
+zotero_link: "zotero://select/items/0_W9D2X4XP"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-26
+sync_date: 2026-11-02
 ---
 # Integrating ctDNA-based ESR1m monitoring into first-line care for ER+, HER2- advanced breast cancer: a consensus workflow.
 - **Journal**: The oncologist (**IF: Unknown**)
 - **Published**: 2026-10-07 | **PMID**: 42885553
 - **DOI**: [10.1093/oncolo/oyag411](https://doi.org/10.1093/oncolo/oyag411)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RVTPP2Q6)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_W9D2X4XP)
 
 
 > [!warning] Gemini 解析失败

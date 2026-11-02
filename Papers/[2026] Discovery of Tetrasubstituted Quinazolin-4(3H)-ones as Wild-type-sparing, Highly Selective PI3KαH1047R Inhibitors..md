@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-10-08"
 doi: "10.1021/acs.jmedchem.6c00269"
 pmid: 42917890
-zotero_link: "zotero://select/items/0_BCVGWMUA"
+zotero_link: "zotero://select/items/0_XBPUHP6G"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-26
+sync_date: 2026-11-02
 ---
 # Discovery of Tetrasubstituted Quinazolin-4(3H)-ones as Wild-type-sparing, Highly Selective PI3KαH1047R Inhibitors.
 - **Journal**: Journal of medicinal chemistry (**IF: 12.8**)
 - **Published**: 2026-10-08 | **PMID**: 42917890
 - **DOI**: [10.1021/acs.jmedchem.6c00269](https://doi.org/10.1021/acs.jmedchem.6c00269)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BCVGWMUA)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XBPUHP6G)
 
 
 > [!warning] Gemini 解析失败

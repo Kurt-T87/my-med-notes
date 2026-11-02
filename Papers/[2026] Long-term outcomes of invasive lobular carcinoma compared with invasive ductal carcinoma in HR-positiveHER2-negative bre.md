@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-11-01"
 doi: "10.1007/s12282-026-01922-8"
 pmid: 42828641
-zotero_link: "zotero://select/items/0_WGRUG27Q"
+zotero_link: "zotero://select/items/0_R3EV648H"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-26
+sync_date: 2026-11-02
 ---
 # Long-term outcomes of invasive lobular carcinoma compared with invasive ductal carcinoma in HR-positive/HER2-negative breast cancer: a focus on luminal subtypes.
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-11-01 | **PMID**: 42828641
 - **DOI**: [10.1007/s12282-026-01922-8](https://doi.org/10.1007/s12282-026-01922-8)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WGRUG27Q)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_R3EV648H)
 
 
 > [!warning] Gemini 解析失败

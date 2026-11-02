@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-15"
 doi: "10.1172/JCI202305"
 pmid: 42878074
-zotero_link: "zotero://select/items/0_5EK9C3K7"
+zotero_link: "zotero://select/items/0_Z25IAFNE"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-26
+sync_date: 2026-11-02
 ---
 # Multimodal assessment of exceptional responders refines subtyping-directed precision treatment in HR+/HER2- breast cancer.
 - **Journal**: The Journal of clinical investigation (**IF: Unknown**)
 - **Published**: 2026-10-15 | **PMID**: 42878074
 - **DOI**: [10.1172/JCI202305](https://doi.org/10.1172/JCI202305)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5EK9C3K7)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_Z25IAFNE)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-20"
 doi: "10.1039/d6dt01362g"
 pmid: 42622453
-zotero_link: "zotero://select/items/0_ZBH6QIEW"
+zotero_link: "zotero://select/items/0_EPWX3XDU"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-26
+sync_date: 2026-11-02
 ---
 # Emerging therapeutic strategies for triple-negative breast cancer using ruthenium, iridium, and rhenium complexes.
 - **Journal**: Dalton transactions (Cambridge, England : 2003) (**IF: Unknown**)
 - **Published**: 2026-10-20 | **PMID**: 42622453
 - **DOI**: [10.1039/d6dt01362g](https://doi.org/10.1039/d6dt01362g)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_ZBH6QIEW)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_EPWX3XDU)
 
 
 > [!warning] Gemini 解析失败

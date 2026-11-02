@@ -5,15 +5,15 @@ if: 7.6
 published: "2026-10-16"
 doi: "10.1016/j.ejca.2026.117044"
 pmid: 42762561
-zotero_link: "zotero://select/items/0_4AG5GVBF"
+zotero_link: "zotero://select/items/0_4II37UPD"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-26
+sync_date: 2026-11-02
 ---
 # 70-gene signature MammaPrint for early-stage HR-positive, HER2-negative breast cancer: Outcome in the MINDACT trial for key clinical-pathological high-risk subgroups.
 - **Journal**: European journal of cancer (Oxford, England : 1990) (**IF: 7.6**)
 - **Published**: 2026-10-16 | **PMID**: 42762561
 - **DOI**: [10.1016/j.ejca.2026.117044](https://doi.org/10.1016/j.ejca.2026.117044)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4AG5GVBF)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_4II37UPD)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: 42.1
 published: "2026-10-20"
 doi: "10.1200/JCO-25-02255"
 pmid: 42623567
-zotero_link: "zotero://select/items/0_DEVZVK2P"
+zotero_link: "zotero://select/items/0_789BPQRT"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-26
+sync_date: 2026-11-02
 ---
 # Pathologic Complete Response (pCR) Rate and Predictors of Response to Taxane, Trastuzumab, and Pertuzumab in HER2‑Positive Breast Cancer: Secondary Analyses of EA1181/CompassHER2 pCR.
 - **Journal**: Journal of clinical oncology : official journal of the American Society of Clinical Oncology (**IF: 42.1**)
 - **Published**: 2026-10-20 | **PMID**: 42623567
 - **DOI**: [10.1200/JCO-25-02255](https://doi.org/10.1200/JCO-25-02255)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_DEVZVK2P)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_789BPQRT)
 
 
 > [!warning] Gemini 解析失败

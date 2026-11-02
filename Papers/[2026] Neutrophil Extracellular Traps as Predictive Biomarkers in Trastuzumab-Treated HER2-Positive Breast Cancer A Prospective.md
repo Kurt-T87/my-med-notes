@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-13"
 doi: "10.3791/72405"
 pmid: 42872727
-zotero_link: "zotero://select/items/0_NMHPS9G2"
+zotero_link: "zotero://select/items/0_N55B326N"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-26
+sync_date: 2026-11-02
 ---
 # Neutrophil Extracellular Traps as Predictive Biomarkers in Trastuzumab-Treated HER2-Positive Breast Cancer: A Prospective Cohort Study.
 - **Journal**: Journal of visualized experiments : JoVE (**IF: Unknown**)
 - **Published**: 2026-10-13 | **PMID**: 42872727
 - **DOI**: [10.3791/72405](https://doi.org/10.3791/72405)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_NMHPS9G2)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_N55B326N)
 
 
 > [!warning] Gemini 解析失败

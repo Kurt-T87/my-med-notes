@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-16"
 doi: "10.1007/s11033-026-12830-7"
 pmid: 42886396
-zotero_link: "zotero://select/items/0_WTFK8HBC"
+zotero_link: "zotero://select/items/0_IQHEE3FN"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-10-26
+sync_date: 2026-11-02
 ---
 # Harnessing the ubiquitin-proteasome system: advances and challenges of PROTACs in breast cancer.
 - **Journal**: Molecular biology reports (**IF: Unknown**)
 - **Published**: 2026-10-16 | **PMID**: 42886396
 - **DOI**: [10.1007/s11033-026-12830-7](https://doi.org/10.1007/s11033-026-12830-7)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WTFK8HBC)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_IQHEE3FN)
 
 
 > [!warning] Gemini 解析失败
