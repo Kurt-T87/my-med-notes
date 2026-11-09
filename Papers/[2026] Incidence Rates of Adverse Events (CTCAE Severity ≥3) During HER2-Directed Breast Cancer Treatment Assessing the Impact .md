@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-14"
 doi: "10.3390/curroncol33100618"
 pmid: 42930185
-zotero_link: "zotero://select/items/0_5GB936S5"
+zotero_link: "zotero://select/items/0_KKVMDB5Q"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-02
+sync_date: 2026-11-09
 ---
 # Incidence Rates of Adverse Events (CTCAE Severity ≥3) During HER2-Directed Breast Cancer Treatment Assessing the Impact of App-Based Electronic Patient-Reported Outcomes in the Randomized Controlled PRO2 Trial.
 - **Journal**: Current oncology (Toronto, Ont.) (**IF: Unknown**)
 - **Published**: 2026-10-14 | **PMID**: 42930185
 - **DOI**: [10.3390/curroncol33100618](https://doi.org/10.3390/curroncol33100618)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5GB936S5)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KKVMDB5Q)
 
 
 > [!warning] Gemini 解析失败

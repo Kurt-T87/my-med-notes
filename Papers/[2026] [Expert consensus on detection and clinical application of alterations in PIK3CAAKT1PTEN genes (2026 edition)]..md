@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-23"
 doi: "10.3760/cma.j.cn112152-20260430-00218"
 pmid: 42927945
-zotero_link: "zotero://select/items/0_U4FWBB9F"
+zotero_link: "zotero://select/items/0_2MC8VF86"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-02
+sync_date: 2026-11-09
 ---
 # [Expert consensus on detection and clinical application of alterations in PIK3CA/AKT1/PTEN genes (2026 edition)].
 - **Journal**: Zhonghua zhong liu za zhi [Chinese journal of oncology] (**IF: Unknown**)
 - **Published**: 2026-10-23 | **PMID**: 42927945
 - **DOI**: [10.3760/cma.j.cn112152-20260430-00218](https://doi.org/10.3760/cma.j.cn112152-20260430-00218)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_U4FWBB9F)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_2MC8VF86)
 
 
 > [!warning] Gemini 解析失败

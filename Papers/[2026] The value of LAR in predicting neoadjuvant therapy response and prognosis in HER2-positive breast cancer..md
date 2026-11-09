@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-11-01"
 doi: "10.1007/s12282-026-01892-x"
 pmid: 42635889
-zotero_link: "zotero://select/items/0_8PQQDT6K"
+zotero_link: "zotero://select/items/0_DA7A7N9H"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-02
+sync_date: 2026-11-09
 ---
 # The value of LAR in predicting neoadjuvant therapy response and prognosis in HER2-positive breast cancer.
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-11-01 | **PMID**: 42635889
 - **DOI**: [10.1007/s12282-026-01892-x](https://doi.org/10.1007/s12282-026-01892-x)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8PQQDT6K)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_DA7A7N9H)
 
 
 > [!warning] Gemini 解析失败

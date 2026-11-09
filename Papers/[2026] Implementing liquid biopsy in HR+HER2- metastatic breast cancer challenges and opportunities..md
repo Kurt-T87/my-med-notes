@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-11-01"
 doi: "10.1097/CCO.0000000000001267"
 pmid: 42687443
-zotero_link: "zotero://select/items/0_WF98KT4I"
+zotero_link: "zotero://select/items/0_PI5BIRGP"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-02
+sync_date: 2026-11-09
 ---
 # Implementing liquid biopsy in HR+/HER2- metastatic breast cancer: challenges and opportunities.
 - **Journal**: Current opinion in oncology (**IF: Unknown**)
 - **Published**: 2026-11-01 | **PMID**: 42687443
 - **DOI**: [10.1097/CCO.0000000000001267](https://doi.org/10.1097/CCO.0000000000001267)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_WF98KT4I)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_PI5BIRGP)
 
 
 > [!warning] Gemini 解析失败

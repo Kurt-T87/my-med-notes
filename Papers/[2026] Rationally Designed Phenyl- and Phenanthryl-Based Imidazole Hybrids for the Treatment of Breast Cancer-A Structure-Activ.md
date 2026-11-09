@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-16"
 doi: "10.3390/molecules31203722"
 pmid: 42943791
-zotero_link: "zotero://select/items/0_IC2PC7ST"
+zotero_link: "zotero://select/items/0_KV73K4WB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-02
+sync_date: 2026-11-09
 ---
 # Rationally Designed Phenyl- and Phenanthryl-Based Imidazole Hybrids for the Treatment of Breast Cancer-A Structure-Activity Relationship Study.
 - **Journal**: Molecules (Basel, Switzerland) (**IF: Unknown**)
 - **Published**: 2026-10-16 | **PMID**: 42943791
 - **DOI**: [10.3390/molecules31203722](https://doi.org/10.3390/molecules31203722)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_IC2PC7ST)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KV73K4WB)
 
 
 > [!warning] Gemini 解析失败

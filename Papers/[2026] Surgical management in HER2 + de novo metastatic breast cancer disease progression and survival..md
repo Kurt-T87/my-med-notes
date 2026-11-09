@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-10-18"
 doi: "10.1007/s10549-026-08108-y"
 pmid: 42894054
-zotero_link: "zotero://select/items/0_W2GEZJRK"
+zotero_link: "zotero://select/items/0_U9UCD48M"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-02
+sync_date: 2026-11-09
 ---
 # Surgical management in HER2 + de novo metastatic breast cancer: disease progression and survival.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-10-18 | **PMID**: 42894054
 - **DOI**: [10.1007/s10549-026-08108-y](https://doi.org/10.1007/s10549-026-08108-y)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_W2GEZJRK)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_U9UCD48M)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-11-01"
 doi: "10.1007/s40265-026-02385-z"
 pmid: 42786359
-zotero_link: "zotero://select/items/0_HEB265X2"
+zotero_link: "zotero://select/items/0_HCXI2GW2"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-02
+sync_date: 2026-11-09
 ---
 # Camizestrant: First Approval.
 - **Journal**: Drugs (**IF: Unknown**)
 - **Published**: 2026-11-01 | **PMID**: 42786359
 - **DOI**: [10.1007/s40265-026-02385-z](https://doi.org/10.1007/s40265-026-02385-z)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HEB265X2)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HCXI2GW2)
 
 
 > [!warning] Gemini 解析失败

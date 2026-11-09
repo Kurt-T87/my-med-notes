@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-11-01"
 doi: "10.21873/anticanres.18456"
 pmid: 42946405
-zotero_link: "zotero://select/items/0_96J9GFGX"
+zotero_link: "zotero://select/items/0_RCM4AKZU"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-02
+sync_date: 2026-11-09
 ---
 # Predictors of Pathologic Complete Response Following Neoadjuvant Chemotherapy in Invasive Breast Cancer With Microcalcifications.
 - **Journal**: Anticancer research (**IF: 12.5**)
 - **Published**: 2026-11-01 | **PMID**: 42946405
 - **DOI**: [10.21873/anticanres.18456](https://doi.org/10.21873/anticanres.18456)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_96J9GFGX)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RCM4AKZU)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-11-01"
 doi: "10.1007/s40265-026-02372-4"
 pmid: 42663865
-zotero_link: "zotero://select/items/0_H62CQVSK"
+zotero_link: "zotero://select/items/0_9MWURP64"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-02
+sync_date: 2026-11-09
 ---
 # Vepdegestrant: First Approval.
 - **Journal**: Drugs (**IF: Unknown**)
 - **Published**: 2026-11-01 | **PMID**: 42663865
 - **DOI**: [10.1007/s40265-026-02372-4](https://doi.org/10.1007/s40265-026-02372-4)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_H62CQVSK)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9MWURP64)
 
 
 > [!warning] Gemini 解析失败
