@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-12-01"
 doi: "10.1016/j.mbs.2026.109830"
 pmid: 42892345
-zotero_link: "zotero://select/items/0_J7WH4ABW"
+zotero_link: "zotero://select/items/0_CC8Q7X6A"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # A mechanistic learning framework for breast cancer relapse prediction.
 - **Journal**: Mathematical biosciences (**IF: Unknown**)
 - **Published**: 2026-12-01 | **PMID**: 42892345
 - **DOI**: [10.1016/j.mbs.2026.109830](https://doi.org/10.1016/j.mbs.2026.109830)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_J7WH4ABW)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CC8Q7X6A)
 
 
 > [!warning] Gemini 解析失败

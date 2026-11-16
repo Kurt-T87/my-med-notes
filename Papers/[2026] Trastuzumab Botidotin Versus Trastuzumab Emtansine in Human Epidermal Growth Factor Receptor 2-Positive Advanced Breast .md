@@ -5,15 +5,15 @@ if: 42.1
 published: "2026-11-01"
 doi: "10.1200/JCO-26-00602"
 pmid: 42727044
-zotero_link: "zotero://select/items/0_RPVHB35V"
+zotero_link: "zotero://select/items/0_KRVH4W5I"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Trastuzumab Botidotin Versus Trastuzumab Emtansine in Human Epidermal Growth Factor Receptor 2-Positive Advanced Breast Cancer: A Phase III, Open-Label, Randomized Controlled Trial.
 - **Journal**: Journal of clinical oncology : official journal of the American Society of Clinical Oncology (**IF: 42.1**)
 - **Published**: 2026-11-01 | **PMID**: 42727044
 - **DOI**: [10.1200/JCO-26-00602](https://doi.org/10.1200/JCO-26-00602)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RPVHB35V)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_KRVH4W5I)
 
 
 > [!warning] Gemini 解析失败

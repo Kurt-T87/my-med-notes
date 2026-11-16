@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-11-01"
 doi: "10.1016/j.critrevonc.2026.105602"
 pmid: 42772656
-zotero_link: "zotero://select/items/0_7SS759AR"
+zotero_link: "zotero://select/items/0_8XIC9ZKM"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Neoadjuvant antibody-drug conjugates for early-stage breast cancer: A systematic review and meta-analysis.
 - **Journal**: Critical reviews in oncology/hematology (**IF: Unknown**)
 - **Published**: 2026-11-01 | **PMID**: 42772656
 - **DOI**: [10.1016/j.critrevonc.2026.105602](https://doi.org/10.1016/j.critrevonc.2026.105602)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7SS759AR)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8XIC9ZKM)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: 40.8
 published: "2026-11-02"
 doi: "10.1038/s41392-026-02834-x"
 pmid: 42967914
-zotero_link: "zotero://select/items/0_763H43MX"
+zotero_link: "zotero://select/items/0_AQ6M53DV"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Neoadjuvant concurrent or sequential anthracycline-containing chemotherapy and HER2-targeted agents for HER2-positive breast cancer: a randomized phase 2 study (METIS).
 - **Journal**: Signal transduction and targeted therapy (**IF: 40.8**)
 - **Published**: 2026-11-02 | **PMID**: 42967914
 - **DOI**: [10.1038/s41392-026-02834-x](https://doi.org/10.1038/s41392-026-02834-x)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_763H43MX)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_AQ6M53DV)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-10-22"
 doi: "10.1186/s43046-026-00420-4"
 pmid: 42911354
-zotero_link: "zotero://select/items/0_BEWK3BW2"
+zotero_link: "zotero://select/items/0_G9H9P45W"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Outcomes of non-metastatic HER-2 positive breast cancer before and after the introduction of anti-HER-2 therapy: a retrospective study from a tertiary Egyptian center.
 - **Journal**: Journal of the Egyptian National Cancer Institute (**IF: Unknown**)
 - **Published**: 2026-10-22 | **PMID**: 42911354
 - **DOI**: [10.1186/s43046-026-00420-4](https://doi.org/10.1186/s43046-026-00420-4)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_BEWK3BW2)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_G9H9P45W)
 
 
 > [!warning] Gemini 解析失败

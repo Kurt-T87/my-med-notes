@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-11-04"
 doi: "10.1007/s00432-026-06631-5"
 pmid: 42980852
-zotero_link: "zotero://select/items/0_V22SK84S"
+zotero_link: "zotero://select/items/0_K2KUIDUF"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Determinants of synchronous and metachronous metastatic breast cancer (2000-2024)-an analysis based on data from German cancer registries.
 - **Journal**: Journal of cancer research and clinical oncology (**IF: 12.5**)
 - **Published**: 2026-11-04 | **PMID**: 42980852
 - **DOI**: [10.1007/s00432-026-06631-5](https://doi.org/10.1007/s00432-026-06631-5)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_V22SK84S)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_K2KUIDUF)
 
 
 > [!warning] Gemini 解析失败

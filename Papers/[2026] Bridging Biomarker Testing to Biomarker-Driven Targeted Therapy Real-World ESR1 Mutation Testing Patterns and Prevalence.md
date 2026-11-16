@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-11-01"
 doi: "10.1007/s40291-026-00876-z"
 pmid: 42709321
-zotero_link: "zotero://select/items/0_A3NQFQUF"
+zotero_link: "zotero://select/items/0_JJRJ9TC3"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Bridging Biomarker Testing to Biomarker-Driven Targeted Therapy: Real-World ESR1 Mutation Testing Patterns and Prevalence in ER+, HER2- Metastatic Breast Cancer.
 - **Journal**: Molecular diagnosis & therapy (**IF: Unknown**)
 - **Published**: 2026-11-01 | **PMID**: 42709321
 - **DOI**: [10.1007/s40291-026-00876-z](https://doi.org/10.1007/s40291-026-00876-z)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_A3NQFQUF)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JJRJ9TC3)
 
 
 > [!warning] Gemini 解析失败

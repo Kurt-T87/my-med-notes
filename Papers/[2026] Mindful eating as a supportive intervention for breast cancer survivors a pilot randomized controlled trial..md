@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-11-01"
 doi: "10.1007/s12282-026-01917-5"
 pmid: 42801445
-zotero_link: "zotero://select/items/0_VNTC4NSC"
+zotero_link: "zotero://select/items/0_6DB88SKA"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Mindful eating as a supportive intervention for breast cancer survivors: a pilot randomized controlled trial.
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-11-01 | **PMID**: 42801445
 - **DOI**: [10.1007/s12282-026-01917-5](https://doi.org/10.1007/s12282-026-01917-5)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VNTC4NSC)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_6DB88SKA)
 
 
 > [!warning] Gemini 解析失败

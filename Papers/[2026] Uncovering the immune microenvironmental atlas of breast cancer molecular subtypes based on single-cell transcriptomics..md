@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.1371/journal.pone.0361987"
 pmid: 42993740
-zotero_link: "zotero://select/items/0_QZGTF7RF"
+zotero_link: "zotero://select/items/0_GKMXE6RM"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Uncovering the immune microenvironmental atlas of breast cancer molecular subtypes based on single-cell transcriptomics.
 - **Journal**: PloS one (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42993740
 - **DOI**: [10.1371/journal.pone.0361987](https://doi.org/10.1371/journal.pone.0361987)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_QZGTF7RF)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_GKMXE6RM)
 
 
 > [!warning] Gemini 解析失败

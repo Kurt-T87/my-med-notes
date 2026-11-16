@@ -5,15 +5,15 @@ if: 56.7
 published: "2026-11-01"
 doi: "10.1016/j.annonc.2026.08.002"
 pmid: 42636977
-zotero_link: "zotero://select/items/0_IFXDT2D3"
+zotero_link: "zotero://select/items/0_2KRXATBS"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Sustained benefit of adjuvant olaparib in women with germline BRCA1- and BRCA2-associated high-risk HER2-negative early breast cancer: updated results from the OlympiA phase III trial.
 - **Journal**: Annals of oncology : official journal of the European Society for Medical Oncology (**IF: 56.7**)
 - **Published**: 2026-11-01 | **PMID**: 42636977
 - **DOI**: [10.1016/j.annonc.2026.08.002](https://doi.org/10.1016/j.annonc.2026.08.002)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_IFXDT2D3)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_2KRXATBS)
 
 
 > [!warning] Gemini 解析失败

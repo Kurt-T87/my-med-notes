@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-11-03"
 doi: "10.1007/s10549-026-08085-2"
 pmid: 42975747
-zotero_link: "zotero://select/items/0_D8QN8RGR"
+zotero_link: "zotero://select/items/0_X8QTHPHD"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Brain as a site of first recurrence after adjuvant therapy for early breast cancer: mining the hellenic cooperative oncology group database-The BRACE study.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-11-03 | **PMID**: 42975747
 - **DOI**: [10.1007/s10549-026-08085-2](https://doi.org/10.1007/s10549-026-08085-2)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_D8QN8RGR)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_X8QTHPHD)
 
 
 > [!warning] Gemini 解析失败

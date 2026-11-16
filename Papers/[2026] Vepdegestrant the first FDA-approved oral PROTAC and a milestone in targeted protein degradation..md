@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-11-01"
 doi: "10.1007/s00044-026-03622-6"
 pmid: 42820956
-zotero_link: "zotero://select/items/0_7WA8MREN"
+zotero_link: "zotero://select/items/0_FWTB533T"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Vepdegestrant: the first FDA-approved oral PROTAC and a milestone in targeted protein degradation.
 - **Journal**: Medicinal chemistry research : an international journal for rapid communications on design and mechanisms of action of biologically active agents (**IF: 12.8**)
 - **Published**: 2026-11-01 | **PMID**: 42820956
 - **DOI**: [10.1007/s00044-026-03622-6](https://doi.org/10.1007/s00044-026-03622-6)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_7WA8MREN)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_FWTB533T)
 
 
 > [!warning] Gemini 解析失败

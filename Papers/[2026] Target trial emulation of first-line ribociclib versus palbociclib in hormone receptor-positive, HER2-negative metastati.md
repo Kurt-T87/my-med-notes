@@ -5,15 +5,15 @@ if: 7.9
 published: "2026-11-01"
 doi: "10.1007/s12282-026-01921-9"
 pmid: 42836919
-zotero_link: "zotero://select/items/0_W6MKWHEI"
+zotero_link: "zotero://select/items/0_46ZWHZBS"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Target trial emulation of first-line ribociclib versus palbociclib in hormone receptor-positive, HER2-negative metastatic breast cancer: a comparative effectiveness study.
 - **Journal**: Breast cancer (Tokyo, Japan) (**IF: 7.9**)
 - **Published**: 2026-11-01 | **PMID**: 42836919
 - **DOI**: [10.1007/s12282-026-01921-9](https://doi.org/10.1007/s12282-026-01921-9)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_W6MKWHEI)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_46ZWHZBS)
 
 
 > [!warning] Gemini 解析失败

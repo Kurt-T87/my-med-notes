@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-11-02"
 doi: "10.1021/acsabm.6c01549"
 pmid: 42896504
-zotero_link: "zotero://select/items/0_PK9ZUEX6"
+zotero_link: "zotero://select/items/0_8T8JP48J"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Nanotechnology-Based Theranostic Strategies for Triple-Negative Breast Cancer.
 - **Journal**: ACS applied bio materials (**IF: Unknown**)
 - **Published**: 2026-11-02 | **PMID**: 42896504
 - **DOI**: [10.1021/acsabm.6c01549](https://doi.org/10.1021/acsabm.6c01549)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_PK9ZUEX6)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8T8JP48J)
 
 
 > [!warning] Gemini 解析失败

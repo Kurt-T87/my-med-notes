@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-11-01"
 doi: "10.1007/s40261-026-01591-7"
 pmid: 42806185
-zotero_link: "zotero://select/items/0_HM3AMRPX"
+zotero_link: "zotero://select/items/0_Q8X2UU9P"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Healthcare Cost Patterns in CDK4/6 Inhibitor-Treated HR+/HER2- Metastatic Breast Cancer.
 - **Journal**: Clinical drug investigation (**IF: Unknown**)
 - **Published**: 2026-11-01 | **PMID**: 42806185
 - **DOI**: [10.1007/s40261-026-01591-7](https://doi.org/10.1007/s40261-026-01591-7)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_HM3AMRPX)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_Q8X2UU9P)
 
 
 > [!warning] Gemini 解析失败

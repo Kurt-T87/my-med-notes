@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-11-01"
 doi: "10.1111/cyt.70117"
 pmid: 42649620
-zotero_link: "zotero://select/items/0_APR738RI"
+zotero_link: "zotero://select/items/0_PJ8PRDTM"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Standardising Immunocytochemistry on Breast Cytology: A Formalin Post-Fixation Protocol Achieves High Concordance With Immunohistochemistry for Oestrogen Receptor, Progesterone Receptor, and Human Epidermal Growth Factor Receptor 2.
 - **Journal**: Cytopathology : official journal of the British Society for Clinical Cytology (**IF: Unknown**)
 - **Published**: 2026-11-01 | **PMID**: 42649620
 - **DOI**: [10.1111/cyt.70117](https://doi.org/10.1111/cyt.70117)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_APR738RI)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_PJ8PRDTM)
 
 
 > [!warning] Gemini 解析失败

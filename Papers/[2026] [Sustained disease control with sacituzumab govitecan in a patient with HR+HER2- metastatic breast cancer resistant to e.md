@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-11-01"
 doi: "10.1701/4802.48291"
 pmid: 42979888
-zotero_link: "zotero://select/items/0_JS8DV73X"
+zotero_link: "zotero://select/items/0_CWGHAB52"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # [Sustained disease control with sacituzumab govitecan in a patient with HR+/HER2- metastatic breast cancer resistant to endocrine therapy, with a high tumour burden and limited benefit from standard chemotherapy.].
 - **Journal**: Recenti progressi in medicina (**IF: 12.8**)
 - **Published**: 2026-11-01 | **PMID**: 42979888
 - **DOI**: [10.1701/4802.48291](https://doi.org/10.1701/4802.48291)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_JS8DV73X)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_CWGHAB52)
 
 
 > [!warning] Gemini 解析失败

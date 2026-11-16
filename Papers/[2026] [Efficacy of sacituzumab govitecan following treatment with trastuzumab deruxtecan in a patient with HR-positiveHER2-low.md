@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-11-01"
 doi: "10.1701/4802.48289"
 pmid: 42979886
-zotero_link: "zotero://select/items/0_8M46FRJU"
+zotero_link: "zotero://select/items/0_UMH86RNR"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # [Efficacy of sacituzumab govitecan following treatment with trastuzumab deruxtecan in a patient with HR-positive/HER2-low metastatic breast cancer.].
 - **Journal**: Recenti progressi in medicina (**IF: 12.8**)
 - **Published**: 2026-11-01 | **PMID**: 42979886
 - **DOI**: [10.1701/4802.48289](https://doi.org/10.1701/4802.48289)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_8M46FRJU)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UMH86RNR)
 
 
 > [!warning] Gemini 解析失败

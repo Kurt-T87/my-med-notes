@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-10-18"
 doi: "10.1007/s10549-026-08106-0"
 pmid: 42894070
-zotero_link: "zotero://select/items/0_UI4M26KG"
+zotero_link: "zotero://select/items/0_PN2DK7JK"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # National trends in dual de-escalation of axillary surgery and adjuvant radiation in early-stage HR+/HER2- breast cancer.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-10-18 | **PMID**: 42894070
 - **DOI**: [10.1007/s10549-026-08106-0](https://doi.org/10.1007/s10549-026-08106-0)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_UI4M26KG)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_PN2DK7JK)
 
 
 > [!warning] Gemini 解析失败

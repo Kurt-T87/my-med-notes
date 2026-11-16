@@ -5,15 +5,15 @@ if: 40.8
 published: "2026-10-20"
 doi: "10.1038/s41392-026-02899-8"
 pmid: 42897132
-zotero_link: "zotero://select/items/0_3K9N3SK9"
+zotero_link: "zotero://select/items/0_MZHAKW5H"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Entinostat plus exemestane for hormone receptor-positive advanced breast cancer: long-term overall survival results from the EOC103A3101 randomized controlled trial.
 - **Journal**: Signal transduction and targeted therapy (**IF: 40.8**)
 - **Published**: 2026-10-20 | **PMID**: 42897132
 - **DOI**: [10.1038/s41392-026-02899-8](https://doi.org/10.1038/s41392-026-02899-8)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_3K9N3SK9)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MZHAKW5H)
 
 
 > [!warning] Gemini 解析失败

@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-01-01"
 doi: "10.2147/DDDT.S637101"
 pmid: 42947686
-zotero_link: "zotero://select/items/0_9RWCRPC3"
+zotero_link: "zotero://select/items/0_QI6UPM5D"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Treatment Outcomes of Patients with Early-Stage Breast Cancer Meeting NATALEE Eligibility Criteria. A Real-World Cohort Study.
 - **Journal**: Drug design, development and therapy (**IF: Unknown**)
 - **Published**: 2026-01-01 | **PMID**: 42947686
 - **DOI**: [10.2147/DDDT.S637101](https://doi.org/10.2147/DDDT.S637101)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_9RWCRPC3)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_QI6UPM5D)
 
 
 > [!warning] Gemini 解析失败

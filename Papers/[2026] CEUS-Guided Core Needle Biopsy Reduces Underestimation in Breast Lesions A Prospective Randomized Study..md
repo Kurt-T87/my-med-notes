@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-11-01"
 doi: "10.1016/j.acra.2026.08.005"
 pmid: 42632761
-zotero_link: "zotero://select/items/0_K8WVZ2QB"
+zotero_link: "zotero://select/items/0_RFBVUXJX"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # CEUS-Guided Core Needle Biopsy Reduces Underestimation in Breast Lesions: A Prospective Randomized Study.
 - **Journal**: Academic radiology (**IF: Unknown**)
 - **Published**: 2026-11-01 | **PMID**: 42632761
 - **DOI**: [10.1016/j.acra.2026.08.005](https://doi.org/10.1016/j.acra.2026.08.005)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_K8WVZ2QB)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_RFBVUXJX)
 
 
 > [!warning] Gemini 解析失败

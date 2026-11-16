@@ -5,15 +5,15 @@ if: 12.8
 published: "2026-11-01"
 doi: "10.1002/cam4.72457"
 pmid: 42998029
-zotero_link: "zotero://select/items/0_XRVJPE2K"
+zotero_link: "zotero://select/items/0_VNQ7RMBG"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Efficacy and Safety of Datopotamab Deruxtecan From a Single-Institution Experience in Hormone Receptor-Positive, HER2-Negative Metastatic Breast Cancer After Multiple Prior Therapies Including Antibody-Drug Conjugates.
 - **Journal**: Cancer medicine (**IF: 12.8**)
 - **Published**: 2026-11-01 | **PMID**: 42998029
 - **DOI**: [10.1002/cam4.72457](https://doi.org/10.1002/cam4.72457)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_XRVJPE2K)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_VNQ7RMBG)
 
 
 > [!warning] Gemini 解析失败

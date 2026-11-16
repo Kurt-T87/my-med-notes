@@ -5,15 +5,15 @@ if: Unknown
 published: "2026-11-01"
 doi: "10.1080/14712598.2026.2743869"
 pmid: 42831394
-zotero_link: "zotero://select/items/0_AVWI329K"
+zotero_link: "zotero://select/items/0_5W6ZRD3N"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # Redefining breast cancer treatment by precision oncology: the clinical impact of sacituzumab govitecan.
 - **Journal**: Expert opinion on biological therapy (**IF: Unknown**)
 - **Published**: 2026-11-01 | **PMID**: 42831394
 - **DOI**: [10.1080/14712598.2026.2743869](https://doi.org/10.1080/14712598.2026.2743869)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_AVWI329K)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_5W6ZRD3N)
 
 
 > [!warning] Gemini 解析失败

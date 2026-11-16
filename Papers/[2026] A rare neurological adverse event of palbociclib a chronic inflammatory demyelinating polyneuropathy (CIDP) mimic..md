@@ -5,15 +5,15 @@ if: 12.5
 published: "2026-11-04"
 doi: "10.1007/s10549-026-08081-6"
 pmid: 42980868
-zotero_link: "zotero://select/items/0_MZZFSAZK"
+zotero_link: "zotero://select/items/0_423HPKKB"
 tags: #BC #HR+HER2- #GeminiAnalyzed
-sync_date: 2026-11-09
+sync_date: 2026-11-16
 ---
 # A rare neurological adverse event of palbociclib: a chronic inflammatory demyelinating polyneuropathy (CIDP) mimic.
 - **Journal**: Breast cancer research and treatment (**IF: 12.5**)
 - **Published**: 2026-11-04 | **PMID**: 42980868
 - **DOI**: [10.1007/s10549-026-08081-6](https://doi.org/10.1007/s10549-026-08081-6)
-- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_MZZFSAZK)
+- **Zotero**: [点击跳转 Zotero 库](zotero://select/items/0_423HPKKB)
 
 
 > [!warning] Gemini 解析失败
